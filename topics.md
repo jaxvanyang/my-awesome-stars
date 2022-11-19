@@ -519,6 +519,7 @@
 
 ## others 
 
+- [plctlab/weloveinterns](https://github.com/plctlab/weloveinterns) - PLCT实验室实习生社区。从机器人联合实验室传承而来。
 - [lazyparser/survival-manual-for-interns](https://github.com/lazyparser/survival-manual-for-interns) - 给新员工和实习生的生存指南。 Good Luck and Survive!
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
