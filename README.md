@@ -196,6 +196,8 @@
 
 ## Others 
 
+- [makotokato/gecko-dev](https://github.com/makotokato/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: http://bit.ly/contribute-code
+- [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
 - [sxqsfun/fcitx5-sogou-themes](https://github.com/sxqsfun/fcitx5-sogou-themes) - 几款 极简风 搜狗皮肤转换的 fcitx5主题😄️😄️😄️
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [resumejob/awesome-resume](https://github.com/resumejob/awesome-resume) - Resume，Resume Templates，程序员简历例句，简历模版，
@@ -229,6 +231,7 @@
 
 ## Python 
 
+- [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
 - [lazyparser/survival-manual-for-interns](https://github.com/lazyparser/survival-manual-for-interns) - 给新员工和实习生的生存指南。 Good Luck and Survive!
 - [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 - [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
