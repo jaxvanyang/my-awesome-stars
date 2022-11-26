@@ -529,6 +529,7 @@
 
 ## others 
 
+- [josean-dev/dev-environment-files](https://github.com/josean-dev/dev-environment-files) - 
 - [archlinux/svntogit-packages](https://github.com/archlinux/svntogit-packages) - Automatic import of svn 'packages' repo (read-only mirror)
 - [carlosedp/riscv-bringup](https://github.com/carlosedp/riscv-bringup) - Risc-V journey thru containers and new projects
 - [CoelacanthusHex/archriscv-scriptlet](https://github.com/CoelacanthusHex/archriscv-scriptlet) - Useful scripts for Arch RISC-V project
