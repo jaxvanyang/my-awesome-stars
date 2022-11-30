@@ -326,7 +326,6 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
-- [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
 - [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Material design for Vue.js
 - [json-c/json-c](https://github.com/json-c/json-c) - https://github.com/json-c/json-c is the official code repository for json-c.  See the wiki for release tarballs for download.  API docs at http://json-c.github.io/json-c/
 - [TeamMidnightDust/MidnightControls](https://github.com/TeamMidnightDust/MidnightControls) - A Minecraft mod adding controller support and enhanced controls overall.
@@ -556,6 +555,7 @@
 
 ## others 
 
+- [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [jimeh/tmux-themepack](https://github.com/jimeh/tmux-themepack) - A pack of various Tmux themes.
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
