@@ -123,6 +123,7 @@
 
 ## Java 
 
+- [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
 - [WangDaYeeeeee/GeometricWeather](https://github.com/WangDaYeeeeee/GeometricWeather) - A Material Design Weather Application
 - [TeamTwilight/twilightforest](https://github.com/TeamTwilight/twilightforest) - Twilight Forest repository
