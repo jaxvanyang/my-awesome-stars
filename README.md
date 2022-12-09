@@ -25,7 +25,6 @@
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
-- [PowerShell](#powershell)
 - [Python](#python)
 - [Roff](#roff)
 - [Ruby](#ruby)
@@ -251,12 +250,9 @@
 
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 
-## PowerShell 
-
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
-
 ## Python 
 
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
