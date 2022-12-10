@@ -330,7 +330,6 @@
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Material design for Vue.js
 - [json-c/json-c](https://github.com/json-c/json-c) - https://github.com/json-c/json-c is the official code repository for json-c.  See the wiki for release tarballs for download.  API docs at http://json-c.github.io/json-c/
-- [TeamMidnightDust/MidnightControls](https://github.com/TeamMidnightDust/MidnightControls) - A Minecraft mod adding controller support and enhanced controls overall.
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [itzg/docker-mc-backup](https://github.com/itzg/docker-mc-backup) - Provides a side-car container to backup itzg/minecraft-server world data
@@ -382,6 +381,7 @@
 
 ## javascript 
 
+- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
@@ -407,6 +407,7 @@
 
 ## js 
 
+- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [LeoRiether/CodeforcesPP](https://github.com/LeoRiether/CodeforcesPP) - Codeforces extension pack
 
 ## json 
@@ -441,6 +442,7 @@
 
 ## linux 
 
+- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
 - [felixonmars/archriscv-packages](https://github.com/felixonmars/archriscv-packages) - Modified Arch Linux packages for archriscv
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
@@ -472,6 +474,7 @@
 
 ## macos 
 
+- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -539,10 +542,12 @@
 
 ## node 
 
+- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 
 ## nodejs 
 
+- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [Liu233w/acm-statistics](https://github.com/Liu233w/acm-statistics) - An online tool (crawler) to analyze users performance in online judges (coding competition websites). Supported OJ: POJ, HDU, HYSBZ, CodeForces, UVA, ICPC Live Archive, FZU, SPOJ, Timus (URAL), LeetCo
@@ -841,6 +846,7 @@
 
 ## windows 
 
+- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
