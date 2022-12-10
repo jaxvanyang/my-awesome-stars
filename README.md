@@ -149,6 +149,7 @@
 
 ## JavaScript 
 
+- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [rajasegar/alacritty-themes](https://github.com/rajasegar/alacritty-themes) - :rainbow: :lollipop: Themes :candy: :heart_eyes: for Alacritty: A cross-platform GPU-accelerated Terminal emulator
 - [GorvGoyl/Notion-Boost-browser-extension](https://github.com/GorvGoyl/Notion-Boost-browser-extension) - Chrome & Firefox extension for Notion to add 20+ features like sticky outline, small text & full width by default, hide comments & help button, bolder text etc. Download here: https://gourav.io/notion
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
