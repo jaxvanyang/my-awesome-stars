@@ -48,6 +48,7 @@
 
 ## C 
 
+- [mit-pdos/xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - Xv6 for RISC-V
 - [nvim-telescope/telescope-fzf-native.nvim](https://github.com/nvim-telescope/telescope-fzf-native.nvim) - FZF sorter for telescope written in c
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [riscv-software-src/opensbi](https://github.com/riscv-software-src/opensbi) - RISC-V Open Source Supervisor Binary Interface
@@ -317,6 +318,7 @@
 
 ## Shell 
 
+- [helaili/jekyll-action](https://github.com/helaili/jekyll-action) - A GitHub Action to publish Jekyll based content as a GitHub Pages site
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [archlinux/svntogit-packages](https://github.com/archlinux/svntogit-packages) - Automatic import of svn 'packages' repo (read-only mirror)
