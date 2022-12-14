@@ -53,6 +53,7 @@
 - [javafx](#javafx)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
+- [jekyll-theme](#jekyll-theme)
 - [js](#js)
 - [json](#json)
 - [kotlin](#kotlin)
@@ -403,6 +404,13 @@
 - [toshimaru/jekyll-toc](https://github.com/toshimaru/jekyll-toc) - Jekyll plugin which generates a table of contents.
 - [jekyll/jekyll-admin](https://github.com/jekyll/jekyll-admin) - A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
 - [JaxVanYang/old.jaxvanyang.github.io](https://github.com/JaxVanYang/old.jaxvanyang.github.io) - 
+- [jekyll/minima](https://github.com/jekyll/minima) - Minima is a one-size-fits-all Jekyll theme for writers.
+
+## jekyll-theme 
+
+- [riggraz/no-style-please](https://github.com/riggraz/no-style-please) - A (nearly) no-CSS, fast, minimalist Jekyll theme.
+- [abhinavs/moonwalk](https://github.com/abhinavs/moonwalk) - A fast & minimal Jekyll blog theme with clean dark mode
+- [jeffreytse/jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat) - 🎨 Yet another theme for elegant writers with modern flat style and beautiful night/dark mode.
 - [jekyll/minima](https://github.com/jekyll/minima) - Minima is a one-size-fits-all Jekyll theme for writers.
 
 ## js 
