@@ -10,6 +10,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [CMake](#cmake)
 - [CSS](#css)
 - [Go](#go)
 - [HLSL](#hlsl)
@@ -84,6 +85,10 @@
 - [GeGeShe/esp8266_csust_yuexiang](https://github.com/GeGeShe/esp8266_csust_yuexiang) - 用ESP8266在不修改APP的情况下破解悦享校园
 - [TheOnlineJudge/ojudge](https://github.com/TheOnlineJudge/ojudge) - OJudge Platform
 
+## CMake 
+
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
+
 ## CSS 
 
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
@@ -151,6 +156,7 @@
 
 ## JavaScript 
 
+- [yorkxin/copy-as-markdown](https://github.com/yorkxin/copy-as-markdown) - Copying Link, Image and Tab(s) as Markdown Much Easier.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [rajasegar/alacritty-themes](https://github.com/rajasegar/alacritty-themes) - :rainbow: :lollipop: Themes :candy: :heart_eyes: for Alacritty: A cross-platform GPU-accelerated Terminal emulator
 - [GorvGoyl/Notion-Boost-browser-extension](https://github.com/GorvGoyl/Notion-Boost-browser-extension) - Chrome & Firefox extension for Notion to add 20+ features like sticky outline, small text & full width by default, hide comments & help button, bolder text etc. Download here: https://gourav.io/notion
@@ -349,7 +355,7 @@
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [zikywang/JD-FreeFuck](https://github.com/zikywang/JD-FreeFuck) - 《JD薅羊毛》一键部署 For Linux
 - [meselson/JD-FreeFuck](https://github.com/meselson/JD-FreeFuck) - 《京东薅羊毛》一键部署脚本
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [DazeCake/onebds](https://github.com/DazeCake/onebds) - 一键部署Minecraft BE bedrock server脚本
 
