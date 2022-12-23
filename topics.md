@@ -346,7 +346,7 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
-- [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Material design for Vue.js
+- [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Vue.js Framework - ready-to-use Vue components with Material Design, free forever.
 - [json-c/json-c](https://github.com/json-c/json-c) - https://github.com/json-c/json-c is the official code repository for json-c.  See the wiki for release tarballs for download.  API docs at http://json-c.github.io/json-c/
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
@@ -404,7 +404,7 @@
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-- [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Material design for Vue.js
+- [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Vue.js Framework - ready-to-use Vue components with Material Design, free forever.
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [jekyll/jekyll-admin](https://github.com/jekyll/jekyll-admin) - A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
@@ -518,7 +518,7 @@
 ## material-design 
 
 - [enricocid/Music-Player-GO](https://github.com/enricocid/Music-Player-GO) - 🎶🎼 Very slim music player 👨‍🎤 100% made in Italy 🍕🌳🌞🍝🌄
-- [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Material design for Vue.js
+- [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Vue.js Framework - ready-to-use Vue components with Material Design, free forever.
 - [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - This is a copy of Reeder, in order to give Android an RSS reader similar to Reeder, combines the interaction logic of Reeder with the design style of Material Design 3 (You).
 
 ## matlab 
@@ -886,7 +886,7 @@
 
 ## vue 
 
-- [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Material design for Vue.js
+- [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Vue.js Framework - ready-to-use Vue components with Material Design, free forever.
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [Liu233w/acm-statistics](https://github.com/Liu233w/acm-statistics) - An online tool (crawler) to analyze users performance in online judges (coding competition websites). Supported OJ: POJ, HDU, HYSBZ, CodeForces, UVA, ICPC Live Archive, FZU, SPOJ, Timus (URAL), LeetCo
 - [jsososo/NeteaseMusic](https://github.com/jsososo/NeteaseMusic) - 网易云音乐 & QQ音乐 & 咪咕音乐 第三方 web端 (可播放 vip、下架歌曲)
