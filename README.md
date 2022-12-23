@@ -407,7 +407,7 @@
 ## Vue 
 
 - [kkeisuke/plantuml-editor2](https://github.com/kkeisuke/plantuml-editor2) - PlantUML online demo client / Vue3 in Vite
-- [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Material design for Vue.js
+- [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Vue.js Framework - ready-to-use Vue components with Material Design, free forever.
 - [simple-uploader/vue-uploader](https://github.com/simple-uploader/vue-uploader) - A Vue.js upload component powered by simple-uploader.js
 - [lrfbeyond/fast-uploader](https://github.com/lrfbeyond/fast-uploader) - Some things about files upload quickly.
 - [liaxiufeng/cloudbox](https://github.com/liaxiufeng/cloudbox) - 网盘前端（vue）
