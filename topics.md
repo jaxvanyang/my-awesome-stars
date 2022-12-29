@@ -613,6 +613,7 @@
 
 ## others 
 
+- [ludeeus/action-shellcheck](https://github.com/ludeeus/action-shellcheck) - GitHub action for ShellCheck.
 - [qjebbs/vscode-plantuml](https://github.com/qjebbs/vscode-plantuml) - Rich PlantUML support for Visual Studio Code.
 - [Drakemor/RedDress-PlantUML](https://github.com/Drakemor/RedDress-PlantUML) - Stylesheets for PlantUML
 - [yfuruyama/real-world-plantuml](https://github.com/yfuruyama/real-world-plantuml) - Source code of https://real-world-plantuml.com/
