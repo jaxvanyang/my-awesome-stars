@@ -49,6 +49,7 @@
 
 ## C 
 
+- [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [Dav1dde/glad](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
 - [mit-pdos/xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - Xv6 for RISC-V
 - [nvim-telescope/telescope-fzf-native.nvim](https://github.com/nvim-telescope/telescope-fzf-native.nvim) - FZF sorter for telescope written in c
@@ -71,6 +72,7 @@
 
 ## C++ 
 
+- [paroj/gltut](https://github.com/paroj/gltut) - Learning Modern 3D Graphics Programming
 - [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [cmu-db/bustub](https://github.com/cmu-db/bustub) - The BusTub Relational Database Management System (Educational)
 - [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
@@ -99,6 +101,7 @@
 
 ## Go 
 
+- [userstyles-world/userstyles.world](https://github.com/userstyles-world/userstyles.world) - ⭐ Website to browse and share UserCSS userstyles.  A modern replacement for UserStyles.org made by the userstyles community.
 - [yfuruyama/real-world-plantuml](https://github.com/yfuruyama/real-world-plantuml) - Source code of https://real-world-plantuml.com/
 - [alecthw/mmdb_china_ip_list](https://github.com/alecthw/mmdb_china_ip_list) - Geoip MaxMind Database for china ip list! This is also an example of generating  MaxMind Database!
 - [jimeh/tmux-themepack](https://github.com/jimeh/tmux-themepack) - A pack of various Tmux themes.
@@ -113,6 +116,7 @@
 
 ## HTML 
 
+- [NicolBolas/NicolBolas.github.io](https://github.com/NicolBolas/NicolBolas.github.io) - 
 - [plctlab/weloveinterns](https://github.com/plctlab/weloveinterns) - PLCT实验室实习生社区。从机器人联合实验室传承而来。
 - [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
@@ -160,6 +164,7 @@
 
 ## JavaScript 
 
+- [bit101/CodingMath](https://github.com/bit101/CodingMath) - 
 - [dscalzi/HeliosLauncher](https://github.com/dscalzi/HeliosLauncher) - ☀ Custom launcher for modded minecraft written in Electron and Node.js
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 - [yorkxin/copy-as-markdown](https://github.com/yorkxin/copy-as-markdown) - Copying Link, Image and Tab(s) as Markdown Much Easier.
