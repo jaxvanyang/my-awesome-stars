@@ -618,6 +618,7 @@
 
 ## others 
 
+- [raspberrypi/rpi-imager](https://github.com/raspberrypi/rpi-imager) - 
 - [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
 - [bit101/CodingMath](https://github.com/bit101/CodingMath) - 
 - [userstyles-world/userstyles.world](https://github.com/userstyles-world/userstyles.world) - ⭐ Website to browse and share UserCSS userstyles.  A modern replacement for UserStyles.org made by the userstyles community.
