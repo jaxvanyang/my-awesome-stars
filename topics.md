@@ -632,6 +632,9 @@
 
 ## others 
 
+- [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
+- [cnlohr/mini-rv32ima](https://github.com/cnlohr/mini-rv32ima) - A tiny C header-only risc-v emulator.
+- [riscv-software-src/riscv-angel](https://github.com/riscv-software-src/riscv-angel) - JavaScript RISC-V ISA Simulator. Boots linux in a web-browser.
 - [JaxVanYang/dotfiles](https://github.com/JaxVanYang/dotfiles) - 🔧 Not only my development environment and configs, but also a solution of management.
 - [tobexyz/yaacc-code](https://github.com/tobexyz/yaacc-code) - 
 - [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
