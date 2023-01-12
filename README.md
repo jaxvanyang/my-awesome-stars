@@ -49,6 +49,7 @@
 
 ## C 
 
+- [cnlohr/mini-rv32ima](https://github.com/cnlohr/mini-rv32ima) - A tiny C header-only risc-v emulator.
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPUs process monitoring for AMD, Intel and NVIDIA
 - [nowrep/obs-vkcapture](https://github.com/nowrep/obs-vkcapture) - OBS Linux Vulkan/OpenGL game capture
 - [glmark2/glmark2](https://github.com/glmark2/glmark2) - glmark2 is an OpenGL 2.0 and ES 2.0 benchmark
@@ -184,6 +185,7 @@
 
 ## JavaScript 
 
+- [riscv-software-src/riscv-angel](https://github.com/riscv-software-src/riscv-angel) - JavaScript RISC-V ISA Simulator. Boots linux in a web-browser.
 - [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [bit101/CodingMath](https://github.com/bit101/CodingMath) - 
@@ -259,6 +261,7 @@
 
 ## Others 
 
+- [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
 - [brannondorsey/wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
 - [Drakemor/RedDress-PlantUML](https://github.com/Drakemor/RedDress-PlantUML) - Stylesheets for PlantUML
 - [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
