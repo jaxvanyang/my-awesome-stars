@@ -341,8 +341,9 @@
 
 ## Ruby 
 
+- [Shopify/liquid](https://github.com/Shopify/liquid) - Liquid markup language. Safe, customer facing template language for flexible web apps.
 - [jeffreytse/jekyll-spaceship](https://github.com/jeffreytse/jekyll-spaceship) - 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, audio, youtube, vimeo, dailymotion, soundcloud, spotify, etc.
-- [JaxVanYang/jaxvanyang.github.io](https://github.com/JaxVanYang/jaxvanyang.github.io) - Repo for my blog
+- [JaxVanYang/jaxvanyang.github.io](https://github.com/JaxVanYang/jaxvanyang.github.io) - Just Call Me Jax
 - [red-data-tools/jekyll-jupyter-notebook](https://github.com/red-data-tools/jekyll-jupyter-notebook) - Jekyll Jupyter Notebook plugin
 - [jekyll/jemoji](https://github.com/jekyll/jemoji) - GitHub-flavored emoji plugin for Jekyll
 - [toshimaru/jekyll-toc](https://github.com/toshimaru/jekyll-toc) - Jekyll plugin which generates a table of contents.
