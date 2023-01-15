@@ -638,6 +638,7 @@
 
 ## others 
 
+- [Shopify/liquid](https://github.com/Shopify/liquid) - Liquid markup language. Safe, customer facing template language for flexible web apps.
 - [dendibakh/perf-ninja](https://github.com/dendibakh/perf-ninja) - This is an online course where you can learn and master the skill of low-level performance analysis and tuning.
 - [ESEO-Tech/emulsiV](https://github.com/ESEO-Tech/emulsiV) - A visual simulator for teaching computer architecture using the RISC-V instruction set
 - [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
@@ -748,7 +749,7 @@
 - [JaxVanYang/acm](https://github.com/JaxVanYang/acm) - A repo for storing solution codes for competitive programming problems.
 - [Crazyokd/yiban-auto](https://github.com/Crazyokd/yiban-auto) - 易班校本化自动打卡
 - [cheng-pj/samsung](https://github.com/cheng-pj/samsung) - 签到
-- [JaxVanYang/jaxvanyang.github.io](https://github.com/JaxVanYang/jaxvanyang.github.io) - Repo for my blog
+- [JaxVanYang/jaxvanyang.github.io](https://github.com/JaxVanYang/jaxvanyang.github.io) - Just Call Me Jax
 - [visualboyadvance-m/visualboyadvance-m](https://github.com/visualboyadvance-m/visualboyadvance-m) - The continuing development of the legendary VBA gameboy advance emulator.
 - [shanzm/DesignPatterns](https://github.com/shanzm/DesignPatterns) - Design Patterns
 - [red-data-tools/jekyll-jupyter-notebook](https://github.com/red-data-tools/jekyll-jupyter-notebook) - Jekyll Jupyter Notebook plugin
