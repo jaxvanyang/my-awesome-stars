@@ -381,6 +381,7 @@
 
 ## Shell 
 
+- [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles
 - [JaxVanYang/shell-tools](https://github.com/JaxVanYang/shell-tools) - My shell tools that make CLI experience easier.
 - [ludeeus/action-shellcheck](https://github.com/ludeeus/action-shellcheck) - GitHub action for ShellCheck.
 - [helaili/jekyll-action](https://github.com/helaili/jekyll-action) - A GitHub Action to publish Jekyll based content as a GitHub Pages site
