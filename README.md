@@ -26,6 +26,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [Roff](#roff)
 - [Ruby](#ruby)
@@ -49,6 +50,7 @@
 
 ## C 
 
+- [libratbag/libratbag](https://github.com/libratbag/libratbag) - A DBus daemon to configure input devices, mainly high-end and gaming mice
 - [xiaoyifang/goldendict](https://github.com/xiaoyifang/goldendict) - A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, 
 - [cnlohr/mini-rv32ima](https://github.com/cnlohr/mini-rv32ima) - A tiny C header-only risc-v emulator.
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPUs process monitoring for AMD, Intel and NVIDIA
@@ -308,6 +310,11 @@
 ## Perl 
 
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
+
+## PowerShell 
+
+- [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
+- [jenkinsci/docker-inbound-agent](https://github.com/jenkinsci/docker-inbound-agent) - Docker image for a Jenkins agent which can connect to Jenkins using TCP or Websocket protocols
 
 ## Python 
 
