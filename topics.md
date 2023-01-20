@@ -259,6 +259,8 @@
 
 ## docker 
 
+- [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
+- [jenkinsci/docker-inbound-agent](https://github.com/jenkinsci/docker-inbound-agent) - Docker image for a Jenkins agent which can connect to Jenkins using TCP or Websocket protocols
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [Kaiede/Bedrockifier](https://github.com/Kaiede/Bedrockifier) - Command-line tools and Service for Minecraft Servers (Bedrock & Java)
@@ -355,6 +357,9 @@
 
 ## hacktoberfest 
 
+- [libratbag/libratbag](https://github.com/libratbag/libratbag) - A DBus daemon to configure input devices, mainly high-end and gaming mice
+- [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
+- [jenkinsci/docker-inbound-agent](https://github.com/jenkinsci/docker-inbound-agent) - Docker image for a Jenkins agent which can connect to Jenkins using TCP or Websocket protocols
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
