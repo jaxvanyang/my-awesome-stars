@@ -323,6 +323,7 @@
 
 ## Python 
 
+- [libratbag/piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
 - [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) - RISC-V Opcodes
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client in Python / PyGObject
