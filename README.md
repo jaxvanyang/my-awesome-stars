@@ -27,7 +27,6 @@
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
-- [PowerShell](#powershell)
 - [Python](#python)
 - [Roff](#roff)
 - [Ruby](#ruby)
@@ -126,6 +125,7 @@
 
 - [JaxVanYang/riscv64-docker-builder](https://github.com/JaxVanYang/riscv64-docker-builder) - Debian Docker image for working
 - [jenkinsci/docker-ssh-agent](https://github.com/jenkinsci/docker-ssh-agent) - Docker image for Jenkins agents connected over SSH
+- [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
 
 ## Go 
 
@@ -316,10 +316,6 @@
 ## Perl 
 
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
-
-## PowerShell 
-
-- [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
 
 ## Python 
 
