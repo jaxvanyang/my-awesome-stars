@@ -649,6 +649,7 @@
 
 ## others 
 
+- [dendibakh/perf-book](https://github.com/dendibakh/perf-book) - The book "Performance Analysis and Tuning on Modern CPU"
 - [libratbag/piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
 - [jenkinsci/docker-ssh-agent](https://github.com/jenkinsci/docker-ssh-agent) - Docker image for Jenkins agents connected over SSH
 - [riscv-non-isa/riscv-asm-manual](https://github.com/riscv-non-isa/riscv-asm-manual) - RISC-V Assembly Programmer's Manual
