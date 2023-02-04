@@ -358,6 +358,7 @@
 
 ## Ruby 
 
+- [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
 - [five-embeddev/riscv-isa-data](https://github.com/five-embeddev/riscv-isa-data) - Machine readable ISA data
 - [Shopify/liquid](https://github.com/Shopify/liquid) - Liquid markup language. Safe, customer facing template language for flexible web apps.
 - [jeffreytse/jekyll-spaceship](https://github.com/jeffreytse/jekyll-spaceship) - 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, audio, youtube, vimeo, dailymotion, soundcloud, spotify, etc.
@@ -368,6 +369,7 @@
 
 ## Rust 
 
+- [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
 - [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
