@@ -171,7 +171,7 @@
 
 ## Java 
 
-- [tobexyz/yaacc-code](https://github.com/tobexyz/yaacc-code) - 
+- [tobexyz/yaacc-code](https://github.com/tobexyz/yaacc-code) - YAACC - UPNP Client and Server
 - [LWJGL/lwjgl3](https://github.com/LWJGL/lwjgl3) - LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL, Vulkan, bgfx), audio (OpenAL, Opus), parallel computing (OpenCL, CUDA) 
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
