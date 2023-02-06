@@ -670,7 +670,7 @@
 - [cnlohr/mini-rv32ima](https://github.com/cnlohr/mini-rv32ima) - A tiny C header-only risc-v emulator.
 - [riscv-software-src/riscv-angel](https://github.com/riscv-software-src/riscv-angel) - JavaScript RISC-V ISA Simulator. Boots linux in a web-browser.
 - [JaxVanYang/dotfiles](https://github.com/JaxVanYang/dotfiles) - 🔧 Not only my development environment and configs, but also a solution of management.
-- [tobexyz/yaacc-code](https://github.com/tobexyz/yaacc-code) - 
+- [tobexyz/yaacc-code](https://github.com/tobexyz/yaacc-code) - YAACC - UPNP Client and Server
 - [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
 - [microsoft/WSL-DistroLauncher](https://github.com/microsoft/WSL-DistroLauncher) - Sample/reference launcher app for WSL distro Microsoft Store packages.
 - [haad/proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: "user/pass" for 
