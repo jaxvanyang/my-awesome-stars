@@ -63,6 +63,7 @@
 - [language](#language)
 - [latex](#latex)
 - [learning](#learning)
+- [library](#library)
 - [linux](#linux)
 - [lua](#lua)
 - [machine-learning](#machine-learning)
@@ -424,6 +425,7 @@
 
 ## java 
 
+- [GeyserMC/MCProtocolLib](https://github.com/GeyserMC/MCProtocolLib) - A library for communication with a Minecraft client/server.
 - [LWJGL/lwjgl3](https://github.com/LWJGL/lwjgl3) - LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL, Vulkan, bgfx), audio (OpenAL, Opus), parallel computing (OpenCL, CUDA) 
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [TeamTwilight/twilightforest](https://github.com/TeamTwilight/twilightforest) - Twilight Forest repository
@@ -505,8 +507,13 @@
 - [mdn/learning-area](https://github.com/mdn/learning-area) - Github repo for the MDN Learning Area.
 - [dofy/learn-vim](https://github.com/dofy/learn-vim) - Vim 实操教程（Learning Vim）Vim practical tutorial.
 
+## library 
+
+- [GeyserMC/MCProtocolLib](https://github.com/GeyserMC/MCProtocolLib) - A library for communication with a Minecraft client/server.
+
 ## linux 
 
+- [MinecraftServerControl/mscs](https://github.com/MinecraftServerControl/mscs) - Powerful command-line control for UNIX and Linux powered Minecraft servers
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPUs process monitoring for AMD, Intel and NVIDIA
 - [nowrep/obs-vkcapture](https://github.com/nowrep/obs-vkcapture) - OBS Linux Vulkan/OpenGL game capture
 - [glmark2/glmark2](https://github.com/glmark2/glmark2) - glmark2 is an OpenGL 2.0 and ES 2.0 benchmark
@@ -571,6 +578,8 @@
 
 ## minecraft 
 
+- [MinecraftServerControl/mscs](https://github.com/MinecraftServerControl/mscs) - Powerful command-line control for UNIX and Linux powered Minecraft servers
+- [GeyserMC/MCProtocolLib](https://github.com/GeyserMC/MCProtocolLib) - A library for communication with a Minecraft client/server.
 - [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [mindstorm38/portablemc](https://github.com/mindstorm38/portablemc) - An easy-to-use Python CLI Minecraft launcher! Compatible with official Minecraft launcher and provides many official add-ons.
 - [dscalzi/HeliosLauncher](https://github.com/dscalzi/HeliosLauncher) - ☀ Custom launcher for modded minecraft written in Electron and Node.js
@@ -916,10 +925,12 @@
 
 ## server 
 
+- [MinecraftServerControl/mscs](https://github.com/MinecraftServerControl/mscs) - Powerful command-line control for UNIX and Linux powered Minecraft servers
 - [spl0k/supysonic](https://github.com/spl0k/supysonic) - Supysonic is a Python implementation of the Subsonic server API.
 
 ## shell 
 
+- [MinecraftServerControl/mscs](https://github.com/MinecraftServerControl/mscs) - Powerful command-line control for UNIX and Linux powered Minecraft servers
 - [JaxVanYang/shell-tools](https://github.com/JaxVanYang/shell-tools) - My shell tools that make CLI experience easier.
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Color Scheme for your Terminal
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
