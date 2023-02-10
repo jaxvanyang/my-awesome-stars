@@ -172,6 +172,7 @@
 
 ## Java 
 
+- [GeyserMC/MCProtocolLib](https://github.com/GeyserMC/MCProtocolLib) - A library for communication with a Minecraft client/server.
 - [tobexyz/yaacc-code](https://github.com/tobexyz/yaacc-code) - YAACC - UPNP Client and Server
 - [LWJGL/lwjgl3](https://github.com/LWJGL/lwjgl3) - LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL, Vulkan, bgfx), audio (OpenAL, Opus), parallel computing (OpenCL, CUDA) 
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
@@ -396,6 +397,7 @@
 
 ## Shell 
 
+- [MinecraftServerControl/mscs](https://github.com/MinecraftServerControl/mscs) - Powerful command-line control for UNIX and Linux powered Minecraft servers
 - [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles
 - [JaxVanYang/shell-tools](https://github.com/JaxVanYang/shell-tools) - My shell tools that make CLI experience easier.
 - [ludeeus/action-shellcheck](https://github.com/ludeeus/action-shellcheck) - GitHub action for ShellCheck.
