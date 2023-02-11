@@ -202,6 +202,7 @@
 
 ## JavaScript 
 
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 - [ESEO-Tech/emulsiV](https://github.com/ESEO-Tech/emulsiV) - A visual simulator for teaching computer architecture using the RISC-V instruction set
 - [riscv-software-src/riscv-angel](https://github.com/riscv-software-src/riscv-angel) - JavaScript RISC-V ISA Simulator. Boots linux in a web-browser.
@@ -323,6 +324,7 @@
 
 ## Python 
 
+- [masmu/pulseaudio-dlna](https://github.com/masmu/pulseaudio-dlna) - A lightweight streaming server which brings DLNA / UPNP and Chromecast support to PulseAudio and Linux
 - [libratbag/piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
 - [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) - RISC-V Opcodes
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
