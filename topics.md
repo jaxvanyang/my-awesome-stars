@@ -811,7 +811,7 @@
 - [jekyll/jemoji](https://github.com/jekyll/jemoji) - GitHub-flavored emoji plugin for Jekyll
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [abbodi1406/offlineinsiderenroll](https://github.com/abbodi1406/offlineinsiderenroll) - OfflineInsiderEnroll - A script to enable access to the Windows Insider Program on machines not signed in with Microsoft Account
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to Python, JavaScript, Java, C#, PHP, Go, Dart, R, Ruby, Rust, MATLAB, Elixir, CFML, Ansible or JSON
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to code
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [oevery/ninja](https://github.com/oevery/ninja) - 
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
@@ -864,6 +864,7 @@
 
 ## python 
 
+- [Stunkymonkey/nautilus-open-any-terminal](https://github.com/Stunkymonkey/nautilus-open-any-terminal) - 
 - [Dav1dde/glad](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
 - [mindstorm38/portablemc](https://github.com/mindstorm38/portablemc) - An easy-to-use Python CLI Minecraft launcher! Compatible with official Minecraft launcher and provides many official add-ons.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
