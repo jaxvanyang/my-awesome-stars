@@ -324,6 +324,7 @@
 
 ## Python 
 
+- [Stunkymonkey/nautilus-open-any-terminal](https://github.com/Stunkymonkey/nautilus-open-any-terminal) - 
 - [masmu/pulseaudio-dlna](https://github.com/masmu/pulseaudio-dlna) - A lightweight streaming server which brings DLNA / UPNP and Chromecast support to PulseAudio and Linux
 - [libratbag/piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
 - [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) - RISC-V Opcodes
@@ -465,7 +466,7 @@
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [daniel-sc/bash-shell-to-bat-converter](https://github.com/daniel-sc/bash-shell-to-bat-converter) - Converter for bash shell scripts to windows batch files.
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to Python, JavaScript, Java, C#, PHP, Go, Dart, R, Ruby, Rust, MATLAB, Elixir, CFML, Ansible or JSON
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to code
 - [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
