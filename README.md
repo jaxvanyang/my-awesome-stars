@@ -172,6 +172,8 @@
 
 ## Java 
 
+- [cinit/QAuxiliary](https://github.com/cinit/QAuxiliary) - QNotified phoenix - To make OICQ great again
+- [ferredoxin/QNotified](https://github.com/ferredoxin/QNotified) - 一个旨在使QQ变得更好用的开源Xposed模块
 - [GeyserMC/MCProtocolLib](https://github.com/GeyserMC/MCProtocolLib) - A library for communication with a Minecraft client/server.
 - [tobexyz/yaacc-code](https://github.com/tobexyz/yaacc-code) - YAACC - UPNP Client and Server
 - [LWJGL/lwjgl3](https://github.com/LWJGL/lwjgl3) - LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL, Vulkan, bgfx), audio (OpenAL, Opus), parallel computing (OpenCL, CUDA) 
@@ -324,6 +326,7 @@
 
 ## Python 
 
+- [nhubaotruong/league-of-legends-linux-garena-script](https://github.com/nhubaotruong/league-of-legends-linux-garena-script) - 
 - [Stunkymonkey/nautilus-open-any-terminal](https://github.com/Stunkymonkey/nautilus-open-any-terminal) - 
 - [masmu/pulseaudio-dlna](https://github.com/masmu/pulseaudio-dlna) - A lightweight streaming server which brings DLNA / UPNP and Chromecast support to PulseAudio and Linux
 - [libratbag/piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
@@ -400,6 +403,7 @@
 
 ## Shell 
 
+- [Winetricks/winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
 - [MinecraftServerControl/mscs](https://github.com/MinecraftServerControl/mscs) - Powerful command-line control for UNIX and Linux powered Minecraft servers
 - [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles
 - [JaxVanYang/shell-tools](https://github.com/JaxVanYang/shell-tools) - My shell tools that make CLI experience easier.
