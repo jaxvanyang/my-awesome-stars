@@ -50,6 +50,7 @@
 
 ## C 
 
+- [kdlucas/byte-unixbench](https://github.com/kdlucas/byte-unixbench) - Automatically exported from code.google.com/p/byte-unixbench
 - [springzfx/cgproxy](https://github.com/springzfx/cgproxy) - Transparent Proxy with cgroup v2。透明代理，配合v2ray/Qv2ray食用最佳
 - [libratbag/libratbag](https://github.com/libratbag/libratbag) - A DBus daemon to configure input devices, mainly high-end and gaming mice
 - [xiaoyifang/goldendict](https://github.com/xiaoyifang/goldendict) - A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, 
@@ -105,7 +106,7 @@
 - [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
 - [rizsotto/Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
 - [CHN-beta/sougou-dict](https://github.com/CHN-beta/sougou-dict) - 
-- [JaxVanYang/acm](https://github.com/JaxVanYang/acm) - A repo for storing solution codes for competitive programming problems.
+- [jaxvanyang/acm](https://github.com/jaxvanyang/acm) - A repo for storing solution codes for competitive programming problems.
 - [visualboyadvance-m/visualboyadvance-m](https://github.com/visualboyadvance-m/visualboyadvance-m) - The continuing development of the legendary VBA gameboy advance emulator.
 - [MikeMirzayanov/testlib](https://github.com/MikeMirzayanov/testlib) - C++ library to develop competitive programming problems
 - [Crazyokd/RKCG](https://github.com/Crazyokd/RKCG) - 计算机图形学课程的相关实践
@@ -128,12 +129,13 @@
 
 ## Dockerfile 
 
-- [JaxVanYang/riscv64-docker-builder](https://github.com/JaxVanYang/riscv64-docker-builder) - Debian Docker image for working
+- [jaxvanyang/riscv64-docker-builder](https://github.com/jaxvanyang/riscv64-docker-builder) - Debian Docker image for working
 - [jenkinsci/docker-ssh-agent](https://github.com/jenkinsci/docker-ssh-agent) - Docker image for Jenkins agents connected over SSH
 - [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
 
 ## Go 
 
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
@@ -166,9 +168,9 @@
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [jeffreytse/jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat) - 🎨 Yet another theme for elegant writers with modern flat style and beautiful night/dark mode.
 - [cheng-pj/samsung](https://github.com/cheng-pj/samsung) - 签到
-- [JaxVanYang/lang-study](https://github.com/JaxVanYang/lang-study) - A repository used to learn several language
+- [jaxvanyang/lang-study](https://github.com/jaxvanyang/lang-study) - A repository used to learn several language
 - [me115/linuxtools_rst](https://github.com/me115/linuxtools_rst) - Linux工具快速教程
-- [JaxVanYang/old.jaxvanyang.github.io](https://github.com/JaxVanYang/old.jaxvanyang.github.io) - 
+- [jaxvanyang/old.jaxvanyang.github.io](https://github.com/jaxvanyang/old.jaxvanyang.github.io) - 
 
 ## Haskell 
 
@@ -260,7 +262,7 @@
 
 ## Lua 
 
-- [JaxVanYang/dotfiles](https://github.com/JaxVanYang/dotfiles) - 🔧 Not only my development environment and configs, but also a solution of management.
+- [jaxvanyang/dotfiles](https://github.com/jaxvanyang/dotfiles) - 🔧 Not only my development environment and configs, but also a solution of management.
 - [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [jay-babu/mason-null-ls.nvim](https://github.com/jay-babu/mason-null-ls.nvim) - 
 - [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - neovim lsp plugin
@@ -334,6 +336,7 @@
 
 ## Python 
 
+- [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
 - [nhubaotruong/league-of-legends-linux-garena-script](https://github.com/nhubaotruong/league-of-legends-linux-garena-script) - 
 - [Stunkymonkey/nautilus-open-any-terminal](https://github.com/Stunkymonkey/nautilus-open-any-terminal) - 
 - [masmu/pulseaudio-dlna](https://github.com/masmu/pulseaudio-dlna) - A lightweight streaming server which brings DLNA / UPNP and Chromecast support to PulseAudio and Linux
@@ -379,13 +382,15 @@
 - [five-embeddev/riscv-isa-data](https://github.com/five-embeddev/riscv-isa-data) - Machine readable ISA data
 - [Shopify/liquid](https://github.com/Shopify/liquid) - Liquid markup language. Safe, customer facing template language for flexible web apps.
 - [jeffreytse/jekyll-spaceship](https://github.com/jeffreytse/jekyll-spaceship) - 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, audio, youtube, vimeo, dailymotion, soundcloud, spotify, etc.
-- [JaxVanYang/jaxvanyang.github.io](https://github.com/JaxVanYang/jaxvanyang.github.io) - Just Call Me Jax
+- [jaxvanyang/jaxvanyang.github.io](https://github.com/jaxvanyang/jaxvanyang.github.io) - Just Call Me Jax
 - [red-data-tools/jekyll-jupyter-notebook](https://github.com/red-data-tools/jekyll-jupyter-notebook) - Jekyll Jupyter Notebook plugin
 - [jekyll/jemoji](https://github.com/jekyll/jemoji) - GitHub-flavored emoji plugin for Jekyll
 - [toshimaru/jekyll-toc](https://github.com/toshimaru/jekyll-toc) - Jekyll plugin which generates a table of contents.
 
 ## Rust 
 
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
 - [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
@@ -411,10 +416,11 @@
 
 ## Shell 
 
+- [zimfw/archive](https://github.com/zimfw/archive) - Provides functions for easy archive manipulation.
 - [Winetricks/winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
 - [MinecraftServerControl/mscs](https://github.com/MinecraftServerControl/mscs) - Powerful command-line control for UNIX and Linux powered Minecraft servers
 - [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles
-- [JaxVanYang/shell-tools](https://github.com/JaxVanYang/shell-tools) - My shell tools that make CLI experience easier.
+- [jaxvanyang/shell-tools](https://github.com/jaxvanyang/shell-tools) - My shell tools that make CLI experience easier.
 - [ludeeus/action-shellcheck](https://github.com/ludeeus/action-shellcheck) - GitHub action for ShellCheck.
 - [helaili/jekyll-action](https://github.com/helaili/jekyll-action) - A GitHub Action to publish Jekyll based content as a GitHub Pages site
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
@@ -429,7 +435,7 @@
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Color Scheme for your Terminal
 - [agkozak/zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited "frecently." A native Zsh port of z.sh with added features.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
-- [JaxVanYang/termux.init](https://github.com/JaxVanYang/termux.init) - Set up your Termux on the fly.
+- [jaxvanyang/termux.init](https://github.com/jaxvanyang/termux.init) - Set up your Termux on the fly.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [Cabbagec/termux-ohmyzsh](https://github.com/Cabbagec/termux-ohmyzsh) - Colorize your termux! Oh-my-zsh included!
 - [Magisk-Modules-Repo/wifi-bonding](https://github.com/Magisk-Modules-Repo/wifi-bonding) - Double your bandwith on your Qualcomm devices.
@@ -507,5 +513,5 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [JaxVanYang](https://github.com/JaxVanYang) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [jaxvanyang](https://github.com/jaxvanyang) has waived all copyright and related or neighboring rights to this work.
 
