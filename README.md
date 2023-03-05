@@ -506,6 +506,7 @@
 
 ## Vue 
 
+- [WebChatting/chatting-vue](https://github.com/WebChatting/chatting-vue) - The frontend of chatting, implementation with vue.
 - [kkeisuke/plantuml-editor2](https://github.com/kkeisuke/plantuml-editor2) - PlantUML online demo client / Vue3 in Vite
 - [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Vue.js Framework - ready-to-use Vue components with Material Design, free forever.
 - [simple-uploader/vue-uploader](https://github.com/simple-uploader/vue-uploader) - A Vue.js upload component powered by simple-uploader.js
