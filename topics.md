@@ -71,6 +71,7 @@
 - [library](#library)
 - [linux](#linux)
 - [lua](#lua)
+- [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
@@ -594,6 +595,12 @@
 - [nshen/learn-neovim-lua](https://github.com/nshen/learn-neovim-lua) - Neovim 配置实战：从 0 到 1 打造自己的 IDE
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
+## mac 
+
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
+
 ## machine-learning 
 
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
@@ -713,6 +720,7 @@
 
 ## others 
 
+- [WebChatting/chatting-vue](https://github.com/WebChatting/chatting-vue) - The frontend of chatting, implementation with vue.
 - [ChineseSubFinder/ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder) - 自动化中文字幕下载。字幕网站支持 shooter、xunlei、arrst、a4k 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM
 - [zimfw/archive](https://github.com/zimfw/archive) - Provides functions for easy archive manipulation.
 - [kdlucas/byte-unixbench](https://github.com/kdlucas/byte-unixbench) - Automatically exported from code.google.com/p/byte-unixbench
