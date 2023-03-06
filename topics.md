@@ -720,6 +720,7 @@
 
 ## others 
 
+- [cozy/cozy-stack](https://github.com/cozy/cozy-stack) - Simple, Versatile, Yours
 - [WebChatting/chatting-vue](https://github.com/WebChatting/chatting-vue) - The frontend of chatting, implementation with vue.
 - [ChineseSubFinder/ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder) - 自动化中文字幕下载。字幕网站支持 shooter、xunlei、arrst、a4k 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM
 - [zimfw/archive](https://github.com/zimfw/archive) - Provides functions for easy archive manipulation.
