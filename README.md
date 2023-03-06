@@ -138,6 +138,7 @@
 
 ## Go 
 
+- [cozy/cozy-stack](https://github.com/cozy/cozy-stack) - Simple, Versatile, Yours
 - [ChineseSubFinder/ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder) - 自动化中文字幕下载。字幕网站支持 shooter、xunlei、arrst、a4k 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
