@@ -216,6 +216,7 @@
 
 ## JavaScript 
 
+- [SabakiHQ/Sabaki](https://github.com/SabakiHQ/Sabaki) - An elegant Go board and SGF editor for a more civilized age.
 - [keyi6/webvpn4dut](https://github.com/keyi6/webvpn4dut) - extended web vpn for DUT
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [Doube-Suzerain/Oh-my-angel](https://github.com/Doube-Suzerain/Oh-my-angel) - 
