@@ -484,6 +484,7 @@
 
 ## TeX 
 
+- [CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn) - A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
 - [zb-zombie/A-CSUST-Bachelor-thesis-template-based-on-LaTeX-system](https://github.com/zb-zombie/A-CSUST-Bachelor-thesis-template-based-on-LaTeX-system) - 长沙理工大学本科生毕业论文 LaTeX 模板、毕业答辩幻灯片 Beamer 模板。
 - [dendibakh/perf-book](https://github.com/dendibakh/perf-book) - The book "Performance Analysis and Tuning on Modern CPU"
 - [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) - RISC-V Instruction Set Manual
