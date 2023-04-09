@@ -51,6 +51,7 @@
 
 ## C 
 
+- [ksco/rvemu](https://github.com/ksco/rvemu) - A simple and fast RISC-V JIT emulator.
 - [OpenPrinting/cups](https://github.com/OpenPrinting/cups) - OpenPrinting CUPS Sources
 - [kdlucas/byte-unixbench](https://github.com/kdlucas/byte-unixbench) - Automatically exported from code.google.com/p/byte-unixbench
 - [springzfx/cgproxy](https://github.com/springzfx/cgproxy) - Transparent Proxy with cgroup v2。透明代理，配合v2ray/Qv2ray食用最佳
