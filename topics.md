@@ -287,13 +287,15 @@
 
 ## devops 
 
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 
 ## docker 
 
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
-- [jaxvanyang/riscv64-docker-builder](https://github.com/jaxvanyang/riscv64-docker-builder) - Debian Docker image for working
+- [jaxvanyang/riscv64-docker-builder](https://github.com/jaxvanyang/riscv64-docker-builder) - Ubuntu Docker image for Jenkins SSH agent
 - [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
@@ -554,6 +556,7 @@
 
 ## kubernetes 
 
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 
 ## language 
@@ -577,6 +580,7 @@
 
 ## linux 
 
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
 - [ValveSoftware/steam-for-linux](https://github.com/ValveSoftware/steam-for-linux) - Issue tracking for the Steam for Linux beta client
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [SabakiHQ/Sabaki](https://github.com/SabakiHQ/Sabaki) - An elegant Go board and SGF editor for a more civilized age.
@@ -754,6 +758,7 @@
 
 ## others 
 
+- [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
 - [ksco/rvemu](https://github.com/ksco/rvemu) - A simple and fast RISC-V JIT emulator.
 - [skywind3000/ECDICT](https://github.com/skywind3000/ECDICT) - Free English to Chinese Dictionary Database
 - [Kr328/clash-multiplatform-compat](https://github.com/Kr328/clash-multiplatform-compat) - 
@@ -1112,7 +1117,7 @@
 
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
 - [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
-- [jaxvanyang/riscv64-docker-builder](https://github.com/jaxvanyang/riscv64-docker-builder) - Debian Docker image for working
+- [jaxvanyang/riscv64-docker-builder](https://github.com/jaxvanyang/riscv64-docker-builder) - Ubuntu Docker image for Jenkins SSH agent
 
 ## vim 
 
