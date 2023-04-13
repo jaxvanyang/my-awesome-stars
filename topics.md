@@ -773,7 +773,6 @@
 - [keyi6/webvpn4dut](https://github.com/keyi6/webvpn4dut) - extended web vpn for DUT
 - [zb-zombie/A-CSUST-Bachelor-thesis-template-based-on-LaTeX-system](https://github.com/zb-zombie/A-CSUST-Bachelor-thesis-template-based-on-LaTeX-system) - 长沙理工大学本科生毕业论文 LaTeX 模板、毕业答辩幻灯片 Beamer 模板。
 - [cozy/cozy-stack](https://github.com/cozy/cozy-stack) - Simple, Versatile, Yours
-- [WebChatting/chatting-vue](https://github.com/WebChatting/chatting-vue) - The frontend of chatting, implementation with vue.
 - [ChineseSubFinder/ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder) - 自动化中文字幕下载。字幕网站支持 shooter、xunlei、arrst、a4k、SubtitleBest 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM
 - [zimfw/archive](https://github.com/zimfw/archive) - Provides functions for easy archive manipulation.
 - [kdlucas/byte-unixbench](https://github.com/kdlucas/byte-unixbench) - Automatically exported from code.google.com/p/byte-unixbench
@@ -1136,6 +1135,7 @@
 
 ## vue 
 
+- [WebChatting/chatting-vue](https://github.com/WebChatting/chatting-vue) - The frontend of chatting, implementation with vue.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Vue.js Framework - ready-to-use Vue components with Material Design, free forever.
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
