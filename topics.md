@@ -28,6 +28,7 @@
 - [data-science](#data-science)
 - [data-structures](#data-structures)
 - [database](#database)
+- [deep-learning](#deep-learning)
 - [design](#design)
 - [devops](#devops)
 - [docker](#docker)
@@ -83,9 +84,11 @@
 - [monitoring](#monitoring)
 - [music](#music)
 - [neovim](#neovim)
+- [neural-network](#neural-network)
 - [nim](#nim)
 - [node](#node)
 - [nodejs](#nodejs)
+- [numpy](#numpy)
 - [open-source](#open-source)
 - [opengl](#opengl)
 - [others](#others)
@@ -96,6 +99,7 @@
 - [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
+- [pytorch](#pytorch)
 - [qt](#qt)
 - [r](#r)
 - [raspberry-pi](#raspberry-pi)
@@ -282,6 +286,10 @@
 
 - [cmu-db/bustub](https://github.com/cmu-db/bustub) - The BusTub Relational Database Management System (Educational)
 - [upupming/new-grad-positions](https://github.com/upupming/new-grad-positions) - 本项目旨在收集 2023 届互联网公司校招和实习的最新官方招聘信息，帮助在校生消除信息不对称带来的劣势，欢迎贡献 👏🏻。
+
+## deep-learning 
+
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 
 ## design 
 
@@ -637,6 +645,7 @@
 
 ## machine-learning 
 
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 
 ## macos 
@@ -725,6 +734,10 @@
 - [nshen/learn-neovim-lua](https://github.com/nshen/learn-neovim-lua) - Neovim 配置实战：从 0 到 1 打造自己的 IDE
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
+## neural-network 
+
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
+
 ## nim 
 
 - [Dav1dde/glad](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
@@ -740,6 +753,10 @@
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [Liu233w/acm-statistics](https://github.com/Liu233w/acm-statistics) - An online tool (crawler) to analyze users performance in online judges (coding competition websites). Supported OJ: POJ, HDU, HYSBZ, CodeForces, UVA, ICPC Live Archive, FZU, SPOJ, Timus (URAL), LeetCo
+
+## numpy 
+
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 
 ## open-source 
 
@@ -981,6 +998,7 @@
 
 ## python 
 
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [ESWZY/webvpn-dlut](https://github.com/ESWZY/webvpn-dlut) - WRD 的 WebVPN 的 URL 互转原理🌚
 - [Stunkymonkey/nautilus-open-any-terminal](https://github.com/Stunkymonkey/nautilus-open-any-terminal) - 
@@ -1005,6 +1023,10 @@
 
 - [mindstorm38/portablemc](https://github.com/mindstorm38/portablemc) - An easy-to-use Python CLI Minecraft launcher! Compatible with official Minecraft launcher and provides many official add-ons.
 - [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
+
+## pytorch 
+
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 
 ## qt 
 
@@ -1095,6 +1117,7 @@
 
 ## tensorflow 
 
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 
 ## terminal 
