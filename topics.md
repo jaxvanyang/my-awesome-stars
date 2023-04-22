@@ -135,6 +135,7 @@
 
 ## android 
 
+- [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
 - [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps in your device.
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading Movies, TV-Series and Anime.
@@ -778,6 +779,8 @@
 
 ## others 
 
+- [akhilnarang/scripts](https://github.com/akhilnarang/scripts) - 
+- [PixelExperience-Devices/device_google_crosshatch](https://github.com/PixelExperience-Devices/device_google_crosshatch) - Dependency of Google Pixel 3 (blueline), Google Pixel 3 XL (crosshatch)
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
