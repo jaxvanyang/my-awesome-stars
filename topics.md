@@ -497,6 +497,7 @@
 
 ## java 
 
+- [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk
 - [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard
 - [GeyserMC/MCProtocolLib](https://github.com/GeyserMC/MCProtocolLib) - A library for communication with a Minecraft client/server.
 - [LWJGL/lwjgl3](https://github.com/LWJGL/lwjgl3) - LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL, Vulkan, bgfx), audio (OpenAL, Opus), parallel computing (OpenCL, CUDA) 
@@ -780,6 +781,7 @@
 
 ## others 
 
+- [pin/debian-vm-install](https://github.com/pin/debian-vm-install) - Debian unattended VM installation with virt-install and pressed.cfg
 - [akhilnarang/scripts](https://github.com/akhilnarang/scripts) - 
 - [PixelExperience-Devices/device_google_crosshatch](https://github.com/PixelExperience-Devices/device_google_crosshatch) - Dependency of Google Pixel 3 (blueline), Google Pixel 3 XL (crosshatch)
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
