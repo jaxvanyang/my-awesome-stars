@@ -60,7 +60,6 @@
 - [kdlucas/byte-unixbench](https://github.com/kdlucas/byte-unixbench) - Automatically exported from code.google.com/p/byte-unixbench
 - [springzfx/cgproxy](https://github.com/springzfx/cgproxy) - Transparent Proxy with cgroup v2。透明代理，配合v2ray/Qv2ray食用最佳
 - [libratbag/libratbag](https://github.com/libratbag/libratbag) - A DBus daemon to configure input devices, mainly high-end and gaming mice
-- [xiaoyifang/goldendict-ng](https://github.com/xiaoyifang/goldendict-ng) - The Next Generation GoldenDict
 - [cnlohr/mini-rv32ima](https://github.com/cnlohr/mini-rv32ima) - A tiny C header-only risc-v emulator.
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPUs process monitoring for AMD, Intel and NVIDIA
 - [nowrep/obs-vkcapture](https://github.com/nowrep/obs-vkcapture) - OBS Linux Vulkan/OpenGL game capture
@@ -102,6 +101,7 @@
 - [lzhiyong/android-sdk-tools](https://github.com/lzhiyong/android-sdk-tools) - building android-sdk tools  for Android
 - [ccache/ccache](https://github.com/ccache/ccache) - ccache – a fast compiler cache
 - [goldendict/goldendict](https://github.com/goldendict/goldendict) - A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, 
+- [xiaoyifang/goldendict-ng](https://github.com/xiaoyifang/goldendict-ng) - The Next Generation GoldenDict
 - [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights) - C++ Insights - See your source code with the eyes of a compiler
 - [dendibakh/perf-ninja](https://github.com/dendibakh/perf-ninja) - This is an online course where you can learn and master the skill of low-level performance analysis and tuning.
 - [microsoft/WSL-DistroLauncher](https://github.com/microsoft/WSL-DistroLauncher) - Sample/reference launcher app for WSL distro Microsoft Store packages.
