@@ -452,6 +452,7 @@
 
 ## Shell 
 
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [pin/debian-vm-install](https://github.com/pin/debian-vm-install) - Debian unattended VM installation with virt-install and pressed.cfg
 - [akhilnarang/scripts](https://github.com/akhilnarang/scripts) - 
 - [elgohr/Github-Release-Action](https://github.com/elgohr/Github-Release-Action) - Publish Github releases in an action
