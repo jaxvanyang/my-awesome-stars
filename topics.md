@@ -96,6 +96,7 @@
 - [others](#others)
 - [package-manager](#package-manager)
 - [penetration-testing](#penetration-testing)
+- [perl](#perl)
 - [php](#php)
 - [programming](#programming)
 - [publishing](#publishing)
@@ -205,6 +206,7 @@
 
 ## c 
 
+- [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [nfinit/ansibench](https://github.com/nfinit/ansibench) - A selection of ANSI C benchmarks and programs useful as benchmarks
 - [ccache/ccache](https://github.com/ccache/ccache) - ccache – a fast compiler cache
 - [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
@@ -527,6 +529,7 @@
 
 ## javascript 
 
+- [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [SabakiHQ/Sabaki](https://github.com/SabakiHQ/Sabaki) - An elegant Go board and SGF editor for a more civilized age.
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
@@ -646,6 +649,7 @@
 
 ## lua 
 
+- [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [nvimdev/lspsaga.nvim](https://github.com/nvimdev/lspsaga.nvim) - improve neovim lsp experience
 - [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
@@ -797,6 +801,7 @@
 
 ## others 
 
+- [snowleopard/build](https://github.com/snowleopard/build) - Build Systems à la Carte
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [dialect-app/dialect](https://github.com/dialect-app/dialect) - A translation app for GNOME.
 - [pin/debian-vm-install](https://github.com/pin/debian-vm-install) - Debian unattended VM installation with virt-install and pressed.cfg
@@ -1005,8 +1010,13 @@
 
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 
+## perl 
+
+- [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
+
 ## php 
 
+- [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [yuantuo666/baiduwp-php](https://github.com/yuantuo666/baiduwp-php) - A tool to get the download link of the Baidu netdisk / 一个获取百度网盘分享链接下载地址的工具
 
@@ -1025,6 +1035,7 @@
 
 ## python 
 
+- [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [ESWZY/webvpn-dlut](https://github.com/ESWZY/webvpn-dlut) - WRD 的 WebVPN 的 URL 互转原理🌚
@@ -1081,6 +1092,7 @@
 
 ## ruby 
 
+- [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
 - [five-embeddev/riscv-isa-data](https://github.com/five-embeddev/riscv-isa-data) - Machine readable ISA data
