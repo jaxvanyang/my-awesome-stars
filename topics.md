@@ -147,7 +147,7 @@
 - [enricocid/Music-Player-GO](https://github.com/enricocid/Music-Player-GO) - 🎶🎼 Very slim music player 👨‍🎤 100% made in Italy 🍕🌳🌞🍝🌄
 - [cyxx/extract_android_ota_payload](https://github.com/cyxx/extract_android_ota_payload) - Extract firmware images from an Android OTA payload.bin file
 - [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
-- [jacopotediosi/GoogleDialerMod](https://github.com/jacopotediosi/GoogleDialerMod) - 
+- [jacopotediosi/GAppsMod](https://github.com/jacopotediosi/GAppsMod) - Tweak Google apps (e.g., Phone and Messages) to unlock hidden features (e.g., available only in some countries or on certain devices). Root is required.
 - [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
 - [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
 - [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
@@ -433,7 +433,7 @@
 
 ## google 
 
-- [jacopotediosi/GoogleDialerMod](https://github.com/jacopotediosi/GoogleDialerMod) - 
+- [jacopotediosi/GAppsMod](https://github.com/jacopotediosi/GAppsMod) - Tweak Google apps (e.g., Phone and Messages) to unlock hidden features (e.g., available only in some countries or on certain devices). Root is required.
 
 ## gradle 
 
@@ -1088,7 +1088,7 @@
 
 ## reverse-engineering 
 
-- [jacopotediosi/GoogleDialerMod](https://github.com/jacopotediosi/GoogleDialerMod) - 
+- [jacopotediosi/GAppsMod](https://github.com/jacopotediosi/GAppsMod) - Tweak Google apps (e.g., Phone and Messages) to unlock hidden features (e.g., available only in some countries or on certain devices). Root is required.
 
 ## ruby 
 
