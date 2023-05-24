@@ -801,6 +801,7 @@
 
 ## others 
 
+- [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Code for DragGAN (SIGGRAPH 2023)
 - [snowleopard/build](https://github.com/snowleopard/build) - Build Systems à la Carte
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [dialect-app/dialect](https://github.com/dialect-app/dialect) - A translation app for GNOME.
