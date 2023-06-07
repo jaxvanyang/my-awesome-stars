@@ -804,6 +804,9 @@
 
 ## others 
 
+- [haishanh/yacd](https://github.com/haishanh/yacd) - Yet Another Clash Dashboard
+- [MetaCubeX/meta-rules-dat](https://github.com/MetaCubeX/meta-rules-dat) - 🐱 meta-rules-dat 路由规则加强版，每日更新
+- [MetaCubeX/Clash.Meta](https://github.com/MetaCubeX/Clash.Meta) - A rule-based tunnel in Go.
 - [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Code for DragGAN (SIGGRAPH 2023)
 - [snowleopard/build](https://github.com/snowleopard/build) - Build Systems à la Carte
