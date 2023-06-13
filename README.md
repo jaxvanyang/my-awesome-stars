@@ -103,7 +103,6 @@
 - [lzhiyong/android-sdk-tools](https://github.com/lzhiyong/android-sdk-tools) - building android-sdk tools  for Android
 - [ccache/ccache](https://github.com/ccache/ccache) - ccache – a fast compiler cache
 - [goldendict/goldendict](https://github.com/goldendict/goldendict) - A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, 
-- [xiaoyifang/goldendict-ng](https://github.com/xiaoyifang/goldendict-ng) - The Next Generation GoldenDict
 - [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights) - C++ Insights - See your source code with the eyes of a compiler
 - [dendibakh/perf-ninja](https://github.com/dendibakh/perf-ninja) - This is an online course where you can learn and master the skill of low-level performance analysis and tuning.
 - [microsoft/WSL-DistroLauncher](https://github.com/microsoft/WSL-DistroLauncher) - Sample/reference launcher app for WSL distro Microsoft Store packages.
@@ -197,6 +196,8 @@
 
 ## Java 
 
+- [Enaium-FabricMC/OneKeyMiner](https://github.com/Enaium-FabricMC/OneKeyMiner) - A minecraft mod for Fabric that allows you to mine blocks with one mining action.
+- [TerraformersMC/ModMenu](https://github.com/TerraformersMC/ModMenu) - A menu for, you guessed it, mods!
 - [FabricMC/fabric](https://github.com/FabricMC/fabric) - Essential hooks for modding with Fabric.
 - [apache/tomcat](https://github.com/apache/tomcat) - Apache Tomcat
 - [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk
