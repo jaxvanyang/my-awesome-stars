@@ -200,7 +200,6 @@
 
 ## Java 
 
-- [Enaium-FabricMC/OneKeyMiner](https://github.com/Enaium-FabricMC/OneKeyMiner) - A minecraft mod for Fabric that allows you to mine blocks with one mining action.
 - [TerraformersMC/ModMenu](https://github.com/TerraformersMC/ModMenu) - A menu for, you guessed it, mods!
 - [FabricMC/fabric](https://github.com/FabricMC/fabric) - Essential hooks for modding with Fabric.
 - [apache/tomcat](https://github.com/apache/tomcat) - Apache Tomcat
@@ -281,6 +280,7 @@
 
 ## Kotlin 
 
+- [Enaium-FabricMC/OneKeyMiner](https://github.com/Enaium-FabricMC/OneKeyMiner) - A minecraft mod for Fabric that allows you to mine blocks with one mining action.
 - [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
 - [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps in your device.
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
