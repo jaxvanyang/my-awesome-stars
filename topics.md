@@ -48,6 +48,7 @@
 - [game-engine](#game-engine)
 - [git](#git)
 - [github](#github)
+- [github-api](#github-api)
 - [go](#go)
 - [golang](#golang)
 - [google](#google)
@@ -420,6 +421,10 @@
 - [ineo6/hosts](https://github.com/ineo6/hosts) - GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 
+## github-api 
+
+- [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+
 ## go 
 
 - [SabakiHQ/Sabaki](https://github.com/SabakiHQ/Sabaki) - An elegant Go board and SGF editor for a more civilized age.
@@ -451,6 +456,7 @@
 
 ## hacktoberfest 
 
+- [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [FabricMC/fabric](https://github.com/FabricMC/fabric) - Essential hooks for modding with Fabric.
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK e-book reader
 - [online-go/online-go.com](https://github.com/online-go/online-go.com) - Source code for the Online-Go.com web interface
@@ -697,6 +703,7 @@
 
 ## markdown 
 
+- [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
@@ -844,7 +851,7 @@
 - [qjfoidnh/BaiduPCS-Go](https://github.com/qjfoidnh/BaiduPCS-Go) - iikira/BaiduPCS-Go原版基础上集成了分享链接/秒传链接转存功能
 - [multiarch/qemu-user-static](https://github.com/multiarch/qemu-user-static) - :earth_africa: `/usr/bin/qemu-*-static`
 - [keyi6/webvpn4dut](https://github.com/keyi6/webvpn4dut) - extended web vpn for DUT
-- [zb-zombie/A-CSUST-Bachelor-thesis-template-based-on-LaTeX-system](https://github.com/zb-zombie/A-CSUST-Bachelor-thesis-template-based-on-LaTeX-system) - 长沙理工大学本科生毕业论文 LaTeX 模板、毕业答辩幻灯片 Beamer 模板。
+- [csust-latex-sig/CSUSTBachelorThesis](https://github.com/csust-latex-sig/CSUSTBachelorThesis) - 长沙理工大学本科生毕业论文 LaTeX 模板、毕业答辩幻灯片 Beamer 模板。
 - [cozy/cozy-stack](https://github.com/cozy/cozy-stack) - Simple, Versatile, Yours
 - [ChineseSubFinder/ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder) - 自动化中文字幕下载。字幕网站支持 shooter、xunlei、arrst、a4k、SubtitleBest 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM
 - [zimfw/archive](https://github.com/zimfw/archive) - Provides functions for easy archive manipulation.
@@ -1119,6 +1126,7 @@
 
 ## ruby 
 
+- [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
@@ -1169,7 +1177,6 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
-- [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - VLESS(TCP_Vision、Reality、gRPC、WS)、VMess(WS)、Trojan(TCP、gRPC)、Hysteria、Tuic 共存脚本
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
