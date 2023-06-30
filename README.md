@@ -428,6 +428,7 @@
 
 ## Ruby 
 
+- [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
 - [five-embeddev/riscv-isa-data](https://github.com/five-embeddev/riscv-isa-data) - Machine readable ISA data
@@ -506,7 +507,6 @@
 - [itzg/docker-mc-backup](https://github.com/itzg/docker-mc-backup) - Provides a side-car container to backup itzg/minecraft-server world data
 - [StephanTLavavej/mingw-distro](https://github.com/StephanTLavavej/mingw-distro) - MinGW distro build scripts.
 - [Kaiede/docker-minecraft-bedrock-backup](https://github.com/Kaiede/docker-minecraft-bedrock-backup) - Backup container service for itzg/minecraft-bedrock-server or itzg/minecraft-server
-- [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - VLESS(TCP_Vision、Reality、gRPC、WS)、VMess(WS)、Trojan(TCP、gRPC)、Hysteria、Tuic 共存脚本
 - [itzg/docker-minecraft-bedrock-server](https://github.com/itzg/docker-minecraft-bedrock-server) - Containerized Minecraft Bedrock Dedicated Server with selectable version
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [zikywang/JD-FreeFuck](https://github.com/zikywang/JD-FreeFuck) - 《JD薅羊毛》一键部署 For Linux
@@ -524,7 +524,7 @@
 
 - [snowleopard/build](https://github.com/snowleopard/build) - Build Systems à la Carte
 - [CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn) - A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
-- [zb-zombie/A-CSUST-Bachelor-thesis-template-based-on-LaTeX-system](https://github.com/zb-zombie/A-CSUST-Bachelor-thesis-template-based-on-LaTeX-system) - 长沙理工大学本科生毕业论文 LaTeX 模板、毕业答辩幻灯片 Beamer 模板。
+- [csust-latex-sig/CSUSTBachelorThesis](https://github.com/csust-latex-sig/CSUSTBachelorThesis) - 长沙理工大学本科生毕业论文 LaTeX 模板、毕业答辩幻灯片 Beamer 模板。
 - [dendibakh/perf-book](https://github.com/dendibakh/perf-book) - The book "Performance Analysis and Tuning on Modern CPU"
 - [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) - RISC-V Instruction Set Manual
 - [pllk/cphb](https://github.com/pllk/cphb) - Competitive Programmer's Handbook
