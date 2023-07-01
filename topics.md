@@ -208,6 +208,7 @@
 
 ## c 
 
+- [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。
 - [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [nfinit/ansibench](https://github.com/nfinit/ansibench) - A selection of ANSI C benchmarks and programs useful as benchmarks
 - [ccache/ccache](https://github.com/ccache/ccache) - ccache – a fast compiler cache
@@ -823,6 +824,7 @@
 
 ## others 
 
+- [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
 - [talkiq/pystun3](https://github.com/talkiq/pystun3) - A Python STUN client for getting NAT type and external IP
 - [jellyfin/jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Jellyfin Desktop Client based on Plex Media Player
 - [josherich/repo-to-pdf](https://github.com/josherich/repo-to-pdf) - repository to pdf
