@@ -526,7 +526,7 @@
 
 - [snowleopard/build](https://github.com/snowleopard/build) - Build Systems à la Carte
 - [CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn) - A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
-- [csust-latex-sig/CSUSTBachelorThesis](https://github.com/csust-latex-sig/CSUSTBachelorThesis) - 长沙理工大学本科生毕业论文 LaTeX 模板、毕业答辩幻灯片 Beamer 模板。
+- [csust-latex-sig/CSUSTBachelorThesis](https://github.com/csust-latex-sig/CSUSTBachelorThesis) - 长沙理工大学本科生毕业论文 LaTeX 模板。
 - [dendibakh/perf-book](https://github.com/dendibakh/perf-book) - The book "Performance Analysis and Tuning on Modern CPU"
 - [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) - RISC-V Instruction Set Manual
 - [pllk/cphb](https://github.com/pllk/cphb) - Competitive Programmer's Handbook
