@@ -703,6 +703,7 @@
 
 ## markdown 
 
+- [haiwen/seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -823,6 +824,7 @@
 
 ## others 
 
+- [bdrung/bdebstrap](https://github.com/bdrung/bdebstrap) - YAML config based multi-mirror Debian chroot creation tool
 - [riscv-software-src/riscv-isa-sim](https://github.com/riscv-software-src/riscv-isa-sim) - Spike, a RISC-V ISA Simulator
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
 - [talkiq/pystun3](https://github.com/talkiq/pystun3) - A Python STUN client for getting NAT type and external IP
