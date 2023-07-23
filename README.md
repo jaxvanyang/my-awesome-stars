@@ -255,7 +255,6 @@
 - [Doube-Suzerain/Oh-my-angel](https://github.com/Doube-Suzerain/Oh-my-angel) - 
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 - [ESEO-Tech/emulsiV](https://github.com/ESEO-Tech/emulsiV) - A visual simulator for teaching computer architecture using the RISC-V instruction set
 - [riscv-software-src/riscv-angel](https://github.com/riscv-software-src/riscv-angel) - JavaScript RISC-V ISA Simulator. Boots linux in a web-browser.
 - [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
@@ -552,6 +551,7 @@
 - [haishanh/yacd](https://github.com/haishanh/yacd) - Yet Another Clash Dashboard
 - [online-go/online-go.com](https://github.com/online-go/online-go.com) - Source code for the Online-Go.com web interface
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
+- [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A Native GOG and Epic Games Launcher for Linux, Windows and Mac.
 - [qjebbs/vscode-plantuml](https://github.com/qjebbs/vscode-plantuml) - Rich PlantUML support for Visual Studio Code.
