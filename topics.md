@@ -641,7 +641,7 @@
 ## learning 
 
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
-- [mdn/learning-area](https://github.com/mdn/learning-area) - Github repo for the MDN Learning Area.
+- [mdn/learning-area](https://github.com/mdn/learning-area) - GitHub repo for the MDN Learning Area.
 - [dofy/learn-vim](https://github.com/dofy/learn-vim) - Vim 实操教程（Learning Vim）Vim practical tutorial.
 
 ## library 
@@ -854,6 +854,7 @@
 
 ## others 
 
+- [ysyx-org/jemu-decoder](https://github.com/ysyx-org/jemu-decoder) - The decoder library for jemu execution and web documentation
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 - [bugaevc/wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
