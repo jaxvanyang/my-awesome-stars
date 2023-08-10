@@ -1009,7 +1009,6 @@
 - [SukkaW/dotfiles](https://github.com/SukkaW/dotfiles) - 🔧 My development environment and config
 - [travellings-link/travellings](https://github.com/travellings-link/travellings) - 开往-友链接力
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
-- [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
 - [CHN-beta/sougou-dict](https://github.com/CHN-beta/sougou-dict) - 
 - [hosxy/Fcitx5-Material-Color](https://github.com/hosxy/Fcitx5-Material-Color) - 一款使用Material Design 配色的 fcitx5 皮肤，喜欢的话给个 star 吧   ヾ(≧へ≦)〃 😉
 - [Hansimov/csapp](https://github.com/Hansimov/csapp) - 个人整理的《深入理解计算机系统》中文电子版（原书第 3 版）与实验材料：https://hansimov.gitbook.io/csapp/
