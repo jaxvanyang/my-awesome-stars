@@ -854,6 +854,7 @@
 
 ## others 
 
+- [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
 - [ysyx-org/jemu-decoder](https://github.com/ysyx-org/jemu-decoder) - The decoder library for jemu execution and web documentation
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 - [bugaevc/wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
@@ -1108,6 +1109,7 @@
 
 ## python 
 
+- [mk-fg/pretty-yaml](https://github.com/mk-fg/pretty-yaml) - PyYAML-based module to produce a bit more pretty and readable YAML-serialized data
 - [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font) - A legible monospace font... the very typeface you’ve been trained to recognize since childhood
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger
