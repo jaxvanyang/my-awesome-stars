@@ -204,7 +204,6 @@
 - [cheng-pj/samsung](https://github.com/cheng-pj/samsung) - 签到
 - [jaxvanyang/lang-study](https://github.com/jaxvanyang/lang-study) - A repository used to learn several language
 - [me115/linuxtools_rst](https://github.com/me115/linuxtools_rst) - Linux工具快速教程
-- [jaxvanyang/old.jaxvanyang.github.io](https://github.com/jaxvanyang/old.jaxvanyang.github.io) - 
 
 ## Haskell 
 
@@ -288,7 +287,6 @@
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [EdgeTranslate/EdgeTranslate](https://github.com/EdgeTranslate/EdgeTranslate) - A translation extension.
 - [yinhonggen/free-programming-books-zh_CN](https://github.com/yinhonggen/free-programming-books-zh_CN) - https://github.com/justjavac/free-programming-books-zh_CN.git
-- [XiangNorth/Tell-u-how-i-feel](https://github.com/XiangNorth/Tell-u-how-i-feel) - 😘 表白墙 demo/Tell u how i feel
 
 ## Jupyter Notebook 
 
@@ -565,7 +563,6 @@
 - [qjebbs/vscode-plantuml](https://github.com/qjebbs/vscode-plantuml) - Rich PlantUML support for Visual Studio Code.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
-- [upupming/new-grad-positions](https://github.com/upupming/new-grad-positions) - 本项目旨在收集 2023 届互联网公司校招和实习的最新官方招聘信息，帮助在校生消除信息不对称带来的劣势，欢迎贡献 👏🏻。
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
