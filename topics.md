@@ -309,7 +309,6 @@
 ## database 
 
 - [cmu-db/bustub](https://github.com/cmu-db/bustub) - The BusTub Relational Database Management System (Educational)
-- [upupming/new-grad-positions](https://github.com/upupming/new-grad-positions) - 本项目旨在收集 2023 届互联网公司校招和实习的最新官方招聘信息，帮助在校生消除信息不对称带来的劣势，欢迎贡献 👏🏻。
 
 ## deep-learning 
 
@@ -594,7 +593,6 @@
 - [jeffreytse/jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat) - 🎨 Yet another theme for elegant writers with modern flat style and beautiful night/dark mode.
 - [toshimaru/jekyll-toc](https://github.com/toshimaru/jekyll-toc) - Jekyll plugin which generates a table of contents.
 - [jekyll/jekyll-admin](https://github.com/jekyll/jekyll-admin) - A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
-- [jaxvanyang/old.jaxvanyang.github.io](https://github.com/jaxvanyang/old.jaxvanyang.github.io) - 
 - [jekyll/minima](https://github.com/jekyll/minima) - Minima is a one-size-fits-all Jekyll theme for writers.
 
 ## jekyll-theme 
@@ -1064,7 +1062,6 @@
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [TheOnlineJudge/ojudge](https://github.com/TheOnlineJudge/ojudge) - OJudge Platform
 - [DazeCake/onebds](https://github.com/DazeCake/onebds) - 一键部署Minecraft BE bedrock server脚本
-- [XiangNorth/Tell-u-how-i-feel](https://github.com/XiangNorth/Tell-u-how-i-feel) - 😘 表白墙 demo/Tell u how i feel
 - [aviraxp/NoMoreGooglePlayServices](https://github.com/aviraxp/NoMoreGooglePlayServices) - 
 
 ## p2p 
