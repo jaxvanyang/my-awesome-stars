@@ -200,6 +200,7 @@
 - [mdn/learning-area](https://github.com/mdn/learning-area) - GitHub repo for the MDN Learning Area.
 - [riggraz/no-style-please](https://github.com/riggraz/no-style-please) - A (nearly) no-CSS, fast, minimalist Jekyll theme.
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+- [travellings-link/travellings](https://github.com/travellings-link/travellings) - 开往-友链接力
 - [jeffreytse/jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat) - 🎨 Yet another theme for elegant writers with modern flat style and beautiful night/dark mode.
 - [cheng-pj/samsung](https://github.com/cheng-pj/samsung) - 签到
 - [jaxvanyang/lang-study](https://github.com/jaxvanyang/lang-study) - A repository used to learn several language
@@ -280,7 +281,6 @@
 - [DIYgod/APlayer](https://github.com/DIYgod/APlayer) - :lollipop: Wow, such a beautiful HTML5 music player
 - [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
-- [travellings-link/travellings](https://github.com/travellings-link/travellings) - 开往-友链接力
 - [jekyll/jekyll-admin](https://github.com/jekyll/jekyll-admin) - A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
 - [LeoRiether/CodeforcesPP](https://github.com/LeoRiether/CodeforcesPP) - Codeforces extension pack
 - [oevery/ninja](https://github.com/oevery/ninja) - 
