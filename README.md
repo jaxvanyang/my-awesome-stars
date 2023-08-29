@@ -372,7 +372,6 @@
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [Cpp-Club/Cxx_HOPL4_zh](https://github.com/Cpp-Club/Cxx_HOPL4_zh) - Chinese translation of Bjarne Stroustrup's HOPL4 paper
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
-- [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [eastmountyxz/CSDNBlog-Security-Based](https://github.com/eastmountyxz/CSDNBlog-Security-Based) - 为了更好地管理博客文章，分享更好的知识，该系列资源为作者CSDN博客的备份文件。本资源为网络安全自学篇，包括作者安全工具利用、Web渗透、系统安全、CVE漏洞复现、安全论文及会议等知识，希望对您有所帮助！一起加油。
 - [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
