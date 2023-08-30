@@ -542,6 +542,7 @@
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained prox
 - [fangfufu/httpdirfs](https://github.com/fangfufu/httpdirfs) - A filesystem which allows you to mount HTTP directory listings, with a permanent cache. Now with Airsonic / Subsonic support!
+- [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 
@@ -866,6 +867,7 @@
 
 ## others 
 
+- [libguestfs/libguestfs](https://github.com/libguestfs/libguestfs) - library and tools for accessing and modifying virtual machine disk images.  PLEASE DO NOT USE GITHUB FOR ISSUES OR PULL REQUESTS.  See the website for how to file a bug or contact us.
 - [jovton/USB-Storage-on-WSL2](https://github.com/jovton/USB-Storage-on-WSL2) - This article describes how you can access your USB storage device from Microsoft's Windows Subsystem for Linux 2 (WSL2)
 - [analysis-tools-dev/dynamic-analysis](https://github.com/analysis-tools-dev/dynamic-analysis) - ⚙️ A curated list of dynamic analysis tools and linters for all programming languages, binaries, and more.
 - [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
