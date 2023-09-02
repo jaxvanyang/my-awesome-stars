@@ -991,7 +991,7 @@
 - [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 - [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose
 - [rizsotto/Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at ht
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [RiwiHow/FixChinaCarrier](https://github.com/RiwiHow/FixChinaCarrier) - This is a Magisk module to solve the APN problem of the slow speed of China carrier in some roms.
