@@ -97,6 +97,7 @@
 
 ## C# # 
 
+- [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win) - Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.
 - [ThePBone/GalaxyBudsClient](https://github.com/ThePBone/GalaxyBudsClient) - Unofficial Galaxy Buds Manager for Windows and Linux
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
