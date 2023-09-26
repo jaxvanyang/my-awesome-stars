@@ -381,7 +381,7 @@
 ## emulator 
 
 - [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch emulator
-- [copy/v86](https://github.com/copy/v86) - An x86 PC emulator and x86-to-wasm JIT, running in the browser
+- [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 
 ## es6 
 
@@ -479,6 +479,7 @@
 
 ## hacktoberfest 
 
+- [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [makedeb/makedeb](https://github.com/makedeb/makedeb) - A simplicity-focused packaging tool for Debian archives
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -488,6 +489,7 @@
 - [FabricMC/fabric](https://github.com/FabricMC/fabric) - Essential hooks for modding with Fabric.
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK e-book reader
 - [online-go/online-go.com](https://github.com/online-go/online-go.com) - Source code for the Online-Go.com web interface
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -1014,7 +1016,7 @@
 - [shenjindui/netdisk](https://github.com/shenjindui/netdisk) - 模仿百度云盘版开发的企业云盘后台项目
 - [liaxiufeng/cloudbox](https://github.com/liaxiufeng/cloudbox) - 网盘前端（vue）
 - [AtomicStryker/atomicstrykers-minecraft-mods](https://github.com/AtomicStryker/atomicstrykers-minecraft-mods) - Repository for my open source Minecraft Mods
-- [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
+- [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [progit/progit2-zh](https://github.com/progit/progit2-zh) - 
 - [Crazyokd/pt.csust_crawler](https://github.com/Crazyokd/pt.csust_crawler) - 长沙理工大学网络教学平台爬虫
 - [blabla-my/CSAPP-malloclab](https://github.com/blabla-my/CSAPP-malloclab) - 97 points on traces. Optimization for the realloc and binary
