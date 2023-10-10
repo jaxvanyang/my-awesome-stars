@@ -40,9 +40,11 @@
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+- [reStructuredText](#restructuredtext)
 
 ## Assembly 
 
+- [tgrysztar/fasmg](https://github.com/tgrysztar/fasmg) - flat assembler g - adaptable assembly engine
 - [lexdene/gcc_five_minute](https://github.com/lexdene/gcc_five_minute) - gcc五分钟系列
 
 ## Batchfile 
@@ -403,6 +405,8 @@
 
 ## Python 
 
+- [pylint-dev/pylint](https://github.com/pylint-dev/pylint) - It's not just a linter that annoys you!
+- [pypa/pip](https://github.com/pypa/pip) - The Python package installer
 - [wolph/python-progressbar](https://github.com/wolph/python-progressbar) - Progressbar 2 - A progress bar for Python 2 and Python 3 - "pip install progressbar2"
 - [verigak/progress](https://github.com/verigak/progress) - Easy to use progress bars for Python
 - [kurtmckee/feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python
@@ -618,6 +622,10 @@
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [bradtraversy/vue-crash-2021](https://github.com/bradtraversy/vue-crash-2021) - Task Tracker project from youtube crash course
 - [jsososo/NeteaseMusic](https://github.com/jsososo/NeteaseMusic) - 网易云音乐 & QQ音乐 & 咪咕音乐 第三方 web端 (可播放 vip、下架歌曲)
+
+## reStructuredText 
+
+- [python/peps](https://github.com/python/peps) - Python Enhancement Proposals
 
 
 ## License
