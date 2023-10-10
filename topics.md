@@ -272,6 +272,7 @@
 
 ## code-quality 
 
+- [pylint-dev/pylint](https://github.com/pylint-dev/pylint) - It's not just a linter that annoys you!
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 
 ## compiler 
@@ -492,6 +493,7 @@
 
 ## hacktoberfest 
 
+- [pylint-dev/pylint](https://github.com/pylint-dev/pylint) - It's not just a linter that annoys you!
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [makedeb/makedeb](https://github.com/makedeb/makedeb) - A simplicity-focused packaging tool for Debian archives
@@ -890,6 +892,8 @@
 
 ## others 
 
+- [python/peps](https://github.com/python/peps) - Python Enhancement Proposals
+- [tgrysztar/fasmg](https://github.com/tgrysztar/fasmg) - flat assembler g - adaptable assembly engine
 - [verigak/progress](https://github.com/verigak/progress) - Easy to use progress bars for Python
 - [rwmjones/fedora-riscv-stage4](https://github.com/rwmjones/fedora-riscv-stage4) - Used to build Fedora/RISC-V stage4 disk images
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
@@ -1151,6 +1155,7 @@
 
 ## python 
 
+- [pypa/pip](https://github.com/pypa/pip) - The Python package installer
 - [wolph/python-progressbar](https://github.com/wolph/python-progressbar) - Progressbar 2 - A progress bar for Python 2 and Python 3 - "pip install progressbar2"
 - [kurtmckee/feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
