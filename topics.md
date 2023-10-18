@@ -253,6 +253,7 @@
 
 ## cli 
 
+- [PyCQA/isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
 - [wolph/python-progressbar](https://github.com/wolph/python-progressbar) - Progressbar 2 - A progress bar for Python 2 and Python 3 - "pip install progressbar2"
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -495,6 +496,7 @@
 
 ## hacktoberfest 
 
+- [PyCQA/isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
 - [pylint-dev/pylint](https://github.com/pylint-dev/pylint) - It's not just a linter that annoys you!
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
@@ -900,6 +902,7 @@
 
 ## others 
 
+- [pacur/pacur](https://github.com/pacur/pacur) - Automated deb, rpm and pkgbuild build system
 - [python/peps](https://github.com/python/peps) - Python Enhancement Proposals
 - [tgrysztar/fasmg](https://github.com/tgrysztar/fasmg) - flat assembler g - adaptable assembly engine
 - [verigak/progress](https://github.com/verigak/progress) - Easy to use progress bars for Python
@@ -1164,6 +1167,7 @@
 
 ## python 
 
+- [PyCQA/isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
 - [pypa/pip](https://github.com/pypa/pip) - The Python package installer
 - [wolph/python-progressbar](https://github.com/wolph/python-progressbar) - Progressbar 2 - A progress bar for Python 2 and Python 3 - "pip install progressbar2"
 - [kurtmckee/feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python
@@ -1196,6 +1200,7 @@
 
 ## python3 
 
+- [PyCQA/isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
 - [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger) - Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.
 - [mindstorm38/portablemc](https://github.com/mindstorm38/portablemc) - A fast, reliable and cross-platform command-line Minecraft launcher and API for developers. Compatible with the official Minecraft launcher's version specification and supports Fabric, Forge and Quilt
 - [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
