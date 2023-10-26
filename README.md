@@ -157,6 +157,7 @@
 
 ## Dockerfile 
 
+- [rust-lang/docker-rust](https://github.com/rust-lang/docker-rust) - 
 - [jaxvanyang/riscv64-docker-builder](https://github.com/jaxvanyang/riscv64-docker-builder) - Ubuntu Docker image for Jenkins SSH agent
 - [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
 
@@ -408,6 +409,7 @@
 
 ## Python 
 
+- [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [sepandhaghighi/art](https://github.com/sepandhaghighi/art) - 🎨 ASCII art library for Python
 - [felixonmars/fcitx5-pinyin-zhwiki](https://github.com/felixonmars/fcitx5-pinyin-zhwiki) - Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
 - [PyCQA/isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
