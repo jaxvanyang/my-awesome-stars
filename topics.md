@@ -222,6 +222,7 @@
 
 ## c 
 
+- [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
@@ -586,6 +587,7 @@
 
 ## ios 
 
+- [metowolf/vCards](https://github.com/metowolf/vCards) - 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
 - [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 
 ## iot 
@@ -701,6 +703,7 @@
 
 ## linux 
 
+- [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
@@ -772,6 +775,7 @@
 
 ## macos 
 
+- [metowolf/vCards](https://github.com/metowolf/vCards) - 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [SabakiHQ/Sabaki](https://github.com/SabakiHQ/Sabaki) - An elegant Go board and SGF editor for a more civilized age.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
