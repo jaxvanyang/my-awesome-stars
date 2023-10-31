@@ -54,6 +54,7 @@
 
 ## C 
 
+- [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [libguestfs/libguestfs](https://github.com/libguestfs/libguestfs) - library and tools for accessing and modifying virtual machine disk images.  PLEASE DO NOT USE GITHUB FOR ISSUES OR PULL REQUESTS.  See the website for how to file a bug or contact us.
 - [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
@@ -360,6 +361,7 @@
 
 ## Others 
 
+- [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
 - [jovton/USB-Storage-on-WSL2](https://github.com/jovton/USB-Storage-on-WSL2) - This article describes how you can access your USB storage device from Microsoft's Windows Subsystem for Linux 2 (WSL2)
 - [jesusmgg/comic-shanns-mono](https://github.com/jesusmgg/comic-shanns-mono) - a classy font for programming
