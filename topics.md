@@ -105,6 +105,7 @@
 - [package-manager](#package-manager)
 - [parsing](#parsing)
 - [penetration-testing](#penetration-testing)
+- [pentesting](#pentesting)
 - [perl](#perl)
 - [php](#php)
 - [programming](#programming)
@@ -1175,6 +1176,10 @@
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 
 ## penetration-testing 
+
+- [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
+
+## pentesting 
 
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 
