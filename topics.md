@@ -494,7 +494,6 @@
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
 - [xalanq/cf-tool](https://github.com/xalanq/cf-tool) - :bar_chart: Codeforces CLI (Submit, Parse, Test, etc.). Support Contests, Gym, Groups, acmsguru, Windows, macOS, Linux, 7 MB
-- [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 
 ## google 
 
@@ -933,6 +932,7 @@
 
 ## others 
 
+- [jaxvanyang/relink](https://github.com/jaxvanyang/relink) - Rename or link lots of files.
 - [hakandundar34coding/system-monitoring-center](https://github.com/hakandundar34coding/system-monitoring-center) - Multi-featured system monitor
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
 - [rust-lang/docker-rust](https://github.com/rust-lang/docker-rust) - 
@@ -978,7 +978,6 @@
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
 - [ksco/rvemu](https://github.com/ksco/rvemu) - A simple and fast RISC-V JIT emulator.
 - [skywind3000/ECDICT](https://github.com/skywind3000/ECDICT) - Free English to Chinese Dictionary Database
-- [Kr328/clash-multiplatform-compat](https://github.com/Kr328/clash-multiplatform-compat) - 
 - [CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn) - A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
@@ -1118,7 +1117,6 @@
 - [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) - Vanced Installer
 - [lexdene/gcc_five_minute](https://github.com/lexdene/gcc_five_minute) - gcc五分钟系列
 - [StephanTLavavej/mingw-distro](https://github.com/StephanTLavavej/mingw-distro) - MinGW distro build scripts.
-- [Kr328/ClashForMagisk](https://github.com/Kr328/ClashForMagisk) - A rule-based tunnel in Go. This module is wrapper for clash
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [theicfire/makefiletutorial](https://github.com/theicfire/makefiletutorial) - Learn make by example
 - [jaxvanyang/lang-study](https://github.com/jaxvanyang/lang-study) - A repository used to learn several language
@@ -1152,7 +1150,6 @@
 - [gtf35/BLESerial](https://github.com/gtf35/BLESerial) - Android 蓝牙串口 SPP 工具类 + Demo
 - [philliphsu/ClockPlus](https://github.com/philliphsu/ClockPlus) - Alarm clock, timer, and stopwatch application for Android.
 - [linfangzhi/CSUST_network_auto_login](https://github.com/linfangzhi/CSUST_network_auto_login) - 长沙理工校园网登陆，用于长沙理工大学校园网登陆
-- [Kr328/ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [TheOnlineJudge/ojudge](https://github.com/TheOnlineJudge/ojudge) - OJudge Platform
 - [DazeCake/onebds](https://github.com/DazeCake/onebds) - 一键部署Minecraft BE bedrock server脚本
@@ -1449,6 +1446,7 @@
 
 ## windows 
 
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win) - Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
