@@ -262,6 +262,7 @@
 
 ## JavaScript 
 
+- [tuberry/color-picker](https://github.com/tuberry/color-picker) - Simple color picker for GNOME Shell.
 - [Moustachauve/cookie-editor](https://github.com/Moustachauve/cookie-editor) - A powerful browser extension to create, edit and delete cookies
 - [metowolf/vCards](https://github.com/metowolf/vCards) - 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
 - [actions/create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
@@ -359,7 +360,7 @@
 
 ## Others 
 
-- [jaxvanyang/relink](https://github.com/jaxvanyang/relink) - Rename or link lots of files.
+- [jaxvanyang/relink](https://github.com/jaxvanyang/relink) - Rename or link multiple files. (WIP)
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
 - [jovton/USB-Storage-on-WSL2](https://github.com/jovton/USB-Storage-on-WSL2) - This article describes how you can access your USB storage device from Microsoft's Windows Subsystem for Linux 2 (WSL2)
