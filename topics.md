@@ -273,7 +273,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
-- [mindstorm38/portablemc](https://github.com/mindstorm38/portablemc) - A fast, reliable and cross-platform command-line Minecraft launcher and API for developers. Compatible with the official Minecraft launcher's version specification and supports Fabric, Forge and Quilt
+- [mindstorm38/portablemc](https://github.com/mindstorm38/portablemc) - A fast, reliable and cross-platform command-line Minecraft launcher and API for developers. Compatible with the official Minecraft launcher's version specification and supports Fabric, Forge, NeoForge
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [rajasegar/alacritty-themes](https://github.com/rajasegar/alacritty-themes) - :rainbow: :lollipop: Themes :candy: :heart_eyes: for Alacritty: A cross-platform GPU-accelerated Terminal emulator
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
@@ -351,12 +351,12 @@
 ## devops 
 
 - [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
-- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 
 ## docker 
 
+- [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
 - [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
@@ -364,7 +364,6 @@
 - [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
 - [jaxvanyang/riscv64-docker-builder](https://github.com/jaxvanyang/riscv64-docker-builder) - Ubuntu Docker image for Jenkins SSH agent
 - [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
-- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [Kaiede/Bedrockifier](https://github.com/Kaiede/Bedrockifier) - Command-line tools and Service for Minecraft Servers (Bedrock & Java)
 - [Kaiede/docker-minecraft-bedrock-backup](https://github.com/Kaiede/docker-minecraft-bedrock-backup) - Backup container service for itzg/minecraft-bedrock-server or itzg/minecraft-server
@@ -490,7 +489,6 @@
 
 ## golang 
 
-- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
@@ -541,7 +539,6 @@
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 - [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
-- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [felixonmars/archriscv-packages](https://github.com/felixonmars/archriscv-packages) - Modified Arch Linux packages for archriscv
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
@@ -625,7 +622,6 @@
 - [SabakiHQ/Sabaki](https://github.com/SabakiHQ/Sabaki) - An elegant Go board and SGF editor for a more civilized age.
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
-- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Vue.js Framework - ready-to-use Vue components with Material Design, free forever.
@@ -823,7 +819,7 @@
 - [MinecraftServerControl/mscs](https://github.com/MinecraftServerControl/mscs) - Powerful command-line control for UNIX and Linux powered Minecraft servers
 - [GeyserMC/MCProtocolLib](https://github.com/GeyserMC/MCProtocolLib) - A library for communication with a Minecraft client/server.
 - [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
-- [mindstorm38/portablemc](https://github.com/mindstorm38/portablemc) - A fast, reliable and cross-platform command-line Minecraft launcher and API for developers. Compatible with the official Minecraft launcher's version specification and supports Fabric, Forge and Quilt
+- [mindstorm38/portablemc](https://github.com/mindstorm38/portablemc) - A fast, reliable and cross-platform command-line Minecraft launcher and API for developers. Compatible with the official Minecraft launcher's version specification and supports Fabric, Forge, NeoForge
 - [dscalzi/HeliosLauncher](https://github.com/dscalzi/HeliosLauncher) - ☀ Custom launcher for modded minecraft written in Electron and Node.js
 - [TeamTwilight/twilightforest](https://github.com/TeamTwilight/twilightforest) - Twilight Forest repository
 - [TeamMidnightDust/MidnightControls](https://github.com/TeamMidnightDust/MidnightControls) - A Minecraft mod adding controller support and enhanced controls overall.
@@ -896,7 +892,6 @@
 ## nodejs 
 
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
-- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [Liu233w/acm-statistics](https://github.com/Liu233w/acm-statistics) - An online tool (crawler) to analyze users performance in online judges (coding competition websites). Supported OJ: POJ, HDU, HYSBZ, CodeForces, UVA, ICPC Live Archive, FZU, SPOJ, Timus (URAL), LeetCo
 
@@ -1161,6 +1156,7 @@
 
 ## package-manager 
 
+- [rpm-software-management/dnf](https://github.com/rpm-software-management/dnf) - Package manager based on libdnf and libsolv. Replaces YUM.
 - [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
@@ -1199,6 +1195,7 @@
 
 ## python 
 
+- [rpm-software-management/dnf](https://github.com/rpm-software-management/dnf) - Package manager based on libdnf and libsolv. Replaces YUM.
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [sepandhaghighi/art](https://github.com/sepandhaghighi/art) - 🎨 ASCII art library for Python
 - [PyCQA/isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
@@ -1216,7 +1213,7 @@
 - [ESWZY/webvpn-dlut](https://github.com/ESWZY/webvpn-dlut) - WRD 的 WebVPN 的 URL 互转原理🌚
 - [Stunkymonkey/nautilus-open-any-terminal](https://github.com/Stunkymonkey/nautilus-open-any-terminal) - 
 - [Dav1dde/glad](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
-- [mindstorm38/portablemc](https://github.com/mindstorm38/portablemc) - A fast, reliable and cross-platform command-line Minecraft launcher and API for developers. Compatible with the official Minecraft launcher's version specification and supports Fabric, Forge and Quilt
+- [mindstorm38/portablemc](https://github.com/mindstorm38/portablemc) - A fast, reliable and cross-platform command-line Minecraft launcher and API for developers. Compatible with the official Minecraft launcher's version specification and supports Fabric, Forge, NeoForge
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
@@ -1237,7 +1234,7 @@
 - [sepandhaghighi/art](https://github.com/sepandhaghighi/art) - 🎨 ASCII art library for Python
 - [PyCQA/isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
 - [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger) - Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.
-- [mindstorm38/portablemc](https://github.com/mindstorm38/portablemc) - A fast, reliable and cross-platform command-line Minecraft launcher and API for developers. Compatible with the official Minecraft launcher's version specification and supports Fabric, Forge and Quilt
+- [mindstorm38/portablemc](https://github.com/mindstorm38/portablemc) - A fast, reliable and cross-platform command-line Minecraft launcher and API for developers. Compatible with the official Minecraft launcher's version specification and supports Fabric, Forge, NeoForge
 - [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
 
 ## pytorch 
@@ -1262,7 +1259,6 @@
 ## react 
 
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
-- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [jekyll/jekyll-admin](https://github.com/jekyll/jekyll-admin) - A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
 - [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 
