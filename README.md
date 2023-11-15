@@ -169,9 +169,9 @@
 
 ## Go 
 
+- [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
 - [pacur/pacur](https://github.com/pacur/pacur) - Automated deb, rpm and pkgbuild build system
 - [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
-- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [gsamokovarov/jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate faster by learning your habits. ✌️
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
@@ -417,6 +417,7 @@
 
 ## Python 
 
+- [rpm-software-management/dnf](https://github.com/rpm-software-management/dnf) - Package manager based on libdnf and libsolv. Replaces YUM.
 - [hakandundar34coding/system-monitoring-center](https://github.com/hakandundar34coding/system-monitoring-center) - Multi-featured system monitor
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [sepandhaghighi/art](https://github.com/sepandhaghighi/art) - 🎨 ASCII art library for Python
@@ -450,7 +451,7 @@
 - [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) - RISC-V Opcodes
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client in Python / PyGObject
-- [mindstorm38/portablemc](https://github.com/mindstorm38/portablemc) - A fast, reliable and cross-platform command-line Minecraft launcher and API for developers. Compatible with the official Minecraft launcher's version specification and supports Fabric, Forge and Quilt
+- [mindstorm38/portablemc](https://github.com/mindstorm38/portablemc) - A fast, reliable and cross-platform command-line Minecraft launcher and API for developers. Compatible with the official Minecraft launcher's version specification and supports Fabric, Forge, NeoForge
 - [felinae98/clashup](https://github.com/felinae98/clashup) - Subscribe updator for clash on Archlinux
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
@@ -607,7 +608,6 @@
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A Native GOG, Amazon and Epic Games Launcher for Linux, Windows and Mac.
 - [qjebbs/vscode-plantuml](https://github.com/qjebbs/vscode-plantuml) - Rich PlantUML support for Visual Studio Code.
-- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
