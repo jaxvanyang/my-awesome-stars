@@ -116,7 +116,6 @@
 - [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
-- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [jellyfin/jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Jellyfin Desktop Client based on Plex Media Player
 - [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch emulator
 - [jakcron/nstool](https://github.com/jakcron/nstool) - General purpose read/extract tool for Nintendo Switch file formats.
@@ -349,6 +348,7 @@
 
 ## Makefile 
 
+- [jaxvanyang/comic-shanns-nerd](https://github.com/jaxvanyang/comic-shanns-nerd) - a classy font, the nerd font version
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [zh-google-styleguide/zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) - Google 开源项目风格指南 (中文版)
 
@@ -366,7 +366,6 @@
 - [jesusmgg/comic-shanns-mono](https://github.com/jesusmgg/comic-shanns-mono) - a classy font for programming
 - [shannpersand/comic-shanns](https://github.com/shannpersand/comic-shanns) - a classy font
 - [LewisJEllis/awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
-- [MetaCubeX/meta-rules-dat](https://github.com/MetaCubeX/meta-rules-dat) - 🐱 rules-dat for Clash.Meta
 - [MetaCubeX/Clash.Meta](https://github.com/MetaCubeX/Clash.Meta) - A rule-based tunnel in Go.
 - [ValveSoftware/steam-for-linux](https://github.com/ValveSoftware/steam-for-linux) - Issue tracking for the Steam for Linux beta client
 - [davinci1010/pinduoduo_backdoor](https://github.com/davinci1010/pinduoduo_backdoor) - 拼多多apk内嵌提权代码，及动态下发dex分析
@@ -437,6 +436,7 @@
 - [talkiq/pystun3](https://github.com/talkiq/pystun3) - A Python STUN client for getting NAT type and external IP
 - [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger
 - [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger) - Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.
+- [MetaCubeX/meta-rules-dat](https://github.com/MetaCubeX/meta-rules-dat) - 🐱 rules-dat for Clash.Meta
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
 - [dialect-app/dialect](https://github.com/dialect-app/dialect) - A translation app for GNOME.
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
@@ -502,6 +502,7 @@
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [analysis-tools-dev/dynamic-analysis](https://github.com/analysis-tools-dev/dynamic-analysis) - ⚙️ A curated list of dynamic analysis tools and linters for all programming languages, binaries, and more.
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!
@@ -598,6 +599,10 @@
 
 ## TypeScript 
 
+- [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
+- [actions/download-artifact](https://github.com/actions/download-artifact) - 
+- [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
+- [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [Kir-Antipov/mc-publish](https://github.com/Kir-Antipov/mc-publish) - 🚀 Your one-stop GitHub Action for seamless Minecraft project publication across various platforms.
@@ -627,7 +632,7 @@
 - [vim-scripts/ReplaceWithRegister](https://github.com/vim-scripts/ReplaceWithRegister) - Replace text with the contents of a register.
 - [tpope/vim-surround](https://github.com/tpope/vim-surround) - surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-- [dofy/learn-vim](https://github.com/dofy/learn-vim) - Vim 实操教程（Learning Vim）Vim practical tutorial.
+- [dofy/learn-vim](https://github.com/dofy/learn-vim) - Learning Vim. A Hands-On Tutorial of Vim.
 - [udalov/kotlin-vim](https://github.com/udalov/kotlin-vim) - Kotlin plugin for Vim. Featuring: syntax highlighting, basic indentation, Syntastic support
 
 ## Vue 
