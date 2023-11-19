@@ -751,6 +751,7 @@
 
 ## lua 
 
+- [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) - autopairs for neovim written by lua
 - [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [xmake-io/xmake-docs](https://github.com/xmake-io/xmake-docs) - The xmake online documentation site
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
@@ -857,6 +858,8 @@
 
 ## neovim 
 
+- [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) - autopairs for neovim written by lua
+- [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
 - [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip) - Snippet Engine for Neovim written in Lua.
@@ -924,6 +927,8 @@
 
 ## others 
 
+- [Umio-Yasuno/amdgpu_top](https://github.com/Umio-Yasuno/amdgpu_top) - Tool to display AMDGPU usage
+- [lightvector/KataGo](https://github.com/lightvector/KataGo) - GTP engine and self-play learning in Go
 - [ubuntu-flutter-community/musicpod](https://github.com/ubuntu-flutter-community/musicpod) - Music, radio and podcast player for the Ubuntu Desktop
 - [jaxvanyang/comic-shanns-nerd](https://github.com/jaxvanyang/comic-shanns-nerd) - a classy font, the nerd font version
 - [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
@@ -933,7 +938,6 @@
 - [DadSchoorse/vkBasalt](https://github.com/DadSchoorse/vkBasalt) - a vulkan post processing layer for linux
 - [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope) - SteamOS session compositing window manager
 - [tuberry/color-picker](https://github.com/tuberry/color-picker) - Simple color picker for GNOME Shell.
-- [jaxvanyang/relink](https://github.com/jaxvanyang/relink) - Rename or link multiple files. (WIP)
 - [hakandundar34coding/system-monitoring-center](https://github.com/hakandundar34coding/system-monitoring-center) - Multi-featured system monitor
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
 - [rust-lang/docker-rust](https://github.com/rust-lang/docker-rust) - 
@@ -1408,6 +1412,7 @@
 
 ## vim 
 
+- [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) - autopairs for neovim written by lua
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
