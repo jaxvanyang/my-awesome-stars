@@ -14,8 +14,6 @@
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [bash](#bash)
-- [bitcoin](#bitcoin)
-- [blockchain](#blockchain)
 - [c](#c)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
@@ -41,7 +39,6 @@
 - [emoji](#emoji)
 - [emulator](#emulator)
 - [es6](#es6)
-- [ethereum](#ethereum)
 - [firefox](#firefox)
 - [flutter](#flutter)
 - [font](#font)
@@ -218,14 +215,6 @@
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [daniel-sc/bash-shell-to-bat-converter](https://github.com/daniel-sc/bash-shell-to-bat-converter) - Converter for bash shell scripts to windows batch files.
 
-## bitcoin 
-
-- [ArchLinuxStudio/ArchLinuxTutorial](https://github.com/ArchLinuxStudio/ArchLinuxTutorial) - ✨Arch Linux安装使用教程 每日实时更新！ | 包含ArchLinux从安装到日常使用、娱乐、编程、媒体制作的各个方面，让Arch成为你的常用系统吧！ | 提供在线网页文档 ✨
-
-## blockchain 
-
-- [ArchLinuxStudio/ArchLinuxTutorial](https://github.com/ArchLinuxStudio/ArchLinuxTutorial) - ✨Arch Linux安装使用教程 每日实时更新！ | 包含ArchLinux从安装到日常使用、娱乐、编程、媒体制作的各个方面，让Arch成为你的常用系统吧！ | 提供在线网页文档 ✨
-
 ## c 
 
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
@@ -312,7 +301,6 @@
 
 ## cryptocurrency 
 
-- [ArchLinuxStudio/ArchLinuxTutorial](https://github.com/ArchLinuxStudio/ArchLinuxTutorial) - ✨Arch Linux安装使用教程 每日实时更新！ | 包含ArchLinux从安装到日常使用、娱乐、编程、媒体制作的各个方面，让Arch成为你的常用系统吧！ | 提供在线网页文档 ✨
 - [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark
 
 ## csharp 
@@ -416,10 +404,6 @@
 ## es6 
 
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
-
-## ethereum 
-
-- [ArchLinuxStudio/ArchLinuxTutorial](https://github.com/ArchLinuxStudio/ArchLinuxTutorial) - ✨Arch Linux安装使用教程 每日实时更新！ | 包含ArchLinux从安装到日常使用、娱乐、编程、媒体制作的各个方面，让Arch成为你的常用系统吧！ | 提供在线网页文档 ✨
 
 ## firefox 
 
@@ -729,7 +713,6 @@
 - [OpenPrinting/cups](https://github.com/OpenPrinting/cups) - OpenPrinting CUPS Sources
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
 - [springzfx/cgproxy](https://github.com/springzfx/cgproxy) - Transparent Proxy with cgroup v2。透明代理，配合v2ray/Qv2ray食用最佳
-- [ArchLinuxStudio/ArchLinuxTutorial](https://github.com/ArchLinuxStudio/ArchLinuxTutorial) - ✨Arch Linux安装使用教程 每日实时更新！ | 包含ArchLinux从安装到日常使用、娱乐、编程、媒体制作的各个方面，让Arch成为你的常用系统吧！ | 提供在线网页文档 ✨
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [MinecraftServerControl/mscs](https://github.com/MinecraftServerControl/mscs) - Powerful command-line control for UNIX and Linux powered Minecraft servers
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPUs process monitoring for AMD, Intel and NVIDIA
