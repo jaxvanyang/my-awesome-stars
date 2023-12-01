@@ -12,6 +12,7 @@
 - [C++](#c++)
 - [CMake](#cmake)
 - [CSS](#css)
+- [Clojure](#clojure)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Go](#go)
@@ -167,6 +168,10 @@
 - [progit/progit2-zh](https://github.com/progit/progit2-zh) - 
 - [robertovernina/NordArc](https://github.com/robertovernina/NordArc) - Arc GTK / Gnome Shell customisation based on the Nord color palette
 
+## Clojure 
+
+- [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
+
 ## Dart 
 
 - [ubuntu-flutter-community/musicpod](https://github.com/ubuntu-flutter-community/musicpod) - Music, radio and podcast player for the Ubuntu Desktop
@@ -179,6 +184,7 @@
 
 ## Go 
 
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
 - [pacur/pacur](https://github.com/pacur/pacur) - Automated deb, rpm and pkgbuild build system
 - [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
@@ -381,7 +387,7 @@
 - [jesusmgg/comic-shanns-mono](https://github.com/jesusmgg/comic-shanns-mono) - a classy font for programming
 - [shannpersand/comic-shanns](https://github.com/shannpersand/comic-shanns) - a classy font
 - [LewisJEllis/awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
-- [MetaCubeX/Clash.Meta](https://github.com/MetaCubeX/Clash.Meta) - A rule-based tunnel in Go.
+- [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 - [ValveSoftware/steam-for-linux](https://github.com/ValveSoftware/steam-for-linux) - Issue tracking for the Steam for Linux beta client
 - [davinci1010/pinduoduo_backdoor](https://github.com/davinci1010/pinduoduo_backdoor) - 拼多多apk内嵌提权代码，及动态下发dex分析
 - [riscv-non-isa/riscv-asm-manual](https://github.com/riscv-non-isa/riscv-asm-manual) - RISC-V Assembly Programmer's Manual
@@ -451,7 +457,7 @@
 - [talkiq/pystun3](https://github.com/talkiq/pystun3) - A Python STUN client for getting NAT type and external IP
 - [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger
 - [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger) - Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.
-- [MetaCubeX/meta-rules-dat](https://github.com/MetaCubeX/meta-rules-dat) - 🐱 rules-dat for Clash.Meta
+- [MetaCubeX/meta-rules-dat](https://github.com/MetaCubeX/meta-rules-dat) - 🐱 rules-dat for mihomo
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
 - [dialect-app/dialect](https://github.com/dialect-app/dialect) - A translation app for GNOME.
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
