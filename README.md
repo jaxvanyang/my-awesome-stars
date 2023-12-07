@@ -598,7 +598,6 @@
 - [StephanTLavavej/mingw-distro](https://github.com/StephanTLavavej/mingw-distro) - MinGW distro build scripts.
 - [Kaiede/docker-minecraft-bedrock-backup](https://github.com/Kaiede/docker-minecraft-bedrock-backup) - Backup container service for itzg/minecraft-bedrock-server or itzg/minecraft-server
 - [itzg/docker-minecraft-bedrock-server](https://github.com/itzg/docker-minecraft-bedrock-server) - Containerized Minecraft Bedrock Dedicated Server with selectable version
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [zikywang/JD-FreeFuck](https://github.com/zikywang/JD-FreeFuck) - 《JD薅羊毛》一键部署 For Linux
 - [meselson/JD-FreeFuck](https://github.com/meselson/JD-FreeFuck) - 《京东薅羊毛》一键部署脚本
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
