@@ -105,6 +105,7 @@
 - [pentesting](#pentesting)
 - [perl](#perl)
 - [php](#php)
+- [privacy](#privacy)
 - [programming](#programming)
 - [pwa](#pwa)
 - [python](#python)
@@ -1191,6 +1192,12 @@
 - [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [yuantuo666/baiduwp-php](https://github.com/yuantuo666/baiduwp-php) - A tool to get the download link of the Baidu netdisk / 一个获取百度网盘分享链接下载地址的工具
+
+## privacy 
+
+- [Moustachauve/cookie-editor](https://github.com/Moustachauve/cookie-editor) - A powerful browser extension to create, edit and delete cookies
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 
 ## programming 
 
