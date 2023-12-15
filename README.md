@@ -119,6 +119,7 @@
 
 ## C++ 
 
+- [vgvassilev/cling](https://github.com/vgvassilev/cling) - The interactive C++ interpreter Cling
 - [lightvector/KataGo](https://github.com/lightvector/KataGo) - GTP engine and self-play learning in Go
 - [DadSchoorse/vkBasalt](https://github.com/DadSchoorse/vkBasalt) - a vulkan post processing layer for linux
 - [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope) - SteamOS session compositing window manager
@@ -435,6 +436,7 @@
 
 ## Python 
 
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
 - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [rpm-software-management/dnf](https://github.com/rpm-software-management/dnf) - Package manager based on libdnf and libsolv. Replaces YUM.
 - [hakandundar34coding/system-monitoring-center](https://github.com/hakandundar34coding/system-monitoring-center) - Multi-featured system monitor
