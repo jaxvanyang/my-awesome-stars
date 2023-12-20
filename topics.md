@@ -1265,6 +1265,7 @@
 
 ## python3 
 
+- [m-burst/flake8-pytest-style](https://github.com/m-burst/flake8-pytest-style) - A flake8 plugin checking common style issues or inconsistencies with pytest-based tests.
 - [sepandhaghighi/art](https://github.com/sepandhaghighi/art) - 🎨 ASCII art library for Python
 - [PyCQA/isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
 - [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger) - Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.
