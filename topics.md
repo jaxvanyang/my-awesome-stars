@@ -994,7 +994,6 @@
 - [akhilnarang/scripts](https://github.com/akhilnarang/scripts) - 
 - [PixelExperience-Devices/device_google_crosshatch](https://github.com/PixelExperience-Devices/device_google_crosshatch) - Dependency of Google Pixel 3 (blueline), Google Pixel 3 XL (crosshatch)
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
-- [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
 - [ksco/rvemu](https://github.com/ksco/rvemu) - A simple and fast RISC-V JIT emulator.
 - [skywind3000/ECDICT](https://github.com/skywind3000/ECDICT) - Free English to Chinese Dictionary Database
 - [CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn) - A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
