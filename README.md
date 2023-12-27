@@ -437,6 +437,7 @@
 
 ## Python 
 
+- [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
 - [maxpumperla/betago](https://github.com/maxpumperla/betago) - BetaGo: AlphaGo for the masses, live on GitHub.
 - [m-burst/flake8-pytest-style](https://github.com/m-burst/flake8-pytest-style) - A flake8 plugin checking common style issues or inconsistencies with pytest-based tests.
 - [nedbat/coveragepy](https://github.com/nedbat/coveragepy) - The code coverage tool for Python
@@ -633,6 +634,7 @@
 
 ## TypeScript 
 
+- [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open_umbrella:
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
 - [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [actions/download-artifact](https://github.com/actions/download-artifact) - 
