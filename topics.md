@@ -940,6 +940,7 @@
 
 ## others 
 
+- [GPUOpen-Drivers/AMDVLK](https://github.com/GPUOpen-Drivers/AMDVLK) - AMD Open Source Driver For Vulkan
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
 - [Aposymbiont/split-keyboards](https://github.com/Aposymbiont/split-keyboards) - A collection of ergonomic split keyboards ⌨
 - [jhelvy/splitKbCompare](https://github.com/jhelvy/splitKbCompare) - An interactive tool for comparing layouts of different split mechanical keyboards
@@ -1189,6 +1190,7 @@
 
 ## package-manager 
 
+- [termux/termux-language-server](https://github.com/termux/termux-language-server) - A language server for some specific bash scripts
 - [rpm-software-management/dnf](https://github.com/rpm-software-management/dnf) - Package manager based on libdnf and libsolv. Replaces YUM.
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
@@ -1421,6 +1423,7 @@
 
 ## termux 
 
+- [termux/termux-language-server](https://github.com/termux/termux-language-server) - A language server for some specific bash scripts
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [lzhiyong/android-sdk-tools](https://github.com/lzhiyong/android-sdk-tools) - building android-sdk tools  for Android
 - [jaxvanyang/termux.init](https://github.com/jaxvanyang/termux.init) - Set up your Termux on the fly.
