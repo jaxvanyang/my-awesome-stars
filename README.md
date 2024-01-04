@@ -381,6 +381,7 @@
 
 ## Others 
 
+- [GPUOpen-Drivers/AMDVLK](https://github.com/GPUOpen-Drivers/AMDVLK) - AMD Open Source Driver For Vulkan
 - [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -438,6 +439,7 @@
 
 ## Python 
 
+- [termux/termux-language-server](https://github.com/termux/termux-language-server) - A language server for some specific bash scripts
 - [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer) - Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser!
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
 - [maxpumperla/betago](https://github.com/maxpumperla/betago) - BetaGo: AlphaGo for the masses, live on GitHub.
