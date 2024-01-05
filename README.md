@@ -58,6 +58,7 @@
 
 ## C 
 
+- [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [ToshioCP/Gtk4-tutorial](https://github.com/ToshioCP/Gtk4-tutorial) - GTK 4 tutorial for beginners
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
@@ -120,6 +121,7 @@
 
 ## C++ 
 
+- [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 - [vgvassilev/cling](https://github.com/vgvassilev/cling) - The interactive C++ interpreter Cling
 - [lightvector/KataGo](https://github.com/lightvector/KataGo) - GTP engine and self-play learning in Go
 - [DadSchoorse/vkBasalt](https://github.com/DadSchoorse/vkBasalt) - a vulkan post processing layer for linux
@@ -226,7 +228,6 @@
 - [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
-- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [mdn/learning-area](https://github.com/mdn/learning-area) - GitHub repo for the MDN Learning Area.
 - [riggraz/no-style-please](https://github.com/riggraz/no-style-please) - A (nearly) no-CSS, fast, minimalist Jekyll theme.
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
@@ -599,6 +600,7 @@
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [RiwiHow/FixChinaCarrier](https://github.com/RiwiHow/FixChinaCarrier) - This is a Magisk module to solve the APN problem of the slow speed of China carrier in some roms.
+- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [agkozak/zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited "frecently." A native Zsh port of z.sh with added features.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [jaxvanyang/termux.init](https://github.com/jaxvanyang/termux.init) - Set up your Termux on the fly.
