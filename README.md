@@ -269,7 +269,7 @@
 - [shenjindui/netdisk](https://github.com/shenjindui/netdisk) - 模仿百度云盘版开发的企业云盘后台项目
 - [TeamMidnightDust/MidnightControls](https://github.com/TeamMidnightDust/MidnightControls) - A Minecraft mod adding controller support and enhanced controls overall.
 - [AtomicStryker/atomicstrykers-minecraft-mods](https://github.com/AtomicStryker/atomicstrykers-minecraft-mods) - Repository for my open source Minecraft Mods
-- [huanghongxun/HMCL](https://github.com/huanghongxun/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
+- [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
 - [android/connectivity-samples](https://github.com/android/connectivity-samples) - Multiple samples showing the best practices in connectivity on Android.
 - [jsquared21/Intro-to-Java-Programming](https://github.com/jsquared21/Intro-to-Java-Programming) - Solutions to Programming Exercises in Introduction to Java Programming, Comprehensive Version (10th Edition) by Y. Daniel Liang
 - [Crazyokd/Enjoy-Design-Pattern](https://github.com/Crazyokd/Enjoy-Design-Pattern) - 品尝【设计模式】
@@ -441,6 +441,7 @@
 
 ## Python 
 
+- [Taiko2k/GTK4PythonTutorial](https://github.com/Taiko2k/GTK4PythonTutorial) - GTK4 + Python tutorial with code examples
 - [termux/termux-language-server](https://github.com/termux/termux-language-server) - A language server for some specific bash scripts
 - [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer) - Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser!
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
