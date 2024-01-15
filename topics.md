@@ -86,6 +86,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [material-design](#material-design)
+- [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [mobile](#mobile)
 - [monero](#monero)
@@ -829,8 +830,15 @@
 - [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Vue.js Framework - ready-to-use Vue components with Material Design, free forever.
 - [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
 
+## microsoft 
+
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
+
 ## minecraft 
 
+- [ReplayMod/ReplayMod](https://github.com/ReplayMod/ReplayMod) - Minecraft ReplayMod
 - [tr7zw/3d-Skin-Layers](https://github.com/tr7zw/3d-Skin-Layers) - Renders the player skin layer in 3d
 - [Kir-Antipov/mc-publish](https://github.com/Kir-Antipov/mc-publish) - 🚀 Your one-stop GitHub Action for seamless Minecraft project publication across various platforms.
 - [Enaium-FabricMC/OneKeyMiner](https://github.com/Enaium-FabricMC/OneKeyMiner) - A minecraft mod for Fabric that allows you to mine blocks with one mining action.
