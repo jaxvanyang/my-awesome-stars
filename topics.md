@@ -554,7 +554,6 @@
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [TerraformersMC/ModMenu](https://github.com/TerraformersMC/ModMenu) - A menu for, you guessed it, mods!
 - [FabricMC/fabric](https://github.com/FabricMC/fabric) - Essential hooks for modding with Fabric.
-- [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
 - [online-go/online-go.com](https://github.com/online-go/online-go.com) - Source code for the Online-Go.com web interface
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -1033,6 +1032,7 @@
 - [jellyfin/jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Jellyfin Desktop Client based on Plex Media Player
 - [josherich/repo-to-pdf](https://github.com/josherich/repo-to-pdf) - repository to pdf
 - [jakcron/nstool](https://github.com/jakcron/nstool) - General purpose read/extract tool for Nintendo Switch file formats.
+- [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
 - [LewisJEllis/awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
 - [haishanh/yacd](https://github.com/haishanh/yacd) - Yet Another Clash Dashboard
 - [MetaCubeX/meta-rules-dat](https://github.com/MetaCubeX/meta-rules-dat) - 🐱 rules-dat for mihomo
