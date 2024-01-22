@@ -972,6 +972,7 @@
 
 ## others 
 
+- [juliand665/Dynamic-FPS](https://github.com/juliand665/Dynamic-FPS) - Improve performance when Minecraft is in the background
 - [Edenhofer/minecraft-server](https://github.com/Edenhofer/minecraft-server) - Control Script for Minecraft Servers
 - [archlinuxcn/repo](https://github.com/archlinuxcn/repo) - Arch Linux CN Repository
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
@@ -1193,7 +1194,7 @@
 - [jekyll/jemoji](https://github.com/jekyll/jemoji) - GitHub-flavored emoji plugin for Jekyll
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [abbodi1406/offlineinsiderenroll](https://github.com/abbodi1406/offlineinsiderenroll) - OfflineInsiderEnroll - A script to enable access to the Windows Insider Program on machines not signed in with Microsoft Account
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert curl commands into code
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Transpile curl commands into Python, JavaScript and 26 other languages
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [oevery/ninja](https://github.com/oevery/ninja) - 
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
