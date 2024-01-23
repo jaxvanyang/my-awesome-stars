@@ -972,6 +972,9 @@
 
 ## others 
 
+- [mjackson/unpkg](https://github.com/mjackson/unpkg) - The CDN for everything on npm
+- [hrsh7th/vscode-langservers-extracted](https://github.com/hrsh7th/vscode-langservers-extracted) - vscode-langservers bin collection.
+- [pypy/pypy](https://github.com/pypy/pypy) - PyPy is a very fast and compliant implementation of the Python language.
 - [juliand665/Dynamic-FPS](https://github.com/juliand665/Dynamic-FPS) - Improve performance when Minecraft is in the background
 - [Edenhofer/minecraft-server](https://github.com/Edenhofer/minecraft-server) - Control Script for Minecraft Servers
 - [archlinuxcn/repo](https://github.com/archlinuxcn/repo) - Arch Linux CN Repository
