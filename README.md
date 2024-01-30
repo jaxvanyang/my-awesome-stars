@@ -512,7 +512,7 @@
 - [libratbag/piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
 - [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) - RISC-V Opcodes
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
-- [mindstorm38/portablemc](https://github.com/mindstorm38/portablemc) - A fast, reliable and cross-platform command-line Minecraft launcher and API for developers. Compatible with the official Minecraft launcher's version specification and supports Fabric, Forge, NeoForge
+- [mindstorm38/portablemc](https://github.com/mindstorm38/portablemc) - A fast, reliable and cross-platform command-line Minecraft launcher and API for developers. Including fast and easy installation of common mod loaders such as Fabric, Forge, NeoForge and Quilt.
 - [felinae98/clashup](https://github.com/felinae98/clashup) - Subscribe updator for clash on Archlinux
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
