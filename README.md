@@ -42,6 +42,7 @@
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+- [V](#v)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [reStructuredText](#restructuredtext)
@@ -252,6 +253,7 @@
 
 ## Java 
 
+- [tr7zw/Exordium](https://github.com/tr7zw/Exordium) - There is no good reason to render the hotbar at 100+ fps
 - [KDE/kdeconnect-android](https://github.com/KDE/kdeconnect-android) - Native Android port of the KDE Connect Qt app
 - [juliand665/Dynamic-FPS](https://github.com/juliand665/Dynamic-FPS) - Improve performance when Minecraft is in the background
 - [CaffeineMC/lithium-fabric](https://github.com/CaffeineMC/lithium-fabric) - A Fabric mod designed to improve the general performance of Minecraft without breaking things
@@ -458,6 +460,7 @@
 
 ## Python 
 
+- [derrod/legendary](https://github.com/derrod/legendary) - Legendary - A free and open-source replacement for the Epic Games Launcher
 - [fluentpython/example-code-2e](https://github.com/fluentpython/example-code-2e) - Example code for Fluent Python, 2nd edition (O'Reilly 2022)
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [google/pytype](https://github.com/google/pytype) - A static type analyzer for Python code
@@ -563,6 +566,7 @@
 
 ## Rust 
 
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [tldr-pages/tlrc](https://github.com/tldr-pages/tlrc) - A tldr client written in Rust
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
@@ -671,6 +675,7 @@
 
 ## TypeScript 
 
+- [microsoft/node-jsonc-parser](https://github.com/microsoft/node-jsonc-parser) - Scanner and parser for JSON with comments.
 - [SukkaW/Surge](https://github.com/SukkaW/Surge) - Rule Snippet & Rule Set for Surge / Clash Premium
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
@@ -702,6 +707,10 @@
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Transpile curl commands into Python, JavaScript and 27 other languages
 - [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+
+## V 
+
+- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 
 ## Vim Script 
 
