@@ -1416,6 +1416,7 @@
 
 ## rust 
 
+- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [tldr-pages/tlrc](https://github.com/tldr-pages/tlrc) - A tldr client written in Rust
 - [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
