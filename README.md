@@ -112,7 +112,6 @@
 - [blabla-my/CSAPP-malloclab](https://github.com/blabla-my/CSAPP-malloclab) - 97 points on traces. Optimization for the realloc and binary
 - [Hansimov/csapp](https://github.com/Hansimov/csapp) - 个人整理的《深入理解计算机系统》中文电子版（原书第 3 版）与实验材料：https://hansimov.gitbook.io/csapp/
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-- [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 
 ## C# # 
