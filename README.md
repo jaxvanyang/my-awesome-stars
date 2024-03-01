@@ -198,6 +198,7 @@
 
 ## Go 
 
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
 - [pacur/pacur](https://github.com/pacur/pacur) - Automated deb, rpm and pkgbuild build system
 - [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
