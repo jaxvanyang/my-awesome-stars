@@ -27,6 +27,7 @@
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [OCaml](#ocaml)
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
@@ -180,6 +181,7 @@
 
 ## Clojure 
 
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 
 ## Dart 
@@ -402,6 +404,10 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 
+## OCaml 
+
+- [libguestfs/guestfs-tools](https://github.com/libguestfs/guestfs-tools) - Tools for accessing and modifying guest disk images
+
 ## Others 
 
 - [valpackett/awesome-gtk](https://github.com/valpackett/awesome-gtk) - List of awesome GTK (3/4) applications
@@ -569,6 +575,7 @@
 
 ## Rust 
 
+- [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux AMDGPU Controller
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [tldr-pages/tlrc](https://github.com/tldr-pages/tlrc) - A tldr client written in Rust
