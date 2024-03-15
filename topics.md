@@ -1378,6 +1378,7 @@
 
 ## python3 
 
+- [kraanzu/smassh](https://github.com/kraanzu/smassh) - Smassh your Keyboard, TUI Edition
 - [fluentpython/example-code-2e](https://github.com/fluentpython/example-code-2e) - Example code for Fluent Python, 2nd edition (O'Reilly 2022)
 - [m-burst/flake8-pytest-style](https://github.com/m-burst/flake8-pytest-style) - A flake8 plugin checking common style issues or inconsistencies with pytest-based tests.
 - [sepandhaghighi/art](https://github.com/sepandhaghighi/art) - 🎨 ASCII art library for Python
