@@ -448,7 +448,6 @@
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [eastmountyxz/CSDNBlog-Security-Based](https://github.com/eastmountyxz/CSDNBlog-Security-Based) - 为了更好地管理博客文章，分享更好的知识，该系列资源为作者CSDN博客的备份文件。本资源为网络安全自学篇，包括作者安全工具利用、Web渗透、系统安全、CVE漏洞复现、安全论文及会议等知识，希望对您有所帮助！一起加油。
-- [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
@@ -536,7 +535,7 @@
 - [Crazyokd/pt.csust_crawler](https://github.com/Crazyokd/pt.csust_crawler) - 长沙理工大学网络教学平台爬虫
 - [colawithsauce/csust-network-login](https://github.com/colawithsauce/csust-network-login) - Login script for CSUST(长沙理工大学) campus network
 - [aitjcize/cppman](https://github.com/aitjcize/cppman) - C++ 98/11/14 manual pages for Linux/MacOS
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [Crazyokd/yiban-auto](https://github.com/Crazyokd/yiban-auto) - 易班校本化自动打卡
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
