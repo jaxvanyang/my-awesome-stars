@@ -1004,6 +1004,8 @@
 
 ## others 
 
+- [jaxvanyang/dotbackup](https://github.com/jaxvanyang/dotbackup) - YAML config based backup utility.
+- [rmorshea/hatch-build-scripts](https://github.com/rmorshea/hatch-build-scripts) - A plugin for Hatch that runs build scripts and saves their artifacts.
 - [rui314/mold](https://github.com/rui314/mold) - Mold: A Modern Linker 🦠
 - [libguestfs/guestfs-tools](https://github.com/libguestfs/guestfs-tools) - Tools for accessing and modifying guest disk images
 - [BlueSky-07/Shuang](https://github.com/BlueSky-07/Shuang) - :pencil2: 双拼练习
