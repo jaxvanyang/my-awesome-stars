@@ -247,7 +247,6 @@
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
-- [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。
 - [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
@@ -1004,6 +1003,7 @@
 
 ## others 
 
+- [jaxvanyang/dotfiles](https://github.com/jaxvanyang/dotfiles) - Self-use dotfiles, use dotbackup for backup.
 - [jaxvanyang/dotbackup](https://github.com/jaxvanyang/dotbackup) - YAML config based backup utility.
 - [rmorshea/hatch-build-scripts](https://github.com/rmorshea/hatch-build-scripts) - A plugin for Hatch that runs build scripts and saves their artifacts.
 - [rui314/mold](https://github.com/rui314/mold) - Mold: A Modern Linker 🦠
