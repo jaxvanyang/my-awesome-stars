@@ -364,6 +364,7 @@
 
 ## deep-learning 
 
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
 
 ## deno 
@@ -826,6 +827,7 @@
 
 ## machine-learning 
 
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 
@@ -955,6 +957,7 @@
 
 ## neural-network 
 
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [maxpumperla/betago](https://github.com/maxpumperla/betago) - BetaGo: AlphaGo for the masses, live on GitHub.
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
 
@@ -977,6 +980,7 @@
 
 ## numpy 
 
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
 
@@ -1319,6 +1323,7 @@
 
 ## python 
 
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [fluentpython/example-code-2e](https://github.com/fluentpython/example-code-2e) - Example code for Fluent Python, 2nd edition (O'Reilly 2022)
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [google/pytype](https://github.com/google/pytype) - A static type analyzer for Python code
