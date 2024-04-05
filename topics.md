@@ -60,6 +60,7 @@
 - [google](#google)
 - [gradle](#gradle)
 - [hacking](#hacking)
+- [hacking-tool](#hacking-tool)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
 - [html](#html)
@@ -546,6 +547,10 @@
 ## hacking 
 
 - [brannondorsey/wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
+- [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
+
+## hacking-tool 
+
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 
 ## hacktoberfest 
