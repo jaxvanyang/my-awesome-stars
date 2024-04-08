@@ -23,6 +23,7 @@
 - [code](#code)
 - [code-quality](#code-quality)
 - [compiler](#compiler)
+- [config](#config)
 - [cpp](#cpp)
 - [csharp](#csharp)
 - [css](#css)
@@ -55,6 +56,7 @@
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
+- [github-config](#github-config)
 - [go](#go)
 - [golang](#golang)
 - [google](#google)
@@ -325,6 +327,10 @@
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 
+## config 
+
+- [seesee777/LemonTea](https://github.com/seesee777/LemonTea) - Config files for my GitHub profile.
+
 ## cpp 
 
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
@@ -520,6 +526,10 @@
 ## github-api 
 
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+
+## github-config 
+
+- [seesee777/LemonTea](https://github.com/seesee777/LemonTea) - Config files for my GitHub profile.
 
 ## go 
 
@@ -1020,6 +1030,7 @@
 
 ## others 
 
+- [AllenDowney/LittleBookOfSemaphores](https://github.com/AllenDowney/LittleBookOfSemaphores) - LaTeX source and supporting code for The Little Book of Semaphores, by Allen Downey.
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck) - Emulator configurator for Steam Deck
