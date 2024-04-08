@@ -46,6 +46,7 @@
 - [V](#v)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+- [mcfunction](#mcfunction)
 - [reStructuredText](#restructuredtext)
 
 ## Assembly 
@@ -686,6 +687,7 @@
 
 ## TeX 
 
+- [AllenDowney/LittleBookOfSemaphores](https://github.com/AllenDowney/LittleBookOfSemaphores) - LaTeX source and supporting code for The Little Book of Semaphores, by Allen Downey.
 - [snowleopard/build](https://github.com/snowleopard/build) - Build Systems à la Carte
 - [CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn) - A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
 - [csust-latex-sig/CSUSTBachelorThesis](https://github.com/csust-latex-sig/CSUSTBachelorThesis) - 长沙理工大学本科生毕业论文 LaTeX 模板。
@@ -753,6 +755,10 @@
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [bradtraversy/vue-crash-2021](https://github.com/bradtraversy/vue-crash-2021) - Task Tracker project from youtube crash course
 - [jsososo/NeteaseMusic](https://github.com/jsososo/NeteaseMusic) - 网易云音乐 & QQ音乐 & 咪咕音乐 第三方 web端 (可播放 vip、下架歌曲)
+
+## mcfunction 
+
+- [seesee777/LemonTea](https://github.com/seesee777/LemonTea) - Config files for my GitHub profile.
 
 ## reStructuredText 
 
