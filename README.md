@@ -127,6 +127,7 @@
 
 ## C++ 
 
+- [johang/btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
