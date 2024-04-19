@@ -248,6 +248,8 @@
 
 ## c 
 
+- [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
@@ -504,6 +506,7 @@
 
 ## game-engine 
 
+- [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game-creation platform with easy modding and game creation
 - [AlmasB/FXTutorials](https://github.com/AlmasB/FXTutorials) - A collection of JavaFX tutorials from my YouTube channel
 
 ## games 
@@ -577,6 +580,8 @@
 
 ## hacktoberfest 
 
+- [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game-creation platform with easy modding and game creation
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [tldr-pages/tlrc](https://github.com/tldr-pages/tlrc) - A tldr client written in Rust
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
@@ -784,6 +789,7 @@
 
 ## linux 
 
+- [libretro/Lakka-LibreELEC](https://github.com/libretro/Lakka-LibreELEC) - Lakka is a lightweight Linux distribution that transforms a small computer into a full blown game console.
 - [johang/btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux AMDGPU Controller
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
@@ -836,6 +842,7 @@
 
 ## lua 
 
+- [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game-creation platform with easy modding and game creation
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - An opinionated Lua code formatter
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neovim plugin to manage the file system and other tree like structures.
@@ -1179,7 +1186,6 @@
 - [cnlohr/mini-rv32ima](https://github.com/cnlohr/mini-rv32ima) - A tiny C header-only risc-v emulator.
 - [riscv-software-src/riscv-angel](https://github.com/riscv-software-src/riscv-angel) - JavaScript RISC-V ISA Simulator. Boots linux in a web-browser.
 - [tobexyz/yaacc-code](https://github.com/tobexyz/yaacc-code) - YAACC - UPNP Client and Server
-- [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
 - [microsoft/WSL-DistroLauncher](https://github.com/microsoft/WSL-DistroLauncher) - Sample/reference launcher app for WSL distro Microsoft Store packages.
 - [haad/proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: "user/pass" for 
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
@@ -1442,6 +1448,7 @@
 
 ## raspberry-pi 
 
+- [libretro/Lakka-LibreELEC](https://github.com/libretro/Lakka-LibreELEC) - Lakka is a lightweight Linux distribution that transforms a small computer into a full blown game console.
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [raspberrypi/rpi-imager](https://github.com/raspberrypi/rpi-imager) - The home of Raspberry Pi Imager, a user-friendly tool for creating bootable media for Raspberry Pi devices.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
