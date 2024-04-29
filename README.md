@@ -238,7 +238,6 @@
 - [jameshamann/jekyll-material-theme](https://github.com/jameshamann/jekyll-material-theme) - A Jekyll Theme based on Material Design using Materialize.
 - [Aposymbiont/split-keyboards](https://github.com/Aposymbiont/split-keyboards) - A collection of ergonomic split keyboards ⌨
 - [xmake-io/xmake-docs](https://github.com/xmake-io/xmake-docs) - The xmake online documentation site
-- [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [msyksphinz-self/riscv-isadoc](https://github.com/msyksphinz-self/riscv-isadoc) - 
 - [NicolBolas/NicolBolas.github.io](https://github.com/NicolBolas/NicolBolas.github.io) - 
@@ -478,6 +477,7 @@
 
 ## Python 
 
+- [zalandoresearch/fashion-mnist](https://github.com/zalandoresearch/fashion-mnist) - A MNIST-like fashion product database. Benchmark :point_down:
 - [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
