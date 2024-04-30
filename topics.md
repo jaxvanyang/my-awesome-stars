@@ -1067,6 +1067,7 @@
 
 ## others 
 
+- [pypa/setuptools](https://github.com/pypa/setuptools) - Official project repository for the Setuptools build system
 - [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide) - 中文技术文档的写作规范
 - [AllenDowney/LittleBookOfSemaphores](https://github.com/AllenDowney/LittleBookOfSemaphores) - LaTeX source and supporting code for The Little Book of Semaphores, by Allen Downey.
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
