@@ -1156,7 +1156,7 @@
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
 - [LewisJEllis/awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
 - [haishanh/yacd](https://github.com/haishanh/yacd) - Yet Another Clash Dashboard
-- [MetaCubeX/meta-rules-dat](https://github.com/MetaCubeX/meta-rules-dat) - 🐱 rules-dat for mihomo
+- [MetaCubeX/meta-rules-dat](https://github.com/MetaCubeX/meta-rules-dat) - rules-dat for mihomo
 - [snowleopard/build](https://github.com/snowleopard/build) - Build Systems à la Carte
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [dialect-app/dialect](https://github.com/dialect-app/dialect) - A translation app for GNOME.
