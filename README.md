@@ -482,6 +482,8 @@
 
 ## Python 
 
+- [sanderland/pysgf](https://github.com/sanderland/pysgf) - Small and simple SGF parser for python
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [iBug/deb-github](https://github.com/iBug/deb-github) - Build a Debian APT repository from packages on GitHub
 - [pypa/setuptools](https://github.com/pypa/setuptools) - Official project repository for the Setuptools build system
 - [zalandoresearch/fashion-mnist](https://github.com/zalandoresearch/fashion-mnist) - A MNIST-like fashion product database. Benchmark :point_down:
