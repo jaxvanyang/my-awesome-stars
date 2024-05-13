@@ -184,6 +184,7 @@
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [josherich/repo-to-pdf](https://github.com/josherich/repo-to-pdf) - repository to pdf
 - [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard
+- [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [progit/progit2-zh](https://github.com/progit/progit2-zh) - 
 - [robertovernina/NordArc](https://github.com/robertovernina/NordArc) - Arc GTK / Gnome Shell customisation based on the Nord color palette
@@ -555,7 +556,6 @@
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
 - [lazyparser/survival-manual-for-interns](https://github.com/lazyparser/survival-manual-for-interns) - 给新员工和实习生的生存指南。 Good Luck and Survive!
-- [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 - [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
 - [spl0k/supysonic](https://github.com/spl0k/supysonic) - Supysonic is a Python implementation of the Subsonic server API.
 - [cyxx/extract_android_ota_payload](https://github.com/cyxx/extract_android_ota_payload) - Extract firmware images from an Android OTA payload.bin file
