@@ -1091,6 +1091,7 @@
 
 ## others 
 
+- [jmgilmer/GoCNN](https://github.com/jmgilmer/GoCNN) - using CNN to do move prediction and board evaluation for the board game Go
 - [iBug/deb-github](https://github.com/iBug/deb-github) - Build a Debian APT repository from packages on GitHub
 - [Dr-Noob/gpufetch](https://github.com/Dr-Noob/gpufetch) - Simple yet fancy GPU architecture fetching tool
 - [hrsh7th/cmp-buffer](https://github.com/hrsh7th/cmp-buffer) - nvim-cmp source for buffer words
