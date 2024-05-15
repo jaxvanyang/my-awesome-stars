@@ -354,6 +354,7 @@
 
 ## Jupyter Notebook 
 
+- [jmgilmer/GoCNN](https://github.com/jmgilmer/GoCNN) - using CNN to do move prediction and board evaluation for the board game Go
 - [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
 
 ## Kotlin 
