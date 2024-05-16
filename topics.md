@@ -1091,6 +1091,9 @@
 
 ## others 
 
+- [friendlyarm/Actions-FriendlyWrt](https://github.com/friendlyarm/Actions-FriendlyWrt) - Build FriendlyWrt using GitHub Actions
+- [karpathy/makemore](https://github.com/karpathy/makemore) - An autoregressive character-level language model for making more things
+- [Micro-han/GameOfGO](https://github.com/Micro-han/GameOfGO) - 深度学习与围棋学习
 - [jmgilmer/GoCNN](https://github.com/jmgilmer/GoCNN) - using CNN to do move prediction and board evaluation for the board game Go
 - [iBug/deb-github](https://github.com/iBug/deb-github) - Build a Debian APT repository from packages on GitHub
 - [Dr-Noob/gpufetch](https://github.com/Dr-Noob/gpufetch) - Simple yet fancy GPU architecture fetching tool
