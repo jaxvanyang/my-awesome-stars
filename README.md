@@ -484,6 +484,8 @@
 
 ## Python 
 
+- [karpathy/makemore](https://github.com/karpathy/makemore) - An autoregressive character-level language model for making more things
+- [Micro-han/GameOfGO](https://github.com/Micro-han/GameOfGO) - 深度学习与围棋学习
 - [sanderland/pysgf](https://github.com/sanderland/pysgf) - Small and simple SGF parser for python
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [iBug/deb-github](https://github.com/iBug/deb-github) - Build a Debian APT repository from packages on GitHub
@@ -650,6 +652,7 @@
 
 ## Shell 
 
+- [friendlyarm/Actions-FriendlyWrt](https://github.com/friendlyarm/Actions-FriendlyWrt) - Build FriendlyWrt using GitHub Actions
 - [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck) - Emulator configurator for Steam Deck
 - [debuerreotype/debuerreotype](https://github.com/debuerreotype/debuerreotype) - reproducible, snapshot-based Debian rootfs builder
 - [Edenhofer/minecraft-server](https://github.com/Edenhofer/minecraft-server) - Control Script for Minecraft Servers
