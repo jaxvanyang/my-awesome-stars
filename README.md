@@ -484,6 +484,7 @@
 
 ## Python 
 
+- [maxpumperla/deep_learning_and_the_game_of_go](https://github.com/maxpumperla/deep_learning_and_the_game_of_go) - Code and other material for the book "Deep Learning and the Game of Go"
 - [karpathy/makemore](https://github.com/karpathy/makemore) - An autoregressive character-level language model for making more things
 - [Micro-han/GameOfGO](https://github.com/Micro-han/GameOfGO) - 深度学习与围棋学习
 - [sanderland/pysgf](https://github.com/sanderland/pysgf) - Small and simple SGF parser for python
