@@ -310,6 +310,7 @@
 
 ## JavaScript 
 
+- [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
 - [BlueSky-07/Shuang](https://github.com/BlueSky-07/Shuang) - :pencil2: 双拼练习
 - [mjackson/unpkg](https://github.com/mjackson/unpkg) - The CDN for everything on npm
 - [tuberry/color-picker](https://github.com/tuberry/color-picker) - Simple color picker for GNOME Shell.
