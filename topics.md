@@ -134,6 +134,7 @@
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [reactjs](#reactjs)
+- [redux](#redux)
 - [reverse-engineering](#reverse-engineering)
 - [ruby](#ruby)
 - [rust](#rust)
@@ -620,6 +621,7 @@
 
 ## hacktoberfest 
 
+- [bemusic/bemuse](https://github.com/bemusic/bemuse) - ⬤▗▚▚▚ Web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
 - [hrsh7th/cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp) - nvim-cmp source for neovim builtin LSP client
 - [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game-creation platform with easy modding and game creation
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
@@ -689,6 +691,7 @@
 
 ## html5 
 
+- [bemusic/bemuse](https://github.com/bemusic/bemuse) - ⬤▗▚▚▚ Web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
 - [DIYgod/APlayer](https://github.com/DIYgod/APlayer) - :lollipop: Wow, such a beautiful HTML5 music player
 
 ## http 
@@ -736,6 +739,7 @@
 
 ## javascript 
 
+- [bemusic/bemuse](https://github.com/bemusic/bemuse) - ⬤▗▚▚▚ Web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -1522,6 +1526,7 @@
 
 ## react 
 
+- [bemusic/bemuse](https://github.com/bemusic/bemuse) - ⬤▗▚▚▚ Web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [jekyll/jekyll-admin](https://github.com/jekyll/jekyll-admin) - A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
@@ -1529,6 +1534,10 @@
 ## reactjs 
 
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
+
+## redux 
+
+- [bemusic/bemuse](https://github.com/bemusic/bemuse) - ⬤▗▚▚▚ Web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
 
 ## reverse-engineering 
 
@@ -1679,6 +1688,7 @@
 
 ## typescript 
 
+- [bemusic/bemuse](https://github.com/bemusic/bemuse) - ⬤▗▚▚▚ Web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
