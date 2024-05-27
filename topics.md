@@ -1115,6 +1115,7 @@
 
 ## others 
 
+- [albfan/miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
 - [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
 - [friendlyarm/Actions-FriendlyWrt](https://github.com/friendlyarm/Actions-FriendlyWrt) - Build FriendlyWrt using GitHub Actions
 - [karpathy/makemore](https://github.com/karpathy/makemore) - An autoregressive character-level language model for making more things
