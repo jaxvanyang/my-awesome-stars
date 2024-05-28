@@ -209,6 +209,7 @@
 
 ## Go 
 
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) - act as self-hosted runner
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
