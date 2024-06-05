@@ -488,6 +488,7 @@
 
 ## Python 
 
+- [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [jliljebl/flowblade](https://github.com/jliljebl/flowblade) - Video Editor for Linux
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 - [maxpumperla/deep_learning_and_the_game_of_go](https://github.com/maxpumperla/deep_learning_and_the_game_of_go) - Code and other material for the book "Deep Learning and the Game of Go"
