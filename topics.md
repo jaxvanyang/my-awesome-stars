@@ -368,6 +368,7 @@
 
 ## continuous-integration 
 
+- [uraimo/run-on-arch-action](https://github.com/uraimo/run-on-arch-action) - A Github Action that executes jobs/commands on non-x86 cpu architectures (ARMv6, ARMv7, aarch64, s390x, ppc64le, riscv64) via QEMU
 - [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) - act as self-hosted runner
 
 ## cpp 
@@ -1145,6 +1146,9 @@
 
 ## others 
 
+- [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release
+- [laishulu/Sarasa-Term-SC-Nerd](https://github.com/laishulu/Sarasa-Term-SC-Nerd) - 简体中文终端更纱黑体+Nerd图标字体库。中英文宽度完美2:1，图标长宽经过调整，不会出现对齐问题，尤其适合作为终端字体。
+- [tsoding/rere.py](https://github.com/tsoding/rere.py) - Universal Behavior Testing Tool in Python.
 - [lhotari/action-upterm](https://github.com/lhotari/action-upterm) - Debug your GitHub Actions via SSH by using upterm/tmux to get access to the runner system itself.
 - [jliljebl/flowblade](https://github.com/jliljebl/flowblade) - Video Editor for Linux
 - [albfan/miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
