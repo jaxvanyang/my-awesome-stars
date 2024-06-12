@@ -252,7 +252,7 @@
 ## bash 
 
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
-- [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - Find out what the past year looks like in command line!
+- [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - A Rust-Based Shell History Analyzer
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
@@ -316,7 +316,7 @@
 
 - [wintermute-cell/ngrrram](https://github.com/wintermute-cell/ngrrram) - A TUI tool to help you type faster and learn new layouts. Includes a free cat.
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
-- [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - Find out what the past year looks like in command line!
+- [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - A Rust-Based Shell History Analyzer
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
@@ -1146,6 +1146,8 @@
 
 ## others 
 
+- [maboroshin/qBittorrentDarktheme](https://github.com/maboroshin/qBittorrentDarktheme) - qBittorrent Dark theme
+- [GSConnect/gnome-shell-extension-gsconnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect) - KDE Connect implementation for GNOME
 - [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release
 - [laishulu/Sarasa-Term-SC-Nerd](https://github.com/laishulu/Sarasa-Term-SC-Nerd) - 简体中文终端更纱黑体+Nerd图标字体库。中英文宽度完美2:1，图标长宽经过调整，不会出现对齐问题，尤其适合作为终端字体。
 - [tsoding/rere.py](https://github.com/tsoding/rere.py) - Universal Behavior Testing Tool in Python.
@@ -1241,7 +1243,7 @@
 - [riscv-software-src/riscv-isa-sim](https://github.com/riscv-software-src/riscv-isa-sim) - Spike, a RISC-V ISA Simulator
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
 - [talkiq/pystun3](https://github.com/talkiq/pystun3) - A Python STUN client for getting NAT type and external IP
-- [jellyfin/jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Jellyfin Desktop Client based on Plex Media Player
+- [jellyfin/jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Jellyfin Desktop Client
 - [josherich/repo-to-pdf](https://github.com/josherich/repo-to-pdf) - repository to pdf
 - [jakcron/nstool](https://github.com/jakcron/nstool) - General purpose read/extract tool for Nintendo Switch file formats.
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
@@ -1613,7 +1615,7 @@
 - [wintermute-cell/ngrrram](https://github.com/wintermute-cell/ngrrram) - A TUI tool to help you type faster and learn new layouts. Includes a free cat.
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
-- [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - Find out what the past year looks like in command line!
+- [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - A Rust-Based Shell History Analyzer
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux AMDGPU Controller
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
