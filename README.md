@@ -502,6 +502,7 @@
 
 ## Python 
 
+- [bilibili/Index-1.9B](https://github.com/bilibili/Index-1.9B) - 
 - [ChartBoost/ruff-action](https://github.com/ChartBoost/ruff-action) - A GitHub Action for Ruff
 - [laishulu/Sarasa-Term-SC-Nerd](https://github.com/laishulu/Sarasa-Term-SC-Nerd) - 简体中文终端更纱黑体+Nerd图标字体库。中英文宽度完美2:1，图标长宽经过调整，不会出现对齐问题，尤其适合作为终端字体。
 - [tsoding/rere.py](https://github.com/tsoding/rere.py) - Universal Behavior Testing Tool in Python.
