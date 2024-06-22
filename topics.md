@@ -1178,7 +1178,7 @@
 - [microsoft/node-jsonc-parser](https://github.com/microsoft/node-jsonc-parser) - Scanner and parser for JSON with comments.
 - [debuerreotype/debuerreotype](https://github.com/debuerreotype/debuerreotype) - reproducible, snapshot-based Debian rootfs builder
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [jaxvanyang/comic-shanns-nerd](https://github.com/jaxvanyang/comic-shanns-nerd) - a classy font, the nerd font version
+- [jaxvanyang/comic-shanns-nerd](https://github.com/jaxvanyang/comic-shanns-nerd) - Nerd font version of Comic Shanns.
 - [KDE/kdeconnect-android](https://github.com/KDE/kdeconnect-android) - Native Android port of the KDE Connect Qt app
 - [SukkaW/Surge](https://github.com/SukkaW/Surge) - Rule Snippet & Rule Set for Surge / Clash Premium / Clash Meta
 - [KDE/kdeconnect-kde](https://github.com/KDE/kdeconnect-kde) - Multi-platform app that allows your devices to communicate
