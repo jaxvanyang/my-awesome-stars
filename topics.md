@@ -620,6 +620,7 @@
 
 ## go 
 
+- [SabakiHQ/deadstones](https://github.com/SabakiHQ/deadstones) - Simple Monte Carlo algorithm to determine dead stones on a Go board.
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [SabakiHQ/sgf](https://github.com/SabakiHQ/sgf) - A library for parsing SGF files.
 - [sanderland/pysgf](https://github.com/sanderland/pysgf) - Small and simple SGF parser for python
