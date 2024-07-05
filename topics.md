@@ -56,6 +56,7 @@
 - [emulator](#emulator)
 - [es6](#es6)
 - [firefox](#firefox)
+- [flask](#flask)
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
 - [font](#font)
@@ -546,6 +547,10 @@
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 
+## flask 
+
+- [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
+
 ## flutter 
 
 - [ubuntu-flutter-community/musicpod](https://github.com/ubuntu-flutter-community/musicpod) - Music, radio, television and podcast player for Ubuntu, Windows, MacOs and Android
@@ -674,7 +679,7 @@
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
-- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - An actively maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [jellyfin/jellyfin-androidtv](https://github.com/jellyfin/jellyfin-androidtv) - Android TV Client for Jellyfin
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
@@ -1157,6 +1162,7 @@
 
 ## others 
 
+- [hemanth-nag/Camera_Flask_App](https://github.com/hemanth-nag/Camera_Flask_App) - Camera app using flask, OpenCV wherein we can click pictures, record videos, apply filters like  greyscale, negative and 'face only' snapchat filter.
 - [fph/bastet](https://github.com/fph/bastet) - Evil falling block game. http://fph.altervista.org/prog/bastet.html
 - [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
 - [scratchapixel/scratchapixel-code](https://github.com/scratchapixel/scratchapixel-code) - 
@@ -1498,6 +1504,7 @@
 
 ## python 
 
+- [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [jaxvanyang/batchlink](https://github.com/jaxvanyang/batchlink) - Batch link files without modifying original files
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
@@ -1728,7 +1735,7 @@
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
-- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - An actively maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [wolph/python-progressbar](https://github.com/wolph/python-progressbar) - Progressbar 2 - A progress bar for Python 2 and Python 3 - "pip install progressbar2"
