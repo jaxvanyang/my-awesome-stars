@@ -512,6 +512,7 @@
 
 ## Python 
 
+- [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [hemanth-nag/Camera_Flask_App](https://github.com/hemanth-nag/Camera_Flask_App) - Camera app using flask, OpenCV wherein we can click pictures, record videos, apply filters like  greyscale, negative and 'face only' snapchat filter.
 - [jaxvanyang/batchlink](https://github.com/jaxvanyang/batchlink) - Batch link files without modifying original files
@@ -649,6 +650,7 @@
 - [wintermute-cell/ngrrram](https://github.com/wintermute-cell/ngrrram) - A TUI tool to help you type faster and learn new layouts. Includes a free cat.
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - 👩‍💻 Rust-Based Shell History Analyzer
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux AMDGPU Configuration Tool
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
@@ -769,7 +771,6 @@
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [bemusic/bemuse](https://github.com/bemusic/bemuse) - ⬤▗▚▚▚ Web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
 - [JohnnyMorganz/stylua-action](https://github.com/JohnnyMorganz/stylua-action) - GitHub action for StyLua
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [microsoft/node-jsonc-parser](https://github.com/microsoft/node-jsonc-parser) - Scanner and parser for JSON with comments.
 - [SukkaW/Surge](https://github.com/SukkaW/Surge) - Rule Snippet & Rule Set for Surge / Clash Premium / Clash Meta
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
