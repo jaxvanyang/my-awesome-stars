@@ -17,6 +17,7 @@
 - [babel](#babel)
 - [bash](#bash)
 - [bot](#bot)
+- [bugbounty](#bugbounty)
 - [c](#c)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
@@ -274,6 +275,10 @@
 ## bot 
 
 - [maxpumperla/betago](https://github.com/maxpumperla/betago) - BetaGo: AlphaGo for the masses, live on GitHub.
+
+## bugbounty 
+
+- [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 
 ## c 
 
