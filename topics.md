@@ -435,7 +435,7 @@
 - [zalandoresearch/fashion-mnist](https://github.com/zalandoresearch/fashion-mnist) - A MNIST-like fashion product database. Benchmark :point_down:
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - The Unified ML Representation
+- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert ML Code Between Frameworks
 
 ## deno 
 
@@ -981,7 +981,7 @@
 - [zalandoresearch/fashion-mnist](https://github.com/zalandoresearch/fashion-mnist) - A MNIST-like fashion product database. Benchmark :point_down:
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - The Unified ML Representation
+- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert ML Code Between Frameworks
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 
 ## macos 
@@ -1114,7 +1114,7 @@
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [maxpumperla/betago](https://github.com/maxpumperla/betago) - BetaGo: AlphaGo for the masses, live on GitHub.
-- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - The Unified ML Representation
+- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert ML Code Between Frameworks
 
 ## nextjs 
 
@@ -1142,7 +1142,7 @@
 
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
-- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - The Unified ML Representation
+- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert ML Code Between Frameworks
 
 ## objective-c 
 
@@ -1169,6 +1169,7 @@
 
 ## others 
 
+- [ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03) - 
 - [hemanth-nag/Camera_Flask_App](https://github.com/hemanth-nag/Camera_Flask_App) - Camera app using flask, OpenCV wherein we can click pictures, record videos, apply filters like  greyscale, negative and 'face only' snapchat filter.
 - [fph/bastet](https://github.com/fph/bastet) - Evil falling block game. http://fph.altervista.org/prog/bastet.html
 - [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
@@ -1547,7 +1548,7 @@
 - [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger
 - [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 - [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
-- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - The Unified ML Representation
+- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert ML Code Between Frameworks
 - [ESWZY/webvpn-dlut](https://github.com/ESWZY/webvpn-dlut) - WRD 的 WebVPN 的 URL 互转原理🌚
 - [Stunkymonkey/nautilus-open-any-terminal](https://github.com/Stunkymonkey/nautilus-open-any-terminal) - 
 - [Dav1dde/glad](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
@@ -1582,7 +1583,7 @@
 
 ## pytorch 
 
-- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - The Unified ML Representation
+- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert ML Code Between Frameworks
 
 ## qt 
 
@@ -1735,7 +1736,7 @@
 ## tensorflow 
 
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
-- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - The Unified ML Representation
+- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert ML Code Between Frameworks
 
 ## terminal 
 
