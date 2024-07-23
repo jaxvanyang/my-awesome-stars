@@ -653,6 +653,7 @@
 
 ## Rust 
 
+- [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [SabakiHQ/deadstones](https://github.com/SabakiHQ/deadstones) - Simple Monte Carlo algorithm to determine dead stones on a Go board.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
