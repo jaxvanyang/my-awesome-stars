@@ -653,6 +653,7 @@
 
 ## Rust 
 
+- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [SabakiHQ/deadstones](https://github.com/SabakiHQ/deadstones) - Simple Monte Carlo algorithm to determine dead stones on a Go board.
