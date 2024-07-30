@@ -335,6 +335,7 @@
 
 ## JavaScript 
 
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [GSConnect/gnome-shell-extension-gsconnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect) - KDE Connect implementation for GNOME
 - [lhotari/action-upterm](https://github.com/lhotari/action-upterm) - Debug your GitHub Actions via SSH by using upterm/tmux to get access to the runner system itself.
 - [SabakiHQ/sgf](https://github.com/SabakiHQ/sgf) - A library for parsing SGF files.
@@ -544,7 +545,7 @@
 - [pypa/setuptools](https://github.com/pypa/setuptools) - Official project repository for the Setuptools build system
 - [zalandoresearch/fashion-mnist](https://github.com/zalandoresearch/fashion-mnist) - A MNIST-like fashion product database. Benchmark :point_down:
 - [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
