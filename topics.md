@@ -156,6 +156,9 @@
 - [software](#software)
 - [spring](#spring)
 - [spring-boot](#spring-boot)
+- [sql](#sql)
+- [sql-server](#sql-server)
+- [sqlite](#sqlite)
 - [swift](#swift)
 - [telegram](#telegram)
 - [tensorflow](#tensorflow)
@@ -327,6 +330,7 @@
 
 ## cli 
 
+- [pierrechevalier83/2048-rs](https://github.com/pierrechevalier83/2048-rs) - Rust implementation of 2048 game
 - [wintermute-cell/ngrrram](https://github.com/wintermute-cell/ngrrram) - A TUI tool to help you type faster and learn new layouts. Includes a free cat.
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - 👩‍💻 Rust-Based Shell History Analyzer
@@ -584,6 +588,7 @@
 
 ## game 
 
+- [pierrechevalier83/2048-rs](https://github.com/pierrechevalier83/2048-rs) - Rust implementation of 2048 game
 - [maxpumperla/betago](https://github.com/maxpumperla/betago) - BetaGo: AlphaGo for the masses, live on GitHub.
 
 ## game-development 
@@ -796,6 +801,7 @@
 
 ## javascript 
 
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [bemusic/bemuse](https://github.com/bemusic/bemuse) - ⬤▗▚▚▚ Web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -1176,6 +1182,7 @@
 
 ## others 
 
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
 - [archlinux/aur](https://github.com/archlinux/aur) - ⚠️⚠️Experimental aur.git mirror⚠️⚠️ (read-only mirror)
 - [ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03) - 
@@ -1502,6 +1509,7 @@
 
 ## postgresql 
 
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 
 ## privacy 
@@ -1620,6 +1628,7 @@
 
 ## react 
 
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [bemusic/bemuse](https://github.com/bemusic/bemuse) - ⬤▗▚▚▚ Web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
@@ -1653,6 +1662,7 @@
 
 ## rust 
 
+- [pierrechevalier83/2048-rs](https://github.com/pierrechevalier83/2048-rs) - Rust implementation of 2048 game
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
@@ -1738,6 +1748,18 @@
 ## spring-boot 
 
 - [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard
+
+## sql 
+
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+
+## sql-server 
+
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+
+## sqlite 
+
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 
 ## swift 
 
