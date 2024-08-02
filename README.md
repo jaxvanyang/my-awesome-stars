@@ -524,6 +524,7 @@
 
 ## Python 
 
+- [python/typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [hemanth-nag/Camera_Flask_App](https://github.com/hemanth-nag/Camera_Flask_App) - Camera app using flask, OpenCV wherein we can click pictures, record videos, apply filters like  greyscale, negative and 'face only' snapchat filter.
