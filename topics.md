@@ -1196,6 +1196,7 @@
 
 ## others 
 
+- [cizia64/CrossMix-OS](https://github.com/cizia64/CrossMix-OS) - Enhanced OS for the TrimUI Smart Pro
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
 - [archlinux/aur](https://github.com/archlinux/aur) - ⚠️⚠️Experimental aur.git mirror⚠️⚠️ (read-only mirror)
