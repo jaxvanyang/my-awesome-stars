@@ -1544,6 +1544,7 @@
 
 ## python 
 
+- [mypaint/mypaint](https://github.com/mypaint/mypaint) - MyPaint is a simple drawing and painting program that works well with Wacom-style graphics tablets.
 - [python/typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [jaxvanyang/batchlink](https://github.com/jaxvanyang/batchlink) - Batch link files without modifying original files
