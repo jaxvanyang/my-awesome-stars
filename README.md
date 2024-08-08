@@ -527,6 +527,7 @@
 
 ## Python 
 
+- [mypaint/mypaint](https://github.com/mypaint/mypaint) - MyPaint is a simple drawing and painting program that works well with Wacom-style graphics tablets.
 - [python/typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
