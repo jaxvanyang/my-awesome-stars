@@ -661,6 +661,7 @@
 
 ## Rust 
 
+- [repology/repology-rs](https://github.com/repology/repology-rs) - Repology rewrite in Rust
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [pierrechevalier83/2048-rs](https://github.com/pierrechevalier83/2048-rs) - Rust implementation of 2048 game
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
