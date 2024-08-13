@@ -1195,6 +1195,7 @@
 
 ## others 
 
+- [repology/repology-rs](https://github.com/repology/repology-rs) - Repology rewrite in Rust
 - [kloptops/TRIMUI_EX](https://github.com/kloptops/TRIMUI_EX) - Trimui Extra shit i need.
 - [cizia64/CrossMix-OS](https://github.com/cizia64/CrossMix-OS) - Enhanced OS for the TrimUI Smart Pro
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
