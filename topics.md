@@ -1195,6 +1195,7 @@
 
 ## others 
 
+- [rv2036/riscv-board-wandering](https://github.com/rv2036/riscv-board-wandering) - RISC-V Development Boards Wandering Project. It is part of the Jiachen Project.
 - [repology/repology-rs](https://github.com/repology/repology-rs) - Repology rewrite in Rust
 - [kloptops/TRIMUI_EX](https://github.com/kloptops/TRIMUI_EX) - Trimui Extra shit i need.
 - [cizia64/CrossMix-OS](https://github.com/cizia64/CrossMix-OS) - Enhanced OS for the TrimUI Smart Pro
@@ -1267,7 +1268,7 @@
 - [vgvassilev/cling](https://github.com/vgvassilev/cling) - The interactive C++ interpreter Cling
 - [ToshioCP/Gtk4-tutorial](https://github.com/ToshioCP/Gtk4-tutorial) - GTK 4 tutorial for beginners
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
-- [annacrombie/muon](https://github.com/annacrombie/muon) - An implementation of the meson build system in c99
+- [muon-build/muon](https://github.com/muon-build/muon) - An implementation of the meson build system in c99
 - [atar-axis/xpadneo](https://github.com/atar-axis/xpadneo) - Advanced Linux Driver for Xbox One Wireless Controller (shipped with Xbox One S)
 - [hrsh7th/cmp-path](https://github.com/hrsh7th/cmp-path) - nvim-cmp source for path
 - [Umio-Yasuno/amdgpu_top](https://github.com/Umio-Yasuno/amdgpu_top) - Tool to display AMDGPU usage
