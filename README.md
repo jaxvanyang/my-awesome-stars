@@ -67,6 +67,7 @@
 
 ## C 
 
+- [cheusov/dictd](https://github.com/cheusov/dictd) - Client/server software, human language dictionary databases, and tools supporting the DICT protocol (RFC 2229)
 - [andyholmes/valent](https://github.com/andyholmes/valent) - Connect, control and sync devices
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [albfan/miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
@@ -670,6 +671,8 @@
 
 ## Rust 
 
+- [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
+- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [repology/repology-rs](https://github.com/repology/repology-rs) - Repology rewrite in Rust
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [pierrechevalier83/2048-rs](https://github.com/pierrechevalier83/2048-rs) - Rust implementation of 2048 game
@@ -726,6 +729,7 @@
 
 ## Shell 
 
+- [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux
 - [uraimo/run-on-arch-action](https://github.com/uraimo/run-on-arch-action) - A Github Action that executes jobs/commands on non-x86 cpu architectures (ARMv6, ARMv7, aarch64, s390x, ppc64le, riscv64) via QEMU
 - [friendlyarm/Actions-FriendlyWrt](https://github.com/friendlyarm/Actions-FriendlyWrt) - Build FriendlyWrt using GitHub Actions
 - [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck) - Emulator configurator for Steam Deck
