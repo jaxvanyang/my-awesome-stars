@@ -67,6 +67,7 @@
 
 ## C 
 
+- [koverstreet/bcachefs](https://github.com/koverstreet/bcachefs) - 
 - [cheusov/dictd](https://github.com/cheusov/dictd) - Client/server software, human language dictionary databases, and tools supporting the DICT protocol (RFC 2229)
 - [andyholmes/valent](https://github.com/andyholmes/valent) - Connect, control and sync devices
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
