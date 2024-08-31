@@ -672,6 +672,7 @@
 
 ## Rust 
 
+- [crate-ci/committed](https://github.com/crate-ci/committed) - Nitpicking commit history since beabf39
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [repology/repology-rs](https://github.com/repology/repology-rs) - Repology rewrite in Rust
@@ -730,6 +731,7 @@
 
 ## Shell 
 
+- [lahwaacz/Scripts](https://github.com/lahwaacz/Scripts) - 
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux
 - [uraimo/run-on-arch-action](https://github.com/uraimo/run-on-arch-action) - A Github Action that executes jobs/commands on non-x86 cpu architectures (ARMv6, ARMv7, aarch64, s390x, ppc64le, riscv64) via QEMU
 - [friendlyarm/Actions-FriendlyWrt](https://github.com/friendlyarm/Actions-FriendlyWrt) - Build FriendlyWrt using GitHub Actions
