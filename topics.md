@@ -1219,6 +1219,8 @@
 
 ## others 
 
+- [RsyncProject/rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
+- [coreutils/coreutils](https://github.com/coreutils/coreutils) - upstream mirror
 - [rust-lang/nomicon](https://github.com/rust-lang/nomicon) - The Dark Arts of Advanced and Unsafe Rust Programming
 - [lahwaacz/Scripts](https://github.com/lahwaacz/Scripts) - 
 - [koverstreet/bcachefs](https://github.com/koverstreet/bcachefs) - 
@@ -1232,7 +1234,6 @@
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
 - [archlinux/aur](https://github.com/archlinux/aur) - ⚠️⚠️Experimental aur.git mirror⚠️⚠️ (read-only mirror)
-- [ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03) - 
 - [hemanth-nag/Camera_Flask_App](https://github.com/hemanth-nag/Camera_Flask_App) - Camera app using flask, OpenCV wherein we can click pictures, record videos, apply filters like  greyscale, negative and 'face only' snapchat filter.
 - [fph/bastet](https://github.com/fph/bastet) - Evil falling block game. http://fph.altervista.org/prog/bastet.html
 - [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
