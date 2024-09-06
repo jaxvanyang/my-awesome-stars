@@ -30,7 +30,6 @@
 - [Kotlin](#kotlin)
 - [LLVM](#llvm)
 - [Lua](#lua)
-- [MATLAB](#matlab)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [OCaml](#ocaml)
@@ -67,6 +66,8 @@
 
 ## C 
 
+- [RsyncProject/rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
+- [coreutils/coreutils](https://github.com/coreutils/coreutils) - upstream mirror
 - [koverstreet/bcachefs](https://github.com/koverstreet/bcachefs) - 
 - [cheusov/dictd](https://github.com/cheusov/dictd) - Client/server software, human language dictionary databases, and tools supporting the DICT protocol (RFC 2229)
 - [andyholmes/valent](https://github.com/andyholmes/valent) - Connect, control and sync devices
@@ -450,10 +451,6 @@
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [arnvald/viml-to-lua](https://github.com/arnvald/viml-to-lua) - 
 - [nshen/learn-neovim-lua](https://github.com/nshen/learn-neovim-lua) - Neovim 配置实战：从 0 到 1 打造自己的 IDE
-
-## MATLAB 
-
-- [ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03) - 
 
 ## Makefile 
 
