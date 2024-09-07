@@ -408,6 +408,7 @@
 
 ## cpp 
 
+- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [ccache/ccache](https://github.com/ccache/ccache) - ccache – a fast compiler cache
 - [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights) - C++ Insights - See your source code with the eyes of a compiler
@@ -486,6 +487,7 @@
 
 ## docker 
 
+- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) - act as self-hosted runner
 - [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
@@ -1577,6 +1579,7 @@
 
 ## python 
 
+- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [mypaint/mypaint](https://github.com/mypaint/mypaint) - MyPaint is a simple drawing and painting program that works well with Wacom-style graphics tablets.
 - [python/typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
@@ -1654,6 +1657,7 @@
 
 ## qt 
 
+- [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 - [Lurkki14/tuxclocker](https://github.com/Lurkki14/tuxclocker) - Qt overclocking tool for GNU/Linux
 - [Shadowsocks-NET/Qv2ray](https://github.com/Shadowsocks-NET/Qv2ray) - A cross platform connection manager for V2Ray and other backends.
