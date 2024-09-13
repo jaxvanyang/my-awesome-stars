@@ -75,6 +75,7 @@
 - [go](#go)
 - [godot](#godot)
 - [golang](#golang)
+- [good-first-issue](#good-first-issue)
 - [google](#google)
 - [gradle](#gradle)
 - [hacking](#hacking)
@@ -689,6 +690,10 @@
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
 - [xalanq/cf-tool](https://github.com/xalanq/cf-tool) - :bar_chart: Codeforces CLI (Submit, Parse, Test, etc.). Support Contests, Gym, Groups, acmsguru, Windows, macOS, Linux, 7 MB
+
+## good-first-issue 
+
+- [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
 
 ## google 
 
