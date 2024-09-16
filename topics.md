@@ -1578,6 +1578,7 @@
 
 ## privacy 
 
+- [SukkaW/location-guard-ng](https://github.com/SukkaW/location-guard-ng) - A UserScript that hide/spoof your geographic location from websites.
 - [Moustachauve/cookie-editor](https://github.com/Moustachauve/cookie-editor) - A powerful browser extension to create, edit and delete cookies
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
