@@ -804,6 +804,7 @@
 
 ## TypeScript 
 
+- [SukkaW/location-guard-ng](https://github.com/SukkaW/location-guard-ng) - A UserScript that hide/spoof your geographic location from websites.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
