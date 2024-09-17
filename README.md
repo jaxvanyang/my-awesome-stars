@@ -66,6 +66,7 @@
 
 ## C 
 
+- [TASEmulators/desmume](https://github.com/TASEmulators/desmume) - DeSmuME is a Nintendo DS emulator
 - [mkj/dropbear](https://github.com/mkj/dropbear) - Dropbear SSH
 - [RsyncProject/rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 - [coreutils/coreutils](https://github.com/coreutils/coreutils) - upstream mirror
