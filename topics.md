@@ -209,6 +209,7 @@
 
 ## api 
 
+- [Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC) - A simple API client (postman like) in your terminal
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -1235,6 +1236,7 @@
 
 ## others 
 
+- [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [file/file](https://github.com/file/file) - Read-only mirror of file CVS repository, updated every half hour. NOTE: do not make pull requests here, nor comment any commits, submit them usual way to bug tracker or to the mailing list. Maintainer
 - [sqlsec/fastfetch](https://github.com/sqlsec/fastfetch) - Awesome fastfetch terminal with pokemon 酷炫的 fastfetch
 - [mkj/dropbear](https://github.com/mkj/dropbear) - Dropbear SSH
@@ -1739,6 +1741,7 @@
 
 ## rust 
 
+- [Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC) - A simple API client (postman like) in your terminal
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [pierrechevalier83/2048-rs](https://github.com/pierrechevalier83/2048-rs) - Rust implementation of 2048 game
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
