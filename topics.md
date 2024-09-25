@@ -187,6 +187,7 @@
 
 ## android 
 
+- [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
 - [ubuntu-flutter-community/musicpod](https://github.com/ubuntu-flutter-community/musicpod) - Music, radio, television and podcast player for Ubuntu, Windows, MacOs and maybe soon Android
@@ -502,7 +503,6 @@
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
-- [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
 - [Kaiede/Bedrockifier](https://github.com/Kaiede/Bedrockifier) - Command-line tools and Service for Minecraft Servers (Bedrock & Java)
 - [Kaiede/docker-minecraft-bedrock-backup](https://github.com/Kaiede/docker-minecraft-bedrock-backup) - Backup container service for itzg/minecraft-bedrock-server or itzg/minecraft-server
 - [Liu233w/acm-statistics](https://github.com/Liu233w/acm-statistics) - An online tool (crawler) to analyze users performance in online judges (coding competition websites). Supported OJ: POJ, HDU, HYSBZ, CodeForces, UVA, ICPC Live Archive, FZU, SPOJ, Timus (URAL), LeetCo
@@ -756,13 +756,13 @@
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [TerraformersMC/ModMenu](https://github.com/TerraformersMC/ModMenu) - A menu for, you guessed it, mods!
 - [FabricMC/fabric](https://github.com/FabricMC/fabric) - Essential hooks for modding with Fabric.
+- [online-go/online-go.com](https://github.com/online-go/online-go.com) - Source code for the Online-Go.com web interface
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
 - [libratbag/libratbag](https://github.com/libratbag/libratbag) - A DBus daemon to configure input devices, mainly high-end and gaming mice
-- [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
@@ -1237,6 +1237,7 @@
 
 ## others 
 
+- [morytyann/OpenWrt-mihomo](https://github.com/morytyann/OpenWrt-mihomo) - Transparent Proxy with Mihomo on OpenWrt.
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [file/file](https://github.com/file/file) - Read-only mirror of file CVS repository, updated every half hour. NOTE: do not make pull requests here, nor comment any commits, submit them usual way to bug tracker or to the mailing list. Maintainer
 - [sqlsec/fastfetch](https://github.com/sqlsec/fastfetch) - Awesome fastfetch terminal with pokemon 酷炫的 fastfetch
@@ -1367,7 +1368,6 @@
 - [LewisJEllis/awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
 - [haishanh/yacd](https://github.com/haishanh/yacd) - Yet Another Clash Dashboard
 - [MetaCubeX/meta-rules-dat](https://github.com/MetaCubeX/meta-rules-dat) - rules-dat for mihomo
-- [online-go/online-go.com](https://github.com/online-go/online-go.com) - Source code for the Online-Go.com web interface
 - [snowleopard/build](https://github.com/snowleopard/build) - Build Systems à la Carte
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [pin/debian-vm-install](https://github.com/pin/debian-vm-install) - Debian unattended VM installation with virt-install and pressed.cfg
