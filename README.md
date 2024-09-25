@@ -244,7 +244,6 @@
 
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) - act as self-hosted runner
-- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
 - [pacur/pacur](https://github.com/pacur/pacur) - Automated deb, rpm and pkgbuild build system
 - [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
@@ -307,6 +306,7 @@
 
 ## Java 
 
+- [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [tr7zw/Exordium](https://github.com/tr7zw/Exordium) - There is no good reason to render the hotbar at 100+ fps
 - [KDE/kdeconnect-android](https://github.com/KDE/kdeconnect-android) - Native Android port of the KDE Connect Qt app
 - [juliand665/Dynamic-FPS](https://github.com/juliand665/Dynamic-FPS) - Improve performance when Minecraft is in the background
@@ -539,7 +539,6 @@
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 - [jenkinsci/docker-ssh-agent](https://github.com/jenkinsci/docker-ssh-agent) - Docker image for Jenkins agents connected over SSH
-- [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 
 ## Python 
@@ -738,6 +737,7 @@
 
 ## Shell 
 
+- [morytyann/OpenWrt-mihomo](https://github.com/morytyann/OpenWrt-mihomo) - Transparent Proxy with Mihomo on OpenWrt.
 - [schmurtzm/TrimUI-Smart-Pro](https://github.com/schmurtzm/TrimUI-Smart-Pro) - Apps, tools, templates and scripts for the TSP
 - [lahwaacz/Scripts](https://github.com/lahwaacz/Scripts) - 
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux
@@ -817,6 +817,7 @@
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [bemusic/bemuse](https://github.com/bemusic/bemuse) - ⬤▗▚▚▚ Web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
 - [JohnnyMorganz/stylua-action](https://github.com/JohnnyMorganz/stylua-action) - GitHub action for StyLua
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [microsoft/node-jsonc-parser](https://github.com/microsoft/node-jsonc-parser) - Scanner and parser for JSON with comments.
 - [SukkaW/Surge](https://github.com/SukkaW/Surge) - Rule Snippet & Rule Set for Surge / Clash Premium / Clash Meta
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
