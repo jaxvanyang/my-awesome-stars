@@ -272,7 +272,6 @@
 
 ## HTML 
 
-- [ph-design/PH60](https://github.com/ph-design/PH60) - A 60% ISO/ANSI Keyboard.
 - [kloptops/TRIMUI_EX](https://github.com/kloptops/TRIMUI_EX) - Trimui Extra shit i need.
 - [maboroshin/qBittorrentDarktheme](https://github.com/maboroshin/qBittorrentDarktheme) - qBittorrent Dark theme
 - [beejjorgensen/bgnet0](https://github.com/beejjorgensen/bgnet0) - Beej's Guide to Network Concepts source
@@ -488,6 +487,7 @@
 
 ## Others 
 
+- [ValveSoftware/SteamOS](https://github.com/ValveSoftware/SteamOS) - SteamOS community tracker
 - [sqlsec/fastfetch](https://github.com/sqlsec/fastfetch) - Awesome fastfetch terminal with pokemon 酷炫的 fastfetch
 - [rv2036/riscv-board-wandering](https://github.com/rv2036/riscv-board-wandering) - RISC-V Development Boards Wandering Project. It is part of the Jiachen Project.
 - [archlinux/aur](https://github.com/archlinux/aur) - ⚠️⚠️Experimental aur.git mirror⚠️⚠️ (read-only mirror)
@@ -728,7 +728,7 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-- [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
+- [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 
 ## SCSS 
 
