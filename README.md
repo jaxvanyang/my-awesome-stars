@@ -237,6 +237,7 @@
 
 ## GLSL 
 
+- [ComplementaryDevelopment/ComplementaryReimagined](https://github.com/ComplementaryDevelopment/ComplementaryReimagined) - Complementary is a graphical rework pack for Minecraft with exceptional quality, detail, and performance.
 - [cizia64/CrossMix-OS](https://github.com/cizia64/CrossMix-OS) - Enhanced OS for the TrimUI Smart Pro
 - [scratchapixel/scratchapixel-code](https://github.com/scratchapixel/scratchapixel-code) - 
 
