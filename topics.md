@@ -1235,6 +1235,7 @@
 
 ## others 
 
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [ComplementaryDevelopment/ComplementaryReimagined](https://github.com/ComplementaryDevelopment/ComplementaryReimagined) - Complementary is a graphical rework pack for Minecraft with exceptional quality, detail, and performance.
 - [ValveSoftware/SteamOS](https://github.com/ValveSoftware/SteamOS) - SteamOS community tracker
 - [cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding
