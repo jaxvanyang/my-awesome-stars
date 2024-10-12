@@ -282,7 +282,6 @@
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [msyksphinz-self/riscv-isadoc](https://github.com/msyksphinz-self/riscv-isadoc) - 
 - [NicolBolas/NicolBolas.github.io](https://github.com/NicolBolas/NicolBolas.github.io) - 
-- [plctlab/weloveinterns](https://github.com/plctlab/weloveinterns) - PLCT实验室实习生社区。
 - [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
 - [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
@@ -469,6 +468,7 @@
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
 - [riscv-non-isa/riscv-asm-manual](https://github.com/riscv-non-isa/riscv-asm-manual) - RISC-V Assembly Programmer's Manual
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
+- [plctlab/weloveinterns](https://github.com/plctlab/weloveinterns) - PLCT实验室实习生社区。
 - [zh-google-styleguide/zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) - Google 开源项目风格指南 (中文版)
 
 ## Markdown 
@@ -550,6 +550,7 @@
 
 ## Python 
 
+- [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 - [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs) - A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
 - [mypaint/mypaint](https://github.com/mypaint/mypaint) - MyPaint is a simple drawing and painting program that works well with Wacom-style graphics tablets.
 - [python/typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
@@ -820,6 +821,7 @@
 
 ## TypeScript 
 
+- [pdm-project/setup-pdm](https://github.com/pdm-project/setup-pdm) - A GitHub Action that installs pdm properly for all Python versions
 - [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 - [SukkaW/location-guard-ng](https://github.com/SukkaW/location-guard-ng) - A UserScript that hide/spoof your geographic location from websites.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
