@@ -1235,6 +1235,7 @@
 
 ## others 
 
+- [pdm-project/setup-pdm](https://github.com/pdm-project/setup-pdm) - A GitHub Action that installs pdm properly for all Python versions
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [ComplementaryDevelopment/ComplementaryReimagined](https://github.com/ComplementaryDevelopment/ComplementaryReimagined) - Complementary is a graphical rework pack for Minecraft with exceptional quality, detail, and performance.
 - [ValveSoftware/SteamOS](https://github.com/ValveSoftware/SteamOS) - SteamOS community tracker
@@ -1608,6 +1609,7 @@
 
 ## python 
 
+- [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [mypaint/mypaint](https://github.com/mypaint/mypaint) - MyPaint is a simple drawing and painting program that works well with Wacom-style graphics tablets.
 - [python/typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
