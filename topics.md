@@ -1236,6 +1236,7 @@
 
 ## others 
 
+- [astral-sh/ruff-action](https://github.com/astral-sh/ruff-action) - A GitHub Action to run Ruff
 - [pdm-project/setup-pdm](https://github.com/pdm-project/setup-pdm) - A GitHub Action that installs pdm properly for all Python versions
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [ComplementaryDevelopment/ComplementaryReimagined](https://github.com/ComplementaryDevelopment/ComplementaryReimagined) - Complementary is a graphical rework pack for Minecraft with exceptional quality, detail, and performance.
@@ -1486,7 +1487,6 @@
 - [Crazyokd/pt.csust_crawler](https://github.com/Crazyokd/pt.csust_crawler) - 长沙理工大学网络教学平台爬虫
 - [blabla-my/CSAPP-malloclab](https://github.com/blabla-my/CSAPP-malloclab) - 97 points on traces. Optimization for the realloc and binary
 - [bradtraversy/vue-crash-2021](https://github.com/bradtraversy/vue-crash-2021) - Task Tracker project from youtube crash course
-- [breakingawful/Best-README-Template-zh](https://github.com/breakingawful/Best-README-Template-zh) - 助你快速开始构建项目的最佳 README 模板！
 - [tj/n](https://github.com/tj/n) - Node version management
 - [colawithsauce/csust-network-login](https://github.com/colawithsauce/csust-network-login) - Login script for CSUST(长沙理工大学) campus network
 - [android/connectivity-samples](https://github.com/android/connectivity-samples) - Multiple samples showing the best practices in connectivity on Android.
