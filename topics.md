@@ -1230,6 +1230,7 @@
 
 ## others 
 
+- [linux-sunxi/sunxi-tools](https://github.com/linux-sunxi/sunxi-tools) - A collection of command line tools for ARM devices with Allwinner SoCs.
 - [AlexTalker/archriscv-docker-draft](https://github.com/AlexTalker/archriscv-docker-draft) - Initial attempt at crafting Docker image for archriscv project ((unofficial) Arch Linux on RISC-V platform)
 - [SoLegendary/reignofnether](https://github.com/SoLegendary/reignofnether) - 
 - [RimoChan/Vtuber_Tutorial](https://github.com/RimoChan/Vtuber_Tutorial) - 【教程】从零开始的自制Vtuber！
