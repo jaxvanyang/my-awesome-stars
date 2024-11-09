@@ -1527,7 +1527,6 @@
 - [CSUST-ACMore/offline-judge](https://github.com/CSUST-ACMore/offline-judge) - ACM对拍脚本
 - [lydrainbowcat/tedukuri](https://github.com/lydrainbowcat/tedukuri) - 《算法竞赛进阶指南》资源社区
 - [zikywang/JD-FreeFuck](https://github.com/zikywang/JD-FreeFuck) - 《JD薅羊毛》一键部署 For Linux
-- [meselson/JD-FreeFuck](https://github.com/meselson/JD-FreeFuck) - 《京东薅羊毛》一键部署脚本
 - [me115/linuxtools_rst](https://github.com/me115/linuxtools_rst) - Linux工具快速教程
 - [fcitx/fcitx5](https://github.com/fcitx/fcitx5) - maybe a new fcitx.
 - [robertovernina/NordArc](https://github.com/robertovernina/NordArc) - Arc GTK / Gnome Shell customisation based on the Nord color palette
