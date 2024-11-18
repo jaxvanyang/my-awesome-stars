@@ -418,6 +418,7 @@
 
 ## Kotlin 
 
+- [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) - Android Client for Jellyfin
 - [GabrielOlvH/Industrial-Revolution](https://github.com/GabrielOlvH/Industrial-Revolution) - An Industrial mod made for Fabric.
 - [jellyfin/jellyfin-androidtv](https://github.com/jellyfin/jellyfin-androidtv) - Android TV Client for Jellyfin
 - [Enaium/fabric-mod-OneKeyMiner](https://github.com/Enaium/fabric-mod-OneKeyMiner) - A minecraft mod for Fabric that allows you to mine blocks with one mining action.
