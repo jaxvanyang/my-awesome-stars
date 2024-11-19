@@ -263,6 +263,7 @@
 
 ## azure 
 
+- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation and bilingual comparison - 完整保留排版的 PDF 文档全文双语翻译，提供交互式界面，支持 Google/DeepL/Azure/Ollama/OpenAI 服务
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 
 ## babel 
@@ -580,7 +581,7 @@
 
 ## english 
 
-- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation and bilingual comparison - 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 翻译
+- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation and bilingual comparison - 完整保留排版的 PDF 文档全文双语翻译，提供交互式界面，支持 Google/DeepL/Azure/Ollama/OpenAI 服务
 
 ## es6 
 
@@ -941,7 +942,7 @@
 
 ## latex 
 
-- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation and bilingual comparison - 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 翻译
+- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation and bilingual comparison - 完整保留排版的 PDF 文档全文双语翻译，提供交互式界面，支持 Google/DeepL/Azure/Ollama/OpenAI 服务
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [jeffreytse/jekyll-spaceship](https://github.com/jeffreytse/jekyll-spaceship) - 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, audio, youtube, vimeo, dailymotion, soundcloud, spotify, etc.
 
@@ -1063,6 +1064,7 @@
 
 ## macos 
 
+- [tboltondev/tokyo-night.terminal](https://github.com/tboltondev/tokyo-night.terminal) - Tokyo Night theme for macOS Terminal
 - [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
 - [johang/btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
@@ -1237,7 +1239,7 @@
 
 ## openai 
 
-- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation and bilingual comparison - 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 翻译
+- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation and bilingual comparison - 完整保留排版的 PDF 文档全文双语翻译，提供交互式界面，支持 Google/DeepL/Azure/Ollama/OpenAI 服务
 
 ## opengl 
 
@@ -1253,6 +1255,7 @@
 
 ## others 
 
+- [util-linux/util-linux](https://github.com/util-linux/util-linux) - 
 - [slc3a2/dimmer](https://github.com/slc3a2/dimmer) - 👋  Chrome扩展程序「关灯」暗黑模式一键切换。
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [GreemDev/Ryujinx](https://github.com/GreemDev/Ryujinx) - Experimental Switch emulator written in C#
@@ -1900,6 +1903,7 @@
 
 ## terminal 
 
+- [tboltondev/tokyo-night.terminal](https://github.com/tboltondev/tokyo-night.terminal) - Tokyo Night theme for macOS Terminal
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
