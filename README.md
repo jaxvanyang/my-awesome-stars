@@ -409,6 +409,7 @@
 
 ## Jupyter Notebook 
 
+- [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 - [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
 - [jmgilmer/GoCNN](https://github.com/jmgilmer/GoCNN) - using CNN to do move prediction and board evaluation for the board game Go
 - [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
