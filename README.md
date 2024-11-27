@@ -557,10 +557,10 @@
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 - [jenkinsci/docker-ssh-agent](https://github.com/jenkinsci/docker-ssh-agent) - Docker image for Jenkins agents connected over SSH
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 
 ## Python 
 
+- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
 - [AlexTalker/archriscv-docker-draft](https://github.com/AlexTalker/archriscv-docker-draft) - Initial attempt at crafting Docker image for archriscv project ((unofficial) Arch Linux on RISC-V platform)
 - [RimoChan/Vtuber_Tutorial](https://github.com/RimoChan/Vtuber_Tutorial) - 【教程】从零开始的自制Vtuber！
@@ -652,6 +652,7 @@
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
 - [mindstorm38/portablemc](https://github.com/mindstorm38/portablemc) - A fast, reliable and cross-platform command-line Minecraft launcher and API for developers. Including fast and easy installation of common mod loaders such as Fabric, Forge, NeoForge and Quilt.
 - [felinae98/clashup](https://github.com/felinae98/clashup) - Subscribe updator for clash on Archlinux
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
