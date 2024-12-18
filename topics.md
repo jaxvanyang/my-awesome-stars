@@ -356,7 +356,7 @@
 
 - [mihomo-party-org/mihomo-party](https://github.com/mihomo-party-org/mihomo-party) - :electron: Another Mihomo GUI.
 - [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
-- [SukkaW/Surge](https://github.com/SukkaW/Surge) - Rule Snippet & Rule Set for Surge / Clash Premium / Clash Meta
+- [SukkaW/Surge](https://github.com/SukkaW/Surge) - Rule Snippet & Rule Set for Surge / Mihomo (Clash.Meta) / sing-box
 - [alecthw/mmdb_china_ip_list](https://github.com/alecthw/mmdb_china_ip_list) - Geoip MaxMind Database for china ip list! This is also an example of generating  MaxMind Database!
 - [felinae98/clashup](https://github.com/felinae98/clashup) - Subscribe updator for clash on Archlinux
 
@@ -757,7 +757,7 @@
 - [minetest/minetest](https://github.com/minetest/minetest) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [tldr-pages/tlrc](https://github.com/tldr-pages/tlrc) - A tldr client written in Rust
-- [SukkaW/Surge](https://github.com/SukkaW/Surge) - Rule Snippet & Rule Set for Surge / Clash Premium / Clash Meta
+- [SukkaW/Surge](https://github.com/SukkaW/Surge) - Rule Snippet & Rule Set for Surge / Mihomo (Clash.Meta) / sing-box
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
@@ -1135,7 +1135,7 @@
 ## minecraft 
 
 - [GabrielOlvH/Industrial-Revolution](https://github.com/GabrielOlvH/Industrial-Revolution) - An Industrial mod made for Fabric.
-- [CaffeineMC/lithium-fabric](https://github.com/CaffeineMC/lithium-fabric) - A Fabric mod designed to improve the general performance of Minecraft without breaking things
+- [CaffeineMC/lithium](https://github.com/CaffeineMC/lithium) - A Fabric mod designed to improve the general performance of Minecraft without breaking things
 - [ReplayMod/ReplayMod](https://github.com/ReplayMod/ReplayMod) - Minecraft ReplayMod
 - [tr7zw/3d-Skin-Layers](https://github.com/tr7zw/3d-Skin-Layers) - Renders the player skin layer in 3d
 - [Kir-Antipov/mc-publish](https://github.com/Kir-Antipov/mc-publish) - 🚀 Your one-stop GitHub Action for seamless Minecraft project publication across various platforms.
