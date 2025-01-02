@@ -70,6 +70,7 @@
 
 ## C 
 
+- [FeralInteractive/gamemode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [FDH2/UxPlay](https://github.com/FDH2/UxPlay) - AirPlay Unix mirroring server
 - [antimof/UxPlay](https://github.com/antimof/UxPlay) - AirPlay Unix mirroring server
@@ -715,6 +716,8 @@
 
 ## Rust 
 
+- [CachyOS/chwd](https://github.com/CachyOS/chwd) - Hardware Detection and Configuration for CachyOS
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [pop-os/cosmic-session](https://github.com/pop-os/cosmic-session) - Session manager for the COSMIC desktop environment
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
@@ -855,6 +858,7 @@
 
 ## TypeScript 
 
+- [remotion-dev/github-unwrapped](https://github.com/remotion-dev/github-unwrapped) - Your coding year in review
 - [SukkaW/Make-Bilibili-Great-Than-Ever-Before](https://github.com/SukkaW/Make-Bilibili-Great-Than-Ever-Before) - A fork of the userscript "Make Bilibili Great Again", but with some experimental features
 - [mihomo-party-org/mihomo-party](https://github.com/mihomo-party-org/mihomo-party) - :electron: Another Mihomo GUI.
 - [MetaCubeX/metacubexd](https://github.com/MetaCubeX/metacubexd) - Mihomo Dashboard, The Official One, XD
