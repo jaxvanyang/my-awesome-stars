@@ -1571,7 +1571,7 @@
 - [lexdene/gcc_five_minute](https://github.com/lexdene/gcc_five_minute) - gcc五分钟系列
 - [StephanTLavavej/mingw-distro](https://github.com/StephanTLavavej/mingw-distro) - MinGW distro build scripts.
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
-- [theicfire/makefiletutorial](https://github.com/theicfire/makefiletutorial) - Learn make by example
+- [chaselambda/makefiletutorial](https://github.com/chaselambda/makefiletutorial) - Learn make by example
 - [Cpp-Club/Cxx_HOPL4_zh](https://github.com/Cpp-Club/Cxx_HOPL4_zh) - Chinese translation of Bjarne Stroustrup's HOPL4 paper
 - [MikeMirzayanov/testlib](https://github.com/MikeMirzayanov/testlib) - C++ library to develop competitive programming problems
 - [Crazyokd/RKCG](https://github.com/Crazyokd/RKCG) - 计算机图形学课程的相关实践
