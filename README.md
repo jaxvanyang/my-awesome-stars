@@ -722,6 +722,8 @@
 
 ## Rust 
 
+- [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
+- [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
 - [CachyOS/chwd](https://github.com/CachyOS/chwd) - Hardware Detection and Configuration for CachyOS
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [pop-os/cosmic-session](https://github.com/pop-os/cosmic-session) - Session manager for the COSMIC desktop environment
