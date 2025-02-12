@@ -227,6 +227,7 @@
 
 ## archlinux 
 
+- [CachyOS/CachyOS-PKGBUILDS](https://github.com/CachyOS/CachyOS-PKGBUILDS) - PKGBUILDs for CachyOS
 - [archlinuxcn/repo](https://github.com/archlinuxcn/repo) - Arch Linux CN Repository
 - [termux/termux-language-server](https://github.com/termux/termux-language-server) - 🛠️ A language server for some specific bash scripts
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
@@ -238,6 +239,7 @@
 
 ## artificial-intelligence 
 
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
 
 ## atom 
