@@ -581,6 +581,7 @@
 
 ## Python 
 
+- [archlinuxcn/lilac](https://github.com/archlinuxcn/lilac) - Lilac is the build bot for archlinuxcn
 - [tjupt/autoremove-torrents](https://github.com/tjupt/autoremove-torrents) - Automatically remove torrents according to your strategies.
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
 - [mag-/gpu_benchmark](https://github.com/mag-/gpu_benchmark) - Gpu benchmark
