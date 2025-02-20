@@ -581,6 +581,7 @@
 
 ## Python 
 
+- [jerrymakesjelly/autoremove-torrents](https://github.com/jerrymakesjelly/autoremove-torrents) - Automatically remove torrents according to your strategies.
 - [archlinuxcn/lilac](https://github.com/archlinuxcn/lilac) - Lilac is the build bot for archlinuxcn
 - [tjupt/autoremove-torrents](https://github.com/tjupt/autoremove-torrents) - Automatically remove torrents according to your strategies.
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
