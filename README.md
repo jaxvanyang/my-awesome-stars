@@ -662,7 +662,7 @@
 - [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font) - A legible monospace font... the very typeface you’ve been trained to recognize since childhood
 - [bdrung/bdebstrap](https://github.com/bdrung/bdebstrap) - YAML config based multi-mirror Debian chroot creation tool
 - [talkiq/pystun3](https://github.com/talkiq/pystun3) - A Python STUN client for getting NAT type and external IP
-- [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger
+- [metabrainz/picard](https://github.com/metabrainz/picard) - Picard is a cross-platform music tagger powered by the MusicBrainz database
 - [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger) - Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.
 - [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
