@@ -1193,7 +1193,7 @@
 ## music 
 
 - [ubuntu-flutter-community/musicpod](https://github.com/ubuntu-flutter-community/musicpod) - Music, radio, television and podcast player for Ubuntu, Windows, MacOs and maybe soon Android
-- [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger
+- [metabrainz/picard](https://github.com/metabrainz/picard) - Picard is a cross-platform music tagger powered by the MusicBrainz database
 - [spl0k/supysonic](https://github.com/spl0k/supysonic) - Supysonic is a Python implementation of the Subsonic server API.
 - [enricocid/Music-Player-GO](https://github.com/enricocid/Music-Player-GO) - 🎶🎼 Very slim music player 👨‍🎤 100% made in Italy 🍕🌳🌞🍝🌄
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
@@ -1297,7 +1297,7 @@
 ## others 
 
 - [tjupt/autoremove-torrents](https://github.com/tjupt/autoremove-torrents) - Automatically remove torrents according to your strategies.
-- [dragonflylee/switchfin](https://github.com/dragonflylee/switchfin) - Third-party native Jellyfin client for PC/PS4/Nintendo Switch
+- [dragonflylee/switchfin](https://github.com/dragonflylee/switchfin) - Third-party native Jellyfin client for PC/PS4/PSVita/Nintendo Switch
 - [areweguiyet/areweguiyet](https://github.com/areweguiyet/areweguiyet) - A website built for the Rust community
 - [xiaoyifang/goldendict-ng](https://github.com/xiaoyifang/goldendict-ng) - The Next Generation GoldenDict
 - [sitandr/conchord](https://github.com/sitandr/conchord) - Typst package to easily write lyrics with chords and generate colorful fretboard diagrams
@@ -1733,7 +1733,7 @@
 - [mk-fg/pretty-yaml](https://github.com/mk-fg/pretty-yaml) - PyYAML-based module to produce a bit more pretty and readable YAML-serialized data
 - [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font) - A legible monospace font... the very typeface you’ve been trained to recognize since childhood
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-- [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger
+- [metabrainz/picard](https://github.com/metabrainz/picard) - Picard is a cross-platform music tagger powered by the MusicBrainz database
 - [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 - [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert Machine Learning Code Between Frameworks
