@@ -1296,6 +1296,7 @@
 
 ## others 
 
+- [roperzh/grapse](https://github.com/roperzh/grapse) - man pages online editor
 - [tjupt/autoremove-torrents](https://github.com/tjupt/autoremove-torrents) - Automatically remove torrents according to your strategies.
 - [dragonflylee/switchfin](https://github.com/dragonflylee/switchfin) - Third-party native Jellyfin client for PC/PS4/PSVita/Nintendo Switch
 - [areweguiyet/areweguiyet](https://github.com/areweguiyet/areweguiyet) - A website built for the Rust community
