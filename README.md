@@ -257,6 +257,7 @@
 
 ## GLSL 
 
+- [sixthsurge/photon](https://github.com/sixthsurge/photon) - A gameplay-focused shader pack for Minecraft
 - [ComplementaryDevelopment/ComplementaryReimagined](https://github.com/ComplementaryDevelopment/ComplementaryReimagined) - Complementary is a graphical rework pack for Minecraft with exceptional quality, detail, and performance.
 - [cizia64/CrossMix-OS](https://github.com/cizia64/CrossMix-OS) - Enhanced OS for the TrimUI Smart Pro
 - [scratchapixel/scratchapixel-code](https://github.com/scratchapixel/scratchapixel-code) - 
@@ -401,6 +402,7 @@
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [Doube-Suzerain/Oh-my-angel](https://github.com/Doube-Suzerain/Oh-my-angel) - 
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
+- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [ESEO-Tech/emulsiV](https://github.com/ESEO-Tech/emulsiV) - A visual simulator for teaching computer architecture using the RISC-V instruction set
 - [riscv-software-src/riscv-angel](https://github.com/riscv-software-src/riscv-angel) - JavaScript RISC-V ISA Simulator. Boots linux in a web-browser.
@@ -860,7 +862,6 @@
 ## Svelte 
 
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
-- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 
 ## Swift 
 
