@@ -524,6 +524,7 @@
 
 ## Others 
 
+- [Origins-Tech/InventiveInventory](https://github.com/Origins-Tech/InventiveInventory) - Experience seamless inventory management in Minecraft with Inventive Inventory, your one-stop solution for sorting, auto-refilling, profiles and slot-locking.
 - [tboltondev/tokyo-night.terminal](https://github.com/tboltondev/tokyo-night.terminal) - Tokyo Night theme for macOS Terminal
 - [ValveSoftware/SteamOS](https://github.com/ValveSoftware/SteamOS) - SteamOS community tracker
 - [sqlsec/fastfetch](https://github.com/sqlsec/fastfetch) - Awesome fastfetch terminal with pokemon 酷炫的 fastfetch
@@ -800,6 +801,7 @@
 
 ## Scheme 
 
+- [zed-extensions/kotlin](https://github.com/zed-extensions/kotlin) - Kotlin support
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 
 ## Shell 
@@ -947,6 +949,7 @@
 
 ## Vue 
 
+- [linkie/linkie-web](https://github.com/linkie/linkie-web) - The source code of the backend server and frontend webpage of Linkie Web
 - [ysyx-org/jemu-decoder](https://github.com/ysyx-org/jemu-decoder) - The decoder library for jemu execution and web documentation
 - [WebChatting/chatting-vue](https://github.com/WebChatting/chatting-vue) - The frontend of chatting, implementation with vue.
 - [kkeisuke/plantuml-editor2](https://github.com/kkeisuke/plantuml-editor2) - PlantUML online demo client / Vue3 in Vite
