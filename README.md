@@ -297,6 +297,7 @@
 
 ## HTML 
 
+- [benjihillard/English-Dictionary-Database](https://github.com/benjihillard/English-Dictionary-Database) - a CSV of every english word, part of speech, and definition. as well as a web scraping script that generates that data for you
 - [areweguiyet/areweguiyet](https://github.com/areweguiyet/areweguiyet) - A website built for the Rust community
 - [kloptops/TRIMUI_EX](https://github.com/kloptops/TRIMUI_EX) - Trimui Extra shit i need.
 - [maboroshin/qBittorrentDarktheme](https://github.com/maboroshin/qBittorrentDarktheme) - qBittorrent Dark theme
@@ -591,6 +592,7 @@
 
 ## Python 
 
+- [globalwordnet/english-wordnet](https://github.com/globalwordnet/english-wordnet) - The Open English WordNet
 - [lilydjwg/nvchecker](https://github.com/lilydjwg/nvchecker) - New version checker for software releases
 - [jerrymakesjelly/autoremove-torrents](https://github.com/jerrymakesjelly/autoremove-torrents) - Automatically remove torrents according to your strategies.
 - [archlinuxcn/lilac](https://github.com/archlinuxcn/lilac) - Lilac is the build bot for archlinuxcn
@@ -741,6 +743,7 @@
 
 ## Rust 
 
+- [Thomblin/xml_schema_generator](https://github.com/Thomblin/xml_schema_generator) - A collection of helper functions to read a given XML string or stream using quick_xml and generating a Struct (as String) that you can use in your Rust program to serialize or deserialize XML of the s
 - [TheOpenDictionary/odict](https://github.com/TheOpenDictionary/odict) - A blazingly-fast, offline-first format and toolchain for lexical data 📖
 - [modrinth/code](https://github.com/modrinth/code) - The Modrinth monorepo containing all code which powers Modrinth!
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
@@ -892,6 +895,7 @@
 
 ## TypeScript 
 
+- [TheOpenDictionary/web](https://github.com/TheOpenDictionary/web) - The world's most advanced online dictionary. Free forever.
 - [remotion-dev/github-unwrapped](https://github.com/remotion-dev/github-unwrapped) - Your coding year in review
 - [SukkaW/Make-Bilibili-Great-Than-Ever-Before](https://github.com/SukkaW/Make-Bilibili-Great-Than-Ever-Before) - A fork of the userscript "Make Bilibili Great Again", but with some experimental features
 - [mihomo-party-org/mihomo-party](https://github.com/mihomo-party-org/mihomo-party) - :electron: Another Mihomo GUI.
