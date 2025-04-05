@@ -591,6 +591,7 @@
 
 ## Python 
 
+- [iced-rs/awesome-iced](https://github.com/iced-rs/awesome-iced) - A curated list of custom widgets, example projects, integrations, and resources made with/for iced
 - [pirxthepilot/wtfis](https://github.com/pirxthepilot/wtfis) - Passive hostname, domain and IP lookup tool for non-robots
 - [globalwordnet/english-wordnet](https://github.com/globalwordnet/english-wordnet) - The Open English WordNet
 - [lilydjwg/nvchecker](https://github.com/lilydjwg/nvchecker) - New version checker for software releases
@@ -743,6 +744,7 @@
 
 ## Rust 
 
+- [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
 - [Thomblin/xml_schema_generator](https://github.com/Thomblin/xml_schema_generator) - A collection of helper functions to read a given XML string or stream using quick_xml and generating a Struct (as String) that you can use in your Rust program to serialize or deserialize XML of the s
 - [TheOpenDictionary/odict](https://github.com/TheOpenDictionary/odict) - A blazingly-fast, offline-first format and toolchain for lexical data 📖
 - [modrinth/code](https://github.com/modrinth/code) - The Modrinth monorepo containing all code which powers Modrinth!
