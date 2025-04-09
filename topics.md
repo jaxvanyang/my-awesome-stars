@@ -643,6 +643,7 @@
 
 ## font 
 
+- [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
@@ -1123,6 +1124,7 @@
 
 ## macos 
 
+- [macports/macports-ports](https://github.com/macports/macports-ports) - The MacPorts ports tree
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [tboltondev/tokyo-night.terminal](https://github.com/tboltondev/tokyo-night.terminal) - Tokyo Night theme for macOS Terminal
@@ -1327,6 +1329,12 @@
 
 ## others 
 
+- [WD8844/Project-PMBW-TEXT-experiment](https://github.com/WD8844/Project-PMBW-TEXT-experiment) - 
+- [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
+- [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
+- [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the for
+- [cetz-package/cetz-plot](https://github.com/cetz-package/cetz-plot) - Create Plots and Charts with CeTZ
+- [cetz-package/cetz](https://github.com/cetz-package/cetz) - CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.
 - [pop-os/cosmic-settings](https://github.com/pop-os/cosmic-settings) - COSMIC Settings
 - [TheOpenDictionary/converters](https://github.com/TheOpenDictionary/converters) - Converts dictionaries from various formats to the .odict format 📔
 - [pirxthepilot/wtfis](https://github.com/pirxthepilot/wtfis) - Passive hostname, domain and IP lookup tool for non-robots
@@ -1676,6 +1684,7 @@
 
 ## package-manager 
 
+- [macports/macports-ports](https://github.com/macports/macports-ports) - The MacPorts ports tree
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [termux/termux-language-server](https://github.com/termux/termux-language-server) - 🛠️ A language server for some specific bash scripts
