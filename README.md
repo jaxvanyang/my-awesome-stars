@@ -752,6 +752,8 @@
 
 ## Rust 
 
+- [pop-os/cosmic-app-template](https://github.com/pop-os/cosmic-app-template) - Project template for creating applications for the COSMIC™ desktop
+- [pop-os/libcosmic](https://github.com/pop-os/libcosmic) - WIP library for COSMIC applications
 - [typst/packages](https://github.com/typst/packages) - Packages for Typst.
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
 - [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
