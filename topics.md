@@ -649,6 +649,7 @@
 
 ## font 
 
+- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 - [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
@@ -1335,6 +1336,8 @@
 
 ## others 
 
+- [pop-os/cosmic-app-template](https://github.com/pop-os/cosmic-app-template) - Project template for creating applications for the COSMIC™ desktop
+- [pop-os/libcosmic](https://github.com/pop-os/libcosmic) - WIP library for COSMIC applications
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [azahar-emu/azahar](https://github.com/azahar-emu/azahar) - An open-source 3DS emulator project based on Citra.
 - [typst/packages](https://github.com/typst/packages) - Packages for Typst.
