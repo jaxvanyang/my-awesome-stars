@@ -598,6 +598,7 @@
 
 ## Python 
 
+- [systemd/mkosi](https://github.com/systemd/mkosi) - 💽 Build Bespoke OS Images
 - [WD8844/Project-PMBW-TEXT-experiment](https://github.com/WD8844/Project-PMBW-TEXT-experiment) - 
 - [TheOpenDictionary/converters](https://github.com/TheOpenDictionary/converters) - Converts dictionaries from various formats to the .odict format 📔
 - [iced-rs/awesome-iced](https://github.com/iced-rs/awesome-iced) - A curated list of custom widgets, example projects, integrations, and resources made with/for iced
@@ -831,6 +832,7 @@
 
 ## Shell 
 
+- [systemd/particleos](https://github.com/systemd/particleos) - 
 - [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
 - [CachyOS/CachyOS-PKGBUILDS](https://github.com/CachyOS/CachyOS-PKGBUILDS) - PKGBUILDs for CachyOS
 - [vinceliuice/Elegant-grub2-themes](https://github.com/vinceliuice/Elegant-grub2-themes) - Elegant grub2 themes for all linux systems
