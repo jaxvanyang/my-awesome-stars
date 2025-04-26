@@ -544,6 +544,7 @@
 
 ## Others 
 
+- [nnethercote/perf-book](https://github.com/nnethercote/perf-book) - The Rust Performance Book
 - [ParchmentMC/Parchment](https://github.com/ParchmentMC/Parchment) - Repository for the Parchment mappings data.
 - [InventiveMods/inventive-inventory](https://github.com/InventiveMods/inventive-inventory) - Experience seamless inventory management in Minecraft with Inventive Inventory, your one-stop solution for sorting, auto-refilling, profiles and slot-locking.
 - [tboltondev/tokyo-night.terminal](https://github.com/tboltondev/tokyo-night.terminal) - Tokyo Night theme for macOS Terminal
@@ -763,6 +764,8 @@
 
 ## Rust 
 
+- [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust
+- [laysakura/trie-rs](https://github.com/laysakura/trie-rs) - Memory efficient trie (prefix tree) library based on LOUDS
 - [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
@@ -845,6 +848,7 @@
 
 ## Shell 
 
+- [pure-fish/pure](https://github.com/pure-fish/pure) - Pretty, minimal, and fast prompt for Fish shell inspired by sindresorhus/pure
 - [systemd/particleos](https://github.com/systemd/particleos) - 
 - [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
 - [CachyOS/CachyOS-PKGBUILDS](https://github.com/CachyOS/CachyOS-PKGBUILDS) - PKGBUILDs for CachyOS
