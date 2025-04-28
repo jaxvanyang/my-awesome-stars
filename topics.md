@@ -33,6 +33,7 @@
 - [config](#config)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
+- [cryptography](#cryptography)
 - [csharp](#csharp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
@@ -460,6 +461,10 @@
 - [Dav1dde/glad](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
 - [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 
+## cryptography 
+
+- [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust
+
 ## csharp 
 
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
@@ -787,6 +792,7 @@
 
 ## hacktoberfest 
 
+- [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
@@ -879,6 +885,7 @@
 
 ## http 
 
+- [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 - [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [apache/tomcat](https://github.com/apache/tomcat) - Apache Tomcat
@@ -986,6 +993,7 @@
 
 ## json 
 
+- [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [kurtmckee/feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python
 - [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
@@ -1352,6 +1360,7 @@
 
 ## others 
 
+- [pop-os/cosmic-files](https://github.com/pop-os/cosmic-files) - COSMIC file manager
 - [nnethercote/perf-book](https://github.com/nnethercote/perf-book) - The Rust Performance Book
 - [nakst/gf](https://github.com/nakst/gf) - A GDB frontend for Linux.
 - [googleapis/release-please-action](https://github.com/googleapis/release-please-action) - automated releases based on conventional commits
@@ -1923,6 +1932,12 @@
 
 ## rust 
 
+- [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
+- [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
+- [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
+- [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust
+- [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
 - [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust
 - [laysakura/trie-rs](https://github.com/laysakura/trie-rs) - Memory efficient trie (prefix tree) library based on LOUDS
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
@@ -2173,12 +2188,14 @@
 
 ## web 
 
+- [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard that enables you to monitor and track the status of your server.
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 
 ## web-development 
 
+- [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [validator/validator](https://github.com/validator/validator) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
 
 ## webapp 
