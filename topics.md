@@ -381,7 +381,7 @@
 - [mihomo-party-org/mihomo-party](https://github.com/mihomo-party-org/mihomo-party) - :electron: Another Mihomo GUI.
 - [nikkinikki-org/OpenWrt-nikki](https://github.com/nikkinikki-org/OpenWrt-nikki) - Transparent Proxy with Mihomo on OpenWrt.
 - [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
-- [SukkaW/Surge](https://github.com/SukkaW/Surge) - Rule Snippet & Rule Set for Surge / Mihomo (Clash.Meta) / sing-box
+- [SukkaW/Surge](https://github.com/SukkaW/Surge) - Rule Snippet & Rule Set for Surge / Mihomo (Clash.Meta) / Clash Premium (Dreamacro) / sing-box
 - [alecthw/mmdb_china_ip_list](https://github.com/alecthw/mmdb_china_ip_list) - Geoip MaxMind Database for china ip list! This is also an example of generating  MaxMind Database!
 - [felinae98/clashup](https://github.com/felinae98/clashup) - Subscribe updator for clash on Archlinux
 
@@ -812,7 +812,7 @@
 - [luanti-org/luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [tldr-pages/tlrc](https://github.com/tldr-pages/tlrc) - A tldr client written in Rust
-- [SukkaW/Surge](https://github.com/SukkaW/Surge) - Rule Snippet & Rule Set for Surge / Mihomo (Clash.Meta) / sing-box
+- [SukkaW/Surge](https://github.com/SukkaW/Surge) - Rule Snippet & Rule Set for Surge / Mihomo (Clash.Meta) / Clash Premium (Dreamacro) / sing-box
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
@@ -1360,6 +1360,7 @@
 
 ## others 
 
+- [pokerth/pokerth](https://github.com/pokerth/pokerth) - PokerTH is a poker game written in C++/Qt.
 - [pop-os/cosmic-files](https://github.com/pop-os/cosmic-files) - COSMIC file manager
 - [nnethercote/perf-book](https://github.com/nnethercote/perf-book) - The Rust Performance Book
 - [nakst/gf](https://github.com/nakst/gf) - A GDB frontend for Linux.
