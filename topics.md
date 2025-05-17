@@ -360,6 +360,7 @@
 
 ## chrome 
 
+- [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos on Bilibili.com, ported from the SponsorBlock
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [Moustachauve/cookie-editor](https://github.com/Moustachauve/cookie-editor) - A powerful browser extension to create, edit and delete cookies
 - [yorkxin/copy-as-markdown](https://github.com/yorkxin/copy-as-markdown) - A browser extension to copy tabs and links as Markdown
@@ -369,6 +370,7 @@
 
 ## chrome-extension 
 
+- [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos on Bilibili.com, ported from the SponsorBlock
 - [pt-plugins/PT-Plugin-Plus](https://github.com/pt-plugins/PT-Plugin-Plus) - PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。
 - [Moustachauve/cookie-editor](https://github.com/Moustachauve/cookie-editor) - A powerful browser extension to create, edit and delete cookies
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
@@ -1368,6 +1370,7 @@
 
 ## others 
 
+- [TheOpenDictionary/dictionaries](https://github.com/TheOpenDictionary/dictionaries) - ODict converters for third-party dictionaries such as Wiktionary, CEDict, etc. ♻️
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
 - [tsoding/wisp](https://github.com/tsoding/wisp) - Wisp is a set of simple scripts for setting up small QEMU-based Virtual Machines
 - [pokerth/pokerth](https://github.com/pokerth/pokerth) - PokerTH is a poker game written in C++/Qt.
