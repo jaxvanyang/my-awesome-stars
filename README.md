@@ -222,7 +222,6 @@
 - [cp-algorithms/cp-algorithms](https://github.com/cp-algorithms/cp-algorithms) - Algorithm and data structure articles for https://cp-algorithms.com (based on http://e-maxx.ru)
 - [CSUST-ACMore/offline-judge](https://github.com/CSUST-ACMore/offline-judge) - ACM对拍脚本
 - [fcitx/fcitx5](https://github.com/fcitx/fcitx5) - maybe a new fcitx.
-- [GeGeShe/esp8266_csust_yuexiang](https://github.com/GeGeShe/esp8266_csust_yuexiang) - 用ESP8266在不修改APP的情况下破解悦享校园
 - [TheOnlineJudge/ojudge](https://github.com/TheOnlineJudge/ojudge) - OJudge Platform
 
 ## CMake 
