@@ -392,6 +392,9 @@
 
 ## cli 
 
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
+- [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more!
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [pierrechevalier83/2048-rs](https://github.com/pierrechevalier83/2048-rs) - Rust implementation of 2048 game
@@ -679,6 +682,7 @@
 
 ## framework 
 
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 ## game 
@@ -1370,6 +1374,7 @@
 
 ## others 
 
+- [greasemonkey/greasemonkey](https://github.com/greasemonkey/greasemonkey) - Greasemonkey is a user script manager for Firefox.
 - [TheOpenDictionary/dictionaries](https://github.com/TheOpenDictionary/dictionaries) - ODict converters for third-party dictionaries such as Wiktionary, CEDict, etc. ♻️
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
 - [tsoding/wisp](https://github.com/tsoding/wisp) - Wisp is a set of simple scripts for setting up small QEMU-based Virtual Machines
@@ -1715,7 +1720,6 @@
 - [fcitx/fcitx5](https://github.com/fcitx/fcitx5) - maybe a new fcitx.
 - [robertovernina/NordArc](https://github.com/robertovernina/NordArc) - Arc GTK / Gnome Shell customisation based on the Nord color palette
 - [eastmountyxz/CSDNBlog-Security-Based](https://github.com/eastmountyxz/CSDNBlog-Security-Based) - 为了更好地管理博客文章，分享更好的知识，该系列资源为作者CSDN博客的备份文件。本资源为网络安全自学篇，包括作者安全工具利用、Web渗透、系统安全、CVE漏洞复现、安全论文及会议等知识，希望对您有所帮助！一起加油。
-- [GeGeShe/esp8266_csust_yuexiang](https://github.com/GeGeShe/esp8266_csust_yuexiang) - 用ESP8266在不修改APP的情况下破解悦享校园
 - [PureWriter/desktop](https://github.com/PureWriter/desktop) - Pure Writer Desktop
 - [kevin-wayne/algs4](https://github.com/kevin-wayne/algs4) - Algorithms, 4th edition textbook code and libraries
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
@@ -1798,6 +1802,8 @@
 
 ## python 
 
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
+- [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more!
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - [jerrymakesjelly/autoremove-torrents](https://github.com/jerrymakesjelly/autoremove-torrents) - Automatically remove torrents according to your strategies.
@@ -1866,6 +1872,7 @@
 
 ## python3 
 
+- [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more!
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -1947,6 +1954,7 @@
 
 ## rust 
 
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix Web ecosystem usage.
 - [actix/actix-extras](https://github.com/actix/actix-extras) - A collection of additional crates supporting the actix and actix-web frameworks.
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
@@ -2106,6 +2114,9 @@
 
 ## terminal 
 
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
+- [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more!
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [tboltondev/tokyo-night.terminal](https://github.com/tboltondev/tokyo-night.terminal) - Tokyo Night theme for macOS Terminal
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
