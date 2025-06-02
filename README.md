@@ -959,6 +959,7 @@
 
 ## TypeScript 
 
+- [google/brotli](https://github.com/google/brotli) - Brotli compression format
 - [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos on Bilibili.com, ported from the SponsorBlock
 - [googleapis/release-please-action](https://github.com/googleapis/release-please-action) - automated releases based on conventional commits
 - [TheOpenDictionary/web](https://github.com/TheOpenDictionary/web) - The world's most advanced online dictionary. Free forever.
