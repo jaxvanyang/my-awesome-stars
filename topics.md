@@ -673,6 +673,7 @@
 
 ## font 
 
+- [alerque/libertinus](https://github.com/alerque/libertinus) - The Libertinus font family
 - [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 - [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
@@ -1497,7 +1498,7 @@
 - [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck) - Emulator configurator for Steam Deck
 - [beejjorgensen/bgnet0](https://github.com/beejjorgensen/bgnet0) - Beej's Guide to Network Concepts source
 - [rmorshea/hatch-build-scripts](https://github.com/rmorshea/hatch-build-scripts) - A plugin for Hatch that runs build scripts and saves their artifacts.
-- [rui314/mold](https://github.com/rui314/mold) - Mold: A Modern Linker 🦠
+- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 - [libguestfs/guestfs-tools](https://github.com/libguestfs/guestfs-tools) - Tools for accessing and modifying guest disk images
 - [BlueSky-07/Shuang](https://github.com/BlueSky-07/Shuang) - :pencil2: 双拼练习
 - [XJTU-Graphics/dandelion](https://github.com/XJTU-Graphics/dandelion) - A light-weight graphics experiment framework for educational usage.
