@@ -875,6 +875,7 @@
 
 ## Shell 
 
+- [CachyOS/CachyOS-Settings](https://github.com/CachyOS/CachyOS-Settings) - Settings used for CachyOS
 - [tsoding/wisp](https://github.com/tsoding/wisp) - Wisp is a set of simple scripts for setting up small QEMU-based Virtual Machines
 - [pure-fish/pure](https://github.com/pure-fish/pure) - Pretty, minimal, and fast prompt for Fish shell inspired by sindresorhus/pure
 - [systemd/particleos](https://github.com/systemd/particleos) - 
@@ -969,6 +970,7 @@
 
 ## TypeScript 
 
+- [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 - [Swatinem/rust-cache](https://github.com/Swatinem/rust-cache) - A GitHub Action that implements smart caching for rust/cargo projects
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [google/brotli](https://github.com/google/brotli) - Brotli compression format
