@@ -321,7 +321,6 @@
 - [beejjorgensen/bgnet0](https://github.com/beejjorgensen/bgnet0) - Beej's Guide to Network Concepts source
 - [jameshamann/jekyll-material-theme](https://github.com/jameshamann/jekyll-material-theme) - A Jekyll Theme based on Material Design using Materialize.
 - [Aposymbiont/split-keyboards](https://github.com/Aposymbiont/split-keyboards) - A collection of ergonomic split keyboards ⌨
-- [xmake-io/xmake-docs](https://github.com/xmake-io/xmake-docs) - The xmake online documentation site
 - [NicolBolas/NicolBolas.github.io](https://github.com/NicolBolas/NicolBolas.github.io) - 
 - [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
 - [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
@@ -775,6 +774,7 @@
 
 ## Rust 
 
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop) - LR(1) parser generator for Rust
 - [bilelmoussaoui/ashpd](https://github.com/bilelmoussaoui/ashpd) - A Rust wrapper around XDG portals DBus interfaces
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
@@ -796,7 +796,7 @@
 - [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust
 - [laysakura/trie-rs](https://github.com/laysakura/trie-rs) - Memory efficient trie (prefix tree) library based on LOUDS
 - [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - [harrisonwang/docxy](https://github.com/harrisonwang/docxy) - Docker Hub proxy service
 - [pop-os/cosmic-app-template](https://github.com/pop-os/cosmic-app-template) - Project template for creating applications for the COSMIC™ desktop
@@ -893,6 +893,7 @@
 - [debuerreotype/debuerreotype](https://github.com/debuerreotype/debuerreotype) - reproducible, snapshot-based Debian rootfs builder
 - [Edenhofer/minecraft-server](https://github.com/Edenhofer/minecraft-server) - Control Script for Minecraft Servers
 - [archlinuxcn/repo](https://github.com/archlinuxcn/repo) - Arch Linux CN Repository
+- [xmake-io/xmake-docs](https://github.com/xmake-io/xmake-docs) - The xmake online documentation site
 - [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [makedeb/makedeb](https://github.com/makedeb/makedeb) - A simplicity-focused packaging tool for Debian archives
