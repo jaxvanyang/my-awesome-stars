@@ -204,6 +204,7 @@
 
 ## android 
 
+- [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [Kr0oked/Compass](https://github.com/Kr0oked/Compass) - Simple and beautiful compass for Android
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
@@ -332,6 +333,7 @@
 
 ## c 
 
+- [fwupd/fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
@@ -820,6 +822,7 @@
 
 ## hacktoberfest 
 
+- [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 - [actix/actix-extras](https://github.com/actix/actix-extras) - A collection of additional crates supporting the actix and actix-web frameworks.
 - [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
@@ -1083,6 +1086,8 @@
 
 ## linux 
 
+- [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
+- [fwupd/fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware
 - [ayoisaiah/f2](https://github.com/ayoisaiah/f2) - F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
 - [FeralInteractive/gamemode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
@@ -2187,6 +2192,7 @@
 
 ## termux 
 
+- [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [termux/termux-language-server](https://github.com/termux/termux-language-server) - 🛠️ A language server for some specific bash scripts
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [lzhiyong/android-sdk-tools](https://github.com/lzhiyong/android-sdk-tools) - building android-sdk tools  for Android
