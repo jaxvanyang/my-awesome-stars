@@ -229,7 +229,7 @@
 - [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
 - [jacopotediosi/GAppsMod](https://github.com/jacopotediosi/GAppsMod) - Tweak Google apps (e.g., Phone and Messages) to unlock hidden features (e.g., available only in some countries or on certain devices). Root is required.
 - [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
-- [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
+- [ReadYouApp/ReadYou](https://github.com/ReadYouApp/ReadYou) - An Android RSS reader presented in Material You style.
 - [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
 - [SimpleMobileTools/Simple-Clock](https://github.com/SimpleMobileTools/Simple-Clock) - Combination of a beautiful clock with widget, alarm, stopwatch & timer, no ads
 
@@ -1051,7 +1051,7 @@
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [LWJGL/lwjgl3](https://github.com/LWJGL/lwjgl3) - LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL, Vulkan, bgfx), audio (OpenAL, Opus), parallel computing (OpenCL, CUDA) 
 - [enricocid/Music-Player-GO](https://github.com/enricocid/Music-Player-GO) - 🎶🎼 Very slim music player 👨‍🎤 100% made in Italy 🍕🌳🌞🍝🌄
-- [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
+- [ReadYouApp/ReadYou](https://github.com/ReadYouApp/ReadYou) - An Android RSS reader presented in Material You style.
 - [udalov/kotlin-vim](https://github.com/udalov/kotlin-vim) - Kotlin plugin for Vim. Featuring: syntax highlighting, basic indentation, Syntastic support
 - [SimpleMobileTools/Simple-Clock](https://github.com/SimpleMobileTools/Simple-Clock) - Combination of a beautiful clock with widget, alarm, stopwatch & timer, no ads
 
@@ -1247,7 +1247,7 @@
 - [jameshamann/jekyll-material-theme](https://github.com/jameshamann/jekyll-material-theme) - A Jekyll Theme based on Material Design using Materialize.
 - [enricocid/Music-Player-GO](https://github.com/enricocid/Music-Player-GO) - 🎶🎼 Very slim music player 👨‍🎤 100% made in Italy 🍕🌳🌞🍝🌄
 - [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Vue.js Framework - ready-to-use Vue components with Material Design, free forever.
-- [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
+- [ReadYouApp/ReadYou](https://github.com/ReadYouApp/ReadYou) - An Android RSS reader presented in Material You style.
 
 ## microsoft 
 
@@ -1729,6 +1729,7 @@
 - [aitjcize/cppman](https://github.com/aitjcize/cppman) - C++ 98/11/14 manual pages for Linux/MacOS
 - [imageslr/regexone-cn](https://github.com/imageslr/regexone-cn) - regexone-cn 中文翻译｜通过简单的交互式练习来学习正则表达式
 - [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
+- [travellings-link/travellings](https://github.com/travellings-link/travellings) - 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。
 - [CHN-beta/sougou-dict](https://github.com/CHN-beta/sougou-dict) - 
 - [hosxy/Fcitx5-Material-Color](https://github.com/hosxy/Fcitx5-Material-Color) - 一款使用Material Design 配色的 fcitx5 皮肤，喜欢的话给个 star 吧   ヾ(≧へ≦)〃 😉
 - [Hansimov/csapp](https://github.com/Hansimov/csapp) - 个人整理的《深入理解计算机系统》中文电子版（原书第 3 版）与实验材料：https://hansimov.gitbook.io/csapp/
