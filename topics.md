@@ -1216,6 +1216,7 @@
 
 ## macos 
 
+- [macports/macports-base](https://github.com/macports/macports-base) - The MacPorts command-line client
 - [ayoisaiah/f2](https://github.com/ayoisaiah/f2) - F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
 - [macports/macports-ports](https://github.com/macports/macports-ports) - The MacPorts ports tree
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
@@ -1800,6 +1801,7 @@
 
 ## package-manager 
 
+- [macports/macports-base](https://github.com/macports/macports-base) - The MacPorts command-line client
 - [macports/macports-ports](https://github.com/macports/macports-ports) - The MacPorts ports tree
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
