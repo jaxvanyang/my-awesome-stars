@@ -408,7 +408,7 @@
 - [lhotari/action-upterm](https://github.com/lhotari/action-upterm) - Debug your GitHub Actions via SSH by using upterm/tmux to get access to the runner system itself.
 - [SabakiHQ/sgf](https://github.com/SabakiHQ/sgf) - A library for parsing SGF files.
 - [BlueSky-07/Shuang](https://github.com/BlueSky-07/Shuang) - :pencil2: 双拼练习
-- [tuberry/color-picker](https://github.com/tuberry/color-picker) - Simple color picker for GNOME Shell.
+- [tuberry/color-picker](https://github.com/tuberry/color-picker) - GNOME Shell extension to pick colors on the desktop
 - [Moustachauve/cookie-editor](https://github.com/Moustachauve/cookie-editor) - A powerful browser extension to create, edit and delete cookies
 - [metowolf/vCards](https://github.com/metowolf/vCards) - 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
 - [xmake-io/xmake-docs](https://github.com/xmake-io/xmake-docs) - The xmake online documentation site
