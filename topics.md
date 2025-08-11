@@ -1595,7 +1595,7 @@
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [DadSchoorse/vkBasalt](https://github.com/DadSchoorse/vkBasalt) - a vulkan post processing layer for linux
 - [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope) - SteamOS session compositing window manager
-- [tuberry/color-picker](https://github.com/tuberry/color-picker) - Simple color picker for GNOME Shell.
+- [tuberry/color-picker](https://github.com/tuberry/color-picker) - GNOME Shell extension to pick colors on the desktop
 - [hakandundar34coding/system-monitoring-center](https://github.com/hakandundar34coding/system-monitoring-center) - Multi-featured system monitor
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
 - [rust-lang/docker-rust](https://github.com/rust-lang/docker-rust) - The official Docker images for Rust
