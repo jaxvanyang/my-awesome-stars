@@ -111,7 +111,7 @@
 - [libguestfs/libguestfs](https://github.com/libguestfs/libguestfs) - library and tools for accessing and modifying virtual machine disk images.  PLEASE DO NOT USE GITHUB FOR ISSUES OR PULL REQUESTS.  See the website for how to file a bug or contact us.
 - [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 - [bugaevc/wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
-- [haiwen/seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
+- [haiwen/seafile](https://github.com/haiwen/seafile) - Beyong file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
 - [riscv-software-src/riscv-isa-sim](https://github.com/riscv-software-src/riscv-isa-sim) - Spike, a RISC-V ISA Simulator
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
 - [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT，DoQ。
@@ -344,6 +344,7 @@
 
 ## Java 
 
+- [Fabricators-of-Create/Create](https://github.com/Fabricators-of-Create/Create) - [Fabric Mod] Building Tools and Aesthetic Technology
 - [qyl27/DiggusMaximus](https://github.com/qyl27/DiggusMaximus) - DiggusMaximus for mc 1.20.2+
 - [FTBTeam/FTB-Ultimine](https://github.com/FTBTeam/FTB-Ultimine) - 
 - [shedaniel/RoughlyEnoughItems](https://github.com/shedaniel/RoughlyEnoughItems) - Clean and Configurable. Your recipe viewer mod for 1.13+.
