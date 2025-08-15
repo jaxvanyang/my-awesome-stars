@@ -842,6 +842,7 @@
 
 ## hacktoberfest 
 
+- [Fabricators-of-Create/Create](https://github.com/Fabricators-of-Create/Create) - [Fabric Mod] Building Tools and Aesthetic Technology
 - [YACReader/yacreader](https://github.com/YACReader/yacreader) - This repo contains the code of YACReader's desktop version.
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
@@ -973,6 +974,7 @@
 
 ## java 
 
+- [shedaniel/RoughlyEnoughItems](https://github.com/shedaniel/RoughlyEnoughItems) - Clean and Configurable. Your recipe viewer mod for 1.13+.
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 - [PaperMC/Folia](https://github.com/PaperMC/Folia) - Fork of Paper which adds regionised multithreading to the dedicated server.
@@ -1251,7 +1253,7 @@
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 - [markdownlint/markdownlint](https://github.com/markdownlint/markdownlint) - Markdown lint tool
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
-- [haiwen/seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
+- [haiwen/seafile](https://github.com/haiwen/seafile) - Beyong file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -1273,6 +1275,9 @@
 
 ## minecraft 
 
+- [Fabricators-of-Create/Create](https://github.com/Fabricators-of-Create/Create) - [Fabric Mod] Building Tools and Aesthetic Technology
+- [shedaniel/RoughlyEnoughItems](https://github.com/shedaniel/RoughlyEnoughItems) - Clean and Configurable. Your recipe viewer mod for 1.13+.
+- [mezz/JustEnoughItems](https://github.com/mezz/JustEnoughItems) - Item and Recipe viewing mod for Minecraft
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 - [PaperMC/Folia](https://github.com/PaperMC/Folia) - Fork of Paper which adds regionised multithreading to the dedicated server.
 - [ParchmentMC/Parchment](https://github.com/ParchmentMC/Parchment) - Repository for the Parchment mappings data.
@@ -1429,6 +1434,9 @@
 
 ## others 
 
+- [qyl27/DiggusMaximus](https://github.com/qyl27/DiggusMaximus) - DiggusMaximus for mc 1.20.2+
+- [FTBTeam/FTB-Ultimine](https://github.com/FTBTeam/FTB-Ultimine) - 
+- [MiraculixxT/Veinminer](https://github.com/MiraculixxT/Veinminer) - Mine the whole vein at the same time
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [Swatinem/rust-cache](https://github.com/Swatinem/rust-cache) - A GitHub Action that implements smart caching for rust/cargo projects
@@ -1745,7 +1753,6 @@
 - [imageslr/regexone-cn](https://github.com/imageslr/regexone-cn) - regexone-cn 中文翻译｜通过简单的交互式练习来学习正则表达式
 - [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
 - [travellings-link/travellings](https://github.com/travellings-link/travellings) - 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。
-- [CHN-beta/sougou-dict](https://github.com/CHN-beta/sougou-dict) - 
 - [hosxy/Fcitx5-Material-Color](https://github.com/hosxy/Fcitx5-Material-Color) - 一款使用Material Design 配色的 fcitx5 皮肤，喜欢的话给个 star 吧   ヾ(≧へ≦)〃 😉
 - [Hansimov/csapp](https://github.com/Hansimov/csapp) - 个人整理的《深入理解计算机系统》中文电子版（原书第 3 版）与实验材料：https://hansimov.gitbook.io/csapp/
 - [Crazyokd/yiban-auto](https://github.com/Crazyokd/yiban-auto) - 易班校本化自动打卡
