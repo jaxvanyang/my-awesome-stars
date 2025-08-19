@@ -441,6 +441,7 @@
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose
+- [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
 - [DIYgod/APlayer](https://github.com/DIYgod/APlayer) - :lollipop: Wow, such a beautiful HTML5 music player
 - [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
@@ -733,7 +734,6 @@
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
 - [lazyparser/survival-manual-for-interns](https://github.com/lazyparser/survival-manual-for-interns) - 给新员工和实习生的生存指南。 Good Luck and Survive!
-- [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
 - [spl0k/supysonic](https://github.com/spl0k/supysonic) - Supysonic is a Python implementation of the Subsonic server API.
 - [cyxx/extract_android_ota_payload](https://github.com/cyxx/extract_android_ota_payload) - Extract firmware images from an Android OTA payload.bin file
 - [Crazyokd/pt.csust_crawler](https://github.com/Crazyokd/pt.csust_crawler) - 长沙理工大学网络教学平台爬虫
