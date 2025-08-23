@@ -75,6 +75,8 @@
 
 ## C 
 
+- [riscv-software-src/riscv-tests](https://github.com/riscv-software-src/riscv-tests) - 
+- [sysprog21/rv32emu](https://github.com/sysprog21/rv32emu) - Compact and Efficient RISC-V RV32I[MAFC] emulator
 - [fwupd/fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware
 - [nicbarker/clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
 - [FeralInteractive/gamemode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand
