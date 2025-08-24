@@ -208,6 +208,7 @@
 
 ## android 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [Kr0oked/Compass](https://github.com/Kr0oked/Compass) - Simple and beautiful compass for Android
@@ -338,6 +339,7 @@
 
 ## c 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [fwupd/fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -657,6 +659,7 @@
 
 ## embedded 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 
 ## ember 
@@ -672,6 +675,7 @@
 
 ## emulator 
 
+- [sysprog21/rv32emu](https://github.com/sysprog21/rv32emu) - Compact and Efficient RISC-V RV32I[MAFC] emulator
 - [melonDS-emu/melonDS](https://github.com/melonDS-emu/melonDS) - DS emulator, sorta
 - [TASEmulators/desmume](https://github.com/TASEmulators/desmume) - DeSmuME is a Nintendo DS emulator
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
@@ -733,12 +737,14 @@
 
 ## game-development 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [AlmasB/FXTutorials](https://github.com/AlmasB/FXTutorials) - A collection of JavaFX tutorials from my YouTube channel
 
 ## game-engine 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [luanti-org/luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
@@ -746,6 +752,7 @@
 
 ## gamedev 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet) - The repository for https://arewegameyet.rs
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
@@ -975,6 +982,7 @@
 
 ## iot 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ## java 
@@ -1114,6 +1122,7 @@
 
 ## linux 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [fwupd/fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware
 - [ayoisaiah/f2](https://github.com/ayoisaiah/f2) - F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
@@ -1425,6 +1434,7 @@
 
 ## opengl 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [CelestiaProject/Celestia](https://github.com/CelestiaProject/Celestia) - Real-time 3D visualization of space.
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
 - [CaffeineMC/sodium](https://github.com/CaffeineMC/sodium) - A Minecraft mod designed to improve frame rates and reduce micro-stutter
@@ -1440,6 +1450,7 @@
 
 ## others 
 
+- [riscv-software-src/riscv-tests](https://github.com/riscv-software-src/riscv-tests) - 
 - [qyl27/DiggusMaximus](https://github.com/qyl27/DiggusMaximus) - DiggusMaximus for mc 1.20.2+
 - [FTBTeam/FTB-Ultimine](https://github.com/FTBTeam/FTB-Ultimine) - 
 - [MiraculixxT/Veinminer](https://github.com/MiraculixxT/Veinminer) - Mine the whole vein at the same time
@@ -1873,6 +1884,7 @@
 
 ## programming 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [dofy/learn-vim](https://github.com/dofy/learn-vim) - Learning Vim. A Hands-On Tutorial of Vim.
 
@@ -1989,6 +2001,7 @@
 
 ## raspberry-pi 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [libretro/Lakka-LibreELEC](https://github.com/libretro/Lakka-LibreELEC) - Lakka is a lightweight Linux distribution that transforms a small computer into a full blown game console.
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
