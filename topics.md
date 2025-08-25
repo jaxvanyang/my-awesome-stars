@@ -1450,6 +1450,7 @@
 
 ## others 
 
+- [raysan5/raylib-game-template](https://github.com/raysan5/raylib-game-template) - A small template to start your raylib game
 - [riscv-software-src/riscv-tests](https://github.com/riscv-software-src/riscv-tests) - 
 - [qyl27/DiggusMaximus](https://github.com/qyl27/DiggusMaximus) - DiggusMaximus for mc 1.20.2+
 - [FTBTeam/FTB-Ultimine](https://github.com/FTBTeam/FTB-Ultimine) - 
