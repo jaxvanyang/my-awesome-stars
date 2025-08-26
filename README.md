@@ -46,7 +46,6 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
-- [Scheme](#scheme)
 - [Shell](#shell)
 - [Spline Font Database](#spline-font-database)
 - [Svelte](#svelte)
@@ -75,6 +74,8 @@
 
 ## C 
 
+- [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
+- [raylib-rs/raylib-rs](https://github.com/raylib-rs/raylib-rs) - Rust bindings for raylib
 - [raysan5/raylib-game-template](https://github.com/raysan5/raylib-game-template) - A small template to start your raylib game
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [riscv-software-src/riscv-tests](https://github.com/riscv-software-src/riscv-tests) - 
@@ -819,6 +820,7 @@
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
 - [Thomblin/xml_schema_generator](https://github.com/Thomblin/xml_schema_generator) - A collection of helper functions to read a given XML string or stream using quick_xml and generating a Struct (as String) that you can use in your Rust program to serialize or deserialize XML of the s
 - [TheOpenDictionary/odict](https://github.com/TheOpenDictionary/odict) - A blazingly-fast, offline-first format and toolchain for lexical data 📖
+- [zed-extensions/kotlin](https://github.com/zed-extensions/kotlin) - Kotlin support
 - [modrinth/code](https://github.com/modrinth/code) - The Modrinth monorepo containing all code which powers Modrinth!
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
@@ -881,10 +883,6 @@
 - [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 - [chaselambda/makefiletutorial](https://github.com/chaselambda/makefiletutorial) - Learn make by example
 - [jekyll/minima](https://github.com/jekyll/minima) - Minima is a one-size-fits-all Jekyll theme for writers.
-
-## Scheme 
-
-- [zed-extensions/kotlin](https://github.com/zed-extensions/kotlin) - Kotlin support
 
 ## Shell 
 
