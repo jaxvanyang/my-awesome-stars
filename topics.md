@@ -1711,7 +1711,6 @@
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
-- [bit101/CodingMath](https://github.com/bit101/CodingMath) - 
 - [userstyles-world/userstyles.world](https://github.com/userstyles-world/userstyles.world) - ⭐ Website to browse and share UserCSS userstyles.  A modern replacement for UserStyles.org made by the userstyles community.
 - [NicolBolas/NicolBolas.github.io](https://github.com/NicolBolas/NicolBolas.github.io) - 
 - [ludeeus/action-shellcheck](https://github.com/ludeeus/action-shellcheck) - GitHub action for ShellCheck.
