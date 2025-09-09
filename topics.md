@@ -1028,6 +1028,7 @@
 
 ## javascript 
 
+- [bloodorca/hollow](https://github.com/bloodorca/hollow) - Online Hollow Knight save file editor .
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [bemusic/bemuse](https://github.com/bemusic/bemuse) - ⬤▗▚▚▚ Web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
@@ -2034,6 +2035,7 @@
 
 ## react 
 
+- [bloodorca/hollow](https://github.com/bloodorca/hollow) - Online Hollow Knight save file editor .
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [bemusic/bemuse](https://github.com/bemusic/bemuse) - ⬤▗▚▚▚ Web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
