@@ -75,6 +75,7 @@
 
 ## C 
 
+- [libevent/libevent](https://github.com/libevent/libevent) - Event notification library
 - [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
 - [raylib-rs/raylib-rs](https://github.com/raylib-rs/raylib-rs) - Rust bindings for raylib
 - [raysan5/raylib-game-template](https://github.com/raysan5/raylib-game-template) - A small template to start your raylib game
@@ -157,7 +158,7 @@
 
 ## C# # 
 
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win) - Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.
 - [timschneeb/GalaxyBudsClient](https://github.com/timschneeb/GalaxyBudsClient) - Unofficial Galaxy Buds Manager for Windows, macOS, Linux, and Android
@@ -408,6 +409,7 @@
 
 ## JavaScript 
 
+- [msys2/setup-msys2](https://github.com/msys2/setup-msys2) - GitHub Action to setup MSYS2
 - [bloodorca/hollow](https://github.com/bloodorca/hollow) - Online Hollow Knight save file editor .
 - [greasemonkey/greasemonkey](https://github.com/greasemonkey/greasemonkey) - Greasemonkey is a user script manager for Firefox.
 - [roperzh/grapse](https://github.com/roperzh/grapse) - man pages online editor
