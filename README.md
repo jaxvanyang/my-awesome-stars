@@ -205,7 +205,7 @@
 - [lightvector/KataGo](https://github.com/lightvector/KataGo) - GTP engine and self-play learning in Go
 - [DadSchoorse/vkBasalt](https://github.com/DadSchoorse/vkBasalt) - a vulkan post processing layer for linux
 - [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope) - SteamOS session compositing window manager
-- [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.
+- [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a library and a set of command-line programs providing a simple interface to inotify.
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [jellyfin/jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Jellyfin Desktop Client
