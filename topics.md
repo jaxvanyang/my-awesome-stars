@@ -885,6 +885,7 @@
 
 ## hacktoberfest 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [Fabricators-of-Create/Create](https://github.com/Fabricators-of-Create/Create) - [Fabric Mod] Building Tools and Aesthetic Technology
 - [YACReader/yacreader](https://github.com/YACReader/yacreader) - This repo contains the code of YACReader's desktop version.
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
