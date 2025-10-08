@@ -1589,7 +1589,7 @@
 - [andyholmes/valent](https://github.com/andyholmes/valent) - Connect, control and sync devices
 - [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) - Next generation Cosmic desktop environment
 - [rv2036/riscv-board-wandering](https://github.com/rv2036/riscv-board-wandering) - RISC-V Development Boards Wandering Project. It is part of the Jiachen Project.
-- [repology/repology-rs](https://github.com/repology/repology-rs) - Repology rewrite in Rust
+- [repology/repology-rs](https://github.com/repology/repology-rs) - Source code of all Repology components
 - [kloptops/TRIMUI_EX](https://github.com/kloptops/TRIMUI_EX) - Trimui Extra shit i need.
 - [cizia64/CrossMix-OS](https://github.com/cizia64/CrossMix-OS) - Enhanced OS for the TrimUI Smart Pro
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
