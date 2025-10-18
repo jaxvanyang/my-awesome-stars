@@ -411,6 +411,7 @@
 
 ## JavaScript 
 
+- [alexfernandez/librecounter](https://github.com/alexfernandez/librecounter) - Free and open website statistics
 - [qoomon/git-conventional-commits](https://github.com/qoomon/git-conventional-commits) - Git Conventional Commits Util to generate Semantic Version and Markdown Change Log and Validate Commit Messag
 - [msys2/setup-msys2](https://github.com/msys2/setup-msys2) - GitHub Action to setup MSYS2
 - [bloodorca/hollow](https://github.com/bloodorca/hollow) - Online Hollow Knight save file editor .
