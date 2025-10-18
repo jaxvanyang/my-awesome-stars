@@ -1499,6 +1499,7 @@
 
 ## others 
 
+- [alexfernandez/librecounter](https://github.com/alexfernandez/librecounter) - Free and open website statistics
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [skeeto/w64devkit](https://github.com/skeeto/w64devkit) - Portable C and C++ Development Kit for x64 (and x86) Windows
 - [mymindstorm/setup-emsdk](https://github.com/mymindstorm/setup-emsdk) - Setup Emscripten for use with GitHub actions
