@@ -2415,7 +2415,7 @@
 ## web-development 
 
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
-- [validator/validator](https://github.com/validator/validator) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
+- [validator/validator](https://github.com/validator/validator) - The Nu Html Checker (vnu)
 
 ## webapp 
 
