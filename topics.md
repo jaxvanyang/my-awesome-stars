@@ -1525,7 +1525,7 @@
 - [pokerth/pokerth](https://github.com/pokerth/pokerth) - PokerTH is a poker game written in C++/Qt.
 - [pop-os/cosmic-files](https://github.com/pop-os/cosmic-files) - COSMIC file manager
 - [nnethercote/perf-book](https://github.com/nnethercote/perf-book) - The Rust Performance Book
-- [nakst/gf](https://github.com/nakst/gf) - A GDB frontend for Linux.
+- [nakst/gf](https://github.com/nakst/gf) - A GDB frontend for Lïnux.
 - [googleapis/release-please-action](https://github.com/googleapis/release-please-action) - automated releases based on conventional commits
 - [systemd/particleos](https://github.com/systemd/particleos) - 
 - [pop-os/cosmic-app-template](https://github.com/pop-os/cosmic-app-template) - Project template for creating applications for the COSMIC™ desktop
