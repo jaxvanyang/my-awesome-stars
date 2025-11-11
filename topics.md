@@ -945,7 +945,6 @@
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
 - [felixonmars/archriscv-packages](https://github.com/felixonmars/archriscv-packages) - Modified Arch Linux packages for archriscv
-- [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -1661,7 +1660,7 @@
 - [jhelvy/splitKbCompare](https://github.com/jhelvy/splitKbCompare) - An interactive tool for comparing layouts of different split mechanical keyboards
 - [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
 - [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
-- [nedbat/coveragepy](https://github.com/nedbat/coveragepy) - The code coverage tool for Python
+- [coveragepy/coveragepy](https://github.com/coveragepy/coveragepy) - The code coverage tool for Python
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [vgvassilev/cling](https://github.com/vgvassilev/cling) - The interactive C++ interpreter Cling
 - [ToshioCP/Gtk4-tutorial](https://github.com/ToshioCP/Gtk4-tutorial) - GTK 4 tutorial for beginners
