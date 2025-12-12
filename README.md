@@ -1018,7 +1018,6 @@
 - [remotion-dev/github-unwrapped](https://github.com/remotion-dev/github-unwrapped) - Your coding year in review
 - [SukkaW/Make-Bilibili-Great-Than-Ever-Before](https://github.com/SukkaW/Make-Bilibili-Great-Than-Ever-Before) - A fork of the userscript "Make Bilibili Great Again", but with some experimental features
 - [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) - :electron: Another Mihomo GUI.
-- [MetaCubeX/metacubexd](https://github.com/MetaCubeX/metacubexd) - Mihomo Dashboard, The Official One, XD
 - [liang7hi/dimmer](https://github.com/liang7hi/dimmer) - 👋  Chrome扩展程序「关灯」暗黑模式一键切换。
 - [astral-sh/ruff-action](https://github.com/astral-sh/ruff-action) - A GitHub Action to run Ruff
 - [pdm-project/setup-pdm](https://github.com/pdm-project/setup-pdm) - A GitHub Action that installs pdm properly for all Python versions
@@ -1088,6 +1087,7 @@
 ## Vue 
 
 - [linkie/linkie-web](https://github.com/linkie/linkie-web) - The source code of the backend server and frontend webpage of Linkie Web
+- [MetaCubeX/metacubexd](https://github.com/MetaCubeX/metacubexd) - Mihomo Dashboard, The Official One, XD
 - [ysyx-org/jemu-decoder](https://github.com/ysyx-org/jemu-decoder) - The decoder library for jemu execution and web documentation
 - [WebChatting/chatting-vue](https://github.com/WebChatting/chatting-vue) - The frontend of chatting, implementation with vue.
 - [kkeisuke/plantuml-editor2](https://github.com/kkeisuke/plantuml-editor2) - PlantUML online demo client / Vue3 in Vite
