@@ -484,7 +484,7 @@
 ## Kotlin 
 
 - [MiraculixxT/Veinminer](https://github.com/MiraculixxT/Veinminer) - Mine the whole vein at the same time
-- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to papers, presentations and books.
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [Kr0oked/Compass](https://github.com/Kr0oked/Compass) - Simple and beautiful compass for Android
 - [Kr0oked/Metronome](https://github.com/Kr0oked/Metronome) - Simple and beautiful metronome for Android
 - [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) - Android Client for Jellyfin
@@ -709,7 +709,7 @@
 - [coveragepy/coveragepy](https://github.com/coveragepy/coveragepy) - The code coverage tool for Python
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [rpm-software-management/dnf](https://github.com/rpm-software-management/dnf) - Package manager based on libdnf and libsolv. Replaces YUM.
