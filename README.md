@@ -748,7 +748,6 @@
 - [msyksphinz-self/riscv-isadoc](https://github.com/msyksphinz-self/riscv-isadoc) - 
 - [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) - RISC-V Opcodes
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
-- [mindstorm38/portablemc](https://github.com/mindstorm38/portablemc) - A fast, reliable and cross-platform command-line Minecraft launcher and API for developers. Including fast and easy installation of common mod loaders such as Fabric, Forge, NeoForge and Quilt.
 - [felinae98/clashup](https://github.com/felinae98/clashup) - Subscribe updator for clash on Archlinux
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
@@ -887,6 +886,7 @@
 - [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
+- [mindstorm38/portablemc](https://github.com/mindstorm38/portablemc) - Cross platform command line utility for launching Minecraft quickly and reliably with included support for Mojang versions and popular mod loaders such as Fabric, Forge, NeoForge and derived.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
