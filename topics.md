@@ -1902,7 +1902,7 @@
 - [zikywang/JD-FreeFuck](https://github.com/zikywang/JD-FreeFuck) - 《JD薅羊毛》一键部署 For Linux
 - [me115/linuxtools_rst](https://github.com/me115/linuxtools_rst) - Linux工具快速教程
 - [fcitx/fcitx5](https://github.com/fcitx/fcitx5) - Next generation of fcitx, cross-platform input method framework.
-- [robertovernina/NordArc](https://github.com/robertovernina/NordArc) - Arc GTK / Gnome Shell customisation based on the Nord color palette
+- [RobVe4/NordArc](https://github.com/RobVe4/NordArc) - Arc GTK / Gnome Shell customisation based on the Nord color palette
 - [eastmountyxz/CSDNBlog-Security-Based](https://github.com/eastmountyxz/CSDNBlog-Security-Based) - 为了更好地管理博客文章，分享更好的知识，该系列资源为作者CSDN博客的备份文件。本资源为网络安全自学篇，包括作者安全工具利用、Web渗透、系统安全、CVE漏洞复现、安全论文及会议等知识，希望对您有所帮助！一起加油。
 - [PureWriter/desktop](https://github.com/PureWriter/desktop) - Pure Writer Desktop
 - [kevin-wayne/algs4](https://github.com/kevin-wayne/algs4) - Algorithms, 4th edition textbook code and libraries
