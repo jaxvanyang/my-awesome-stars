@@ -250,7 +250,7 @@
 - [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [progit/progit2-zh](https://github.com/progit/progit2-zh) - 
-- [robertovernina/NordArc](https://github.com/robertovernina/NordArc) - Arc GTK / Gnome Shell customisation based on the Nord color palette
+- [RobVe4/NordArc](https://github.com/RobVe4/NordArc) - Arc GTK / Gnome Shell customisation based on the Nord color palette
 
 ## Clojure 
 
