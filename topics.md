@@ -968,7 +968,6 @@
 - [PyCQA/isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
 - [pylint-dev/pylint](https://github.com/pylint-dev/pylint) - It's not just a linter that annoys you!
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
-- [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [makedeb/makedeb](https://github.com/makedeb/makedeb) - A simplicity-focused packaging tool for Debian archives
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -1734,6 +1733,7 @@
 - [python/peps](https://github.com/python/peps) - Python Enhancement Proposals
 - [tgrysztar/fasmg](https://github.com/tgrysztar/fasmg) - flat assembler g - adaptable assembly engine
 - [verigak/progress](https://github.com/verigak/progress) - Easy to use progress bars for Python
+- [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [rwmjones/fedora-riscv-stage4](https://github.com/rwmjones/fedora-riscv-stage4) - Used to build Fedora/RISC-V stage4 disk images
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [facebookresearch/nougat](https://github.com/facebookresearch/nougat) - Implementation of Nougat Neural Optical Understanding for Academic Documents
