@@ -76,6 +76,7 @@
 
 ## C 
 
+- [emoon/minifb](https://github.com/emoon/minifb) - MiniFB is a small cross platform library to create a frame buffer that you can draw pixels in
 - [raysan5/raygui](https://github.com/raysan5/raygui) - A simple and easy-to-use immediate-mode gui library
 - [skeeto/w64devkit](https://github.com/skeeto/w64devkit) - Portable C and C++ Development Kit for x64 (and x86) Windows
 - [libevent/libevent](https://github.com/libevent/libevent) - Event notification library
@@ -330,6 +331,7 @@
 
 ## HTML 
 
+- [mmp/pbr-book-website](https://github.com/mmp/pbr-book-website) - 
 - [benjihillard/English-Dictionary-Database](https://github.com/benjihillard/English-Dictionary-Database) - a CSV of every english word, part of speech, and definition. as well as a web scraping script that generates that data for you
 - [areweguiyet/areweguiyet](https://github.com/areweguiyet/areweguiyet) - A website built for the Rust community
 - [kloptops/TRIMUI_EX](https://github.com/kloptops/TRIMUI_EX) - Trimui Extra shit i need.
@@ -349,6 +351,7 @@
 - [travellings-link/travellings](https://github.com/travellings-link/travellings) - 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。
 - [jeffreytse/jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat) - 🎨 Yet another theme for elegant writers with modern flat style and beautiful night/dark mode.
 - [cheng-pj/samsung](https://github.com/cheng-pj/samsung) - 签到
+- [jaxvanyang/jaxvanyang.github.io](https://github.com/jaxvanyang/jaxvanyang.github.io) - Jax Young's Blog
 - [yuantuo666/baiduwp-php](https://github.com/yuantuo666/baiduwp-php) - A tool to get the download link of the Baidu netdisk / 一个获取百度网盘分享链接下载地址的工具
 - [me115/linuxtools_rst](https://github.com/me115/linuxtools_rst) - Linux工具快速教程
 
@@ -417,6 +420,7 @@
 
 ## JavaScript 
 
+- [ruby/setup-ruby](https://github.com/ruby/setup-ruby) - An action to download a prebuilt Ruby and add it to the PATH in 5 seconds
 - [alexfernandez/librecounter](https://github.com/alexfernandez/librecounter) - Free and open website statistics
 - [qoomon/git-conventional-commits](https://github.com/qoomon/git-conventional-commits) - Git Conventional Commits Util to generate Semantic Version and Markdown Change Log and Validate Commit Messag
 - [msys2/setup-msys2](https://github.com/msys2/setup-msys2) - GitHub Action to setup MSYS2
@@ -795,13 +799,13 @@
 - [five-embeddev/riscv-isa-data](https://github.com/five-embeddev/riscv-isa-data) - Machine readable ISA data
 - [Shopify/liquid](https://github.com/Shopify/liquid) - Liquid markup language. Safe, customer facing template language for flexible web apps.
 - [jeffreytse/jekyll-spaceship](https://github.com/jeffreytse/jekyll-spaceship) - 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, audio, youtube, vimeo, dailymotion, soundcloud, spotify, etc.
-- [jaxvanyang/jaxvanyang.github.io](https://github.com/jaxvanyang/jaxvanyang.github.io) - Just Call Me Jax
 - [red-data-tools/jekyll-jupyter-notebook](https://github.com/red-data-tools/jekyll-jupyter-notebook) - Jekyll Jupyter Notebook plugin
 - [jekyll/jemoji](https://github.com/jekyll/jemoji) - GitHub-flavored emoji plugin for Jekyll
 - [toshimaru/jekyll-toc](https://github.com/toshimaru/jekyll-toc) - Jekyll plugin which generates a table of contents.
 
 ## Rust 
 
+- [emoon/rust_minifb](https://github.com/emoon/rust_minifb) - Cross platfrom window and framebuffer crate for Rust
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 - [gmg137/netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk) - Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
@@ -911,6 +915,7 @@
 
 ## Shell 
 
+- [typst-doc-cn/guide](https://github.com/typst-doc-cn/guide) - Typst 中文社区导航——这里收集了一些官方文档和小蓝书中未提到的一些问题和小技巧，尤其是面向中文用户的。
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [CachyOS/CachyOS-Settings](https://github.com/CachyOS/CachyOS-Settings) - Settings used for CachyOS
 - [tsoding/wisp](https://github.com/tsoding/wisp) - Wisp is a set of simple scripts for setting up small QEMU-based Virtual Machines
@@ -999,6 +1004,7 @@
 
 ## TeX 
 
+- [kanition/pbrtbook](https://github.com/kanition/pbrtbook) - pbrt 中文整合翻译 基于物理的渲染：从理论到实现 Physically Based Rendering: From Theory To Implementation
 - [AllenDowney/LittleBookOfSemaphores](https://github.com/AllenDowney/LittleBookOfSemaphores) - LaTeX source and supporting code for The Little Book of Semaphores, by Allen Downey.
 - [snowleopard/build](https://github.com/snowleopard/build) - Build Systems à la Carte
 - [CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn) - A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
