@@ -1124,6 +1124,7 @@
 - [abhinavs/moonwalk](https://github.com/abhinavs/moonwalk) - A fast & minimal Jekyll blog theme with clean dark mode
 - [jeffreytse/jekyll-spaceship](https://github.com/jeffreytse/jekyll-spaceship) - 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, audio, youtube, vimeo, dailymotion, soundcloud, spotify, etc.
 - [jeffreytse/jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat) - 🎨 Yet another theme for elegant writers with modern flat style and beautiful night/dark mode.
+- [jaxvanyang/jaxvanyang.github.io](https://github.com/jaxvanyang/jaxvanyang.github.io) - Jax Young's Blog
 - [toshimaru/jekyll-toc](https://github.com/toshimaru/jekyll-toc) - Jekyll plugin which generates a table of contents.
 - [jekyll/jekyll-admin](https://github.com/jekyll/jekyll-admin) - A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
 - [jekyll/minima](https://github.com/jekyll/minima) - Minima is a one-size-fits-all Jekyll theme for writers.
@@ -1558,6 +1559,11 @@
 
 ## others 
 
+- [emoon/minifb](https://github.com/emoon/minifb) - MiniFB is a small cross platform library to create a frame buffer that you can draw pixels in
+- [kanition/pbrtbook](https://github.com/kanition/pbrtbook) - pbrt 中文整合翻译 基于物理的渲染：从理论到实现 Physically Based Rendering: From Theory To Implementation
+- [mmp/pbr-book-website](https://github.com/mmp/pbr-book-website) - 
+- [ruby/setup-ruby](https://github.com/ruby/setup-ruby) - An action to download a prebuilt Ruby and add it to the PATH in 5 seconds
+- [typst-doc-cn/guide](https://github.com/typst-doc-cn/guide) - Typst 中文社区导航——这里收集了一些官方文档和小蓝书中未提到的一些问题和小技巧，尤其是面向中文用户的。
 - [onur/zola-minima](https://github.com/onur/zola-minima) - Port of jekyll's minima theme for zola.
 - [gmg137/netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk) - Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
 - [alexfernandez/librecounter](https://github.com/alexfernandez/librecounter) - Free and open website statistics
@@ -1889,7 +1895,6 @@
 - [Hansimov/csapp](https://github.com/Hansimov/csapp) - 个人整理的《深入理解计算机系统》中文电子版（原书第 3 版）与实验材料：https://hansimov.gitbook.io/csapp/
 - [Crazyokd/yiban-auto](https://github.com/Crazyokd/yiban-auto) - 易班校本化自动打卡
 - [cheng-pj/samsung](https://github.com/cheng-pj/samsung) - 签到
-- [jaxvanyang/jaxvanyang.github.io](https://github.com/jaxvanyang/jaxvanyang.github.io) - Just Call Me Jax
 - [visualboyadvance-m/visualboyadvance-m](https://github.com/visualboyadvance-m/visualboyadvance-m) - The continuing development of the legendary VBA gameboy advance emulator.
 - [shanzm/DesignPatterns](https://github.com/shanzm/DesignPatterns) - Design Patterns
 - [red-data-tools/jekyll-jupyter-notebook](https://github.com/red-data-tools/jekyll-jupyter-notebook) - Jekyll Jupyter Notebook plugin
@@ -2178,6 +2183,7 @@
 
 ## rust 
 
+- [emoon/rust_minifb](https://github.com/emoon/rust_minifb) - Cross platfrom window and framebuffer crate for Rust
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
