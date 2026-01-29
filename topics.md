@@ -1559,6 +1559,7 @@
 
 ## others 
 
+- [mmp/pbrt-v4](https://github.com/mmp/pbrt-v4) - Source code to pbrt, the ray tracer described in the forthcoming 4th edition of the "Physically Based Rendering: From Theory to Implementation" book.
 - [emoon/minifb](https://github.com/emoon/minifb) - MiniFB is a small cross platform library to create a frame buffer that you can draw pixels in
 - [kanition/pbrtbook](https://github.com/kanition/pbrtbook) - pbrt 中文整合翻译 基于物理的渲染：从理论到实现 Physically Based Rendering: From Theory To Implementation
 - [mmp/pbr-book-website](https://github.com/mmp/pbr-book-website) - 
