@@ -210,6 +210,7 @@
 - [ui](#ui)
 - [ui-design](#ui-design)
 - [userscript](#userscript)
+- [v2ray](#v2ray)
 - [video](#video)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
@@ -1559,6 +1560,7 @@
 
 ## others 
 
+- [CachyOS/proton-cachyos](https://github.com/CachyOS/proton-cachyos) - Compatibility tool for Steam Play based on Wine and additional components
 - [mmp/pbrt-v4](https://github.com/mmp/pbrt-v4) - Source code to pbrt, the ray tracer described in the forthcoming 4th edition of the "Physically Based Rendering: From Theory to Implementation" book.
 - [emoon/minifb](https://github.com/emoon/minifb) - MiniFB is a small cross platform library to create a frame buffer that you can draw pixels in
 - [kanition/pbrtbook](https://github.com/kanition/pbrtbook) - pbrt 中文整合翻译 基于物理的渲染：从理论到实现 Physically Based Rendering: From Theory To Implementation
@@ -2461,6 +2463,12 @@
 - [SukkaW/location-guard-ng](https://github.com/SukkaW/location-guard-ng) - A UserScript that hide/spoof your geographic location from websites.
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
 - [LeoRiether/CodeforcesPP](https://github.com/LeoRiether/CodeforcesPP) - Codeforces extension pack
+
+## v2ray 
+
+- [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
+- [springzfx/cgproxy](https://github.com/springzfx/cgproxy) - Transparent Proxy with cgroup v2。透明代理，配合v2ray/Qv2ray食用最佳
+- [Shadowsocks-NET/Qv2ray](https://github.com/Shadowsocks-NET/Qv2ray) - A cross platform connection manager for V2Ray and other backends.
 
 ## video 
 
