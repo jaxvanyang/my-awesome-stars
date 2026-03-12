@@ -367,6 +367,7 @@
 
 ## Java 
 
+- [Calemi/PlayingCards-1.16.4](https://github.com/Calemi/PlayingCards-1.16.4) - Adds playing cards, poker chips, and more!
 - [Fabricators-of-Create/Create](https://github.com/Fabricators-of-Create/Create) - [Fabric Mod] Building Tools and Aesthetic Technology
 - [qyl27/DiggusMaximus](https://github.com/qyl27/DiggusMaximus) - DiggusMaximus for mc 1.20.2+
 - [FTBTeam/FTB-Ultimine](https://github.com/FTBTeam/FTB-Ultimine) - 
