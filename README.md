@@ -267,7 +267,6 @@
 
 ## Dart 
 
-- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [ubuntu-flutter-community/musicpod](https://github.com/ubuntu-flutter-community/musicpod) - Music, radio, television and podcast player for Ubuntu, MacOs and maybe soon Android
 
 ## Dockerfile 
@@ -495,6 +494,7 @@
 
 - [MiraculixxT/Veinminer](https://github.com/MiraculixxT/Veinminer) - Mine the whole vein at the same time
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
+- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [Kr0oked/Compass](https://github.com/Kr0oked/Compass) - Simple and beautiful compass for Android
 - [Kr0oked/Metronome](https://github.com/Kr0oked/Metronome) - Simple and beautiful metronome for Android
 - [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) - Android Client for Jellyfin
