@@ -1040,7 +1040,6 @@
 - [liang7hi/dimmer](https://github.com/liang7hi/dimmer) - 👋  Chrome扩展程序「关灯」暗黑模式一键切换。
 - [astral-sh/ruff-action](https://github.com/astral-sh/ruff-action) - A GitHub Action to run Ruff
 - [pdm-project/setup-pdm](https://github.com/pdm-project/setup-pdm) - A GitHub Action that installs pdm properly for all Python versions
-- [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 - [SukkaW/location-guard-ng](https://github.com/SukkaW/location-guard-ng) - A UserScript that hide/spoof your geographic location from websites.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release
