@@ -1663,7 +1663,6 @@
 - [cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding
 - [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs) - A Python package for determining platform-specific directories (e.g. user data, config, cache, logs). Handles the differences between macOS, Windows, Linux/Unix, and Android so you don't have to.
 - [mumuy/gobang](https://github.com/mumuy/gobang) - 五子棋人机对战游戏 - 经典游戏开发样例_Gobang based on HTML5
-- [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [file/file](https://github.com/file/file) - Read-only mirror of file CVS repository, updated every half hour. NOTE: do not make pull requests here, nor comment any commits, submit them usual way to bug tracker or to the mailing list. Maintainer
 - [sqlsec/fastfetch](https://github.com/sqlsec/fastfetch) - Awesome fastfetch terminal with pokemon 酷炫的 fastfetch
