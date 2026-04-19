@@ -812,6 +812,7 @@
 
 ## Rust 
 
+- [jaxvanyang/dotbackup.rs](https://github.com/jaxvanyang/dotbackup.rs) - Dotfile backup utility.
 - [TNXG/bilibili_live_stream](https://github.com/TNXG/bilibili_live_stream) - 一个可以通过扫码登录获取哔哩哔哩直播推流码信息的全平台Rust命令行工具
 - [buildoak/tortuise](https://github.com/buildoak/tortuise) - Gaussian splats in your terminal.
 - [emoon/rust_minifb](https://github.com/emoon/rust_minifb) - Cross platfrom window and framebuffer crate for Rust
