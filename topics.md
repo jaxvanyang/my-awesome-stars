@@ -690,6 +690,7 @@
 
 ## dotfiles 
 
+- [jaxvanyang/dotbackup.rs](https://github.com/jaxvanyang/dotbackup.rs) - Dotfile backup utility.
 - [jaxvanyang/dotfiles](https://github.com/jaxvanyang/dotfiles) - Self-use dotfiles, use dotbackup for backup.
 - [jaxvanyang/dotbackup](https://github.com/jaxvanyang/dotbackup) - YAML config based backup utility. This project is deprecated now, please use its successor at https://github.com/jaxvanyang/dotbackup.rs
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
