@@ -1580,6 +1580,7 @@
 
 ## others 
 
+- [yaml/yaml-serde](https://github.com/yaml/yaml-serde) - Strongly typed YAML library for Rust
 - [TNXG/bilibili_live_stream](https://github.com/TNXG/bilibili_live_stream) - 一个可以通过扫码登录获取哔哩哔哩直播推流码信息的全平台Rust命令行工具
 - [buildoak/tortuise](https://github.com/buildoak/tortuise) - Gaussian splats in your terminal.
 - [Calemi/PlayingCards-1.16.4](https://github.com/Calemi/PlayingCards-1.16.4) - Adds playing cards, poker chips, and more!
