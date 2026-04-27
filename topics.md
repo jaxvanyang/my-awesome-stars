@@ -686,7 +686,7 @@
 
 ## dotfiles 
 
-- [jaxvanyang/dotbackup.rs](https://github.com/jaxvanyang/dotbackup.rs) - Dotfile backup utility.
+- [jaxvanyang/dotbackup.rs](https://github.com/jaxvanyang/dotbackup.rs) - Highly customizable dotfile backup utility.
 - [jaxvanyang/dotfiles](https://github.com/jaxvanyang/dotfiles) - Self-use dotfiles, use dotbackup for backup.
 - [jaxvanyang/dotbackup](https://github.com/jaxvanyang/dotbackup) - YAML config based backup utility. This project is deprecated now, please use its successor at https://github.com/jaxvanyang/dotbackup.rs
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
@@ -953,6 +953,7 @@
 
 ## hacktoberfest 
 
+- [palfrey/serial_test](https://github.com/palfrey/serial_test) - Allows for the creation of serialised Rust tests
 - [Creators-of-Create/Create](https://github.com/Creators-of-Create/Create) - [NeoForge Mod] Building Tools and Aesthetic Technology
 - [Fabricators-of-Create/Create](https://github.com/Fabricators-of-Create/Create) - [Fabric Mod] Building Tools and Aesthetic Technology
 - [YACReader/yacreader](https://github.com/YACReader/yacreader) - This repo contains the code of YACReader's desktop version.
@@ -1576,6 +1577,7 @@
 
 ## others 
 
+- [ototoi/pbrt-r3](https://github.com/ototoi/pbrt-r3) - pbrt-r3: a rust version of the pbrt-v3
 - [hanslub42/rlwrap](https://github.com/hanslub42/rlwrap) - A readline wrapper
 - [yaml/yaml-serde](https://github.com/yaml/yaml-serde) - Strongly typed YAML library for Rust
 - [TNXG/bilibili_live_stream](https://github.com/TNXG/bilibili_live_stream) - 一个可以通过扫码登录获取哔哩哔哩直播推流码信息的全平台Rust命令行工具
@@ -2425,6 +2427,7 @@
 
 ## testing 
 
+- [palfrey/serial_test](https://github.com/palfrey/serial_test) - Allows for the creation of serialised Rust tests
 - [phoronix-test-suite/phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite) - The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
