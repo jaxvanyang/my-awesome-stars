@@ -367,6 +367,7 @@
 
 ## Java 
 
+- [Creators-of-Aeronautics/Simulated-Project](https://github.com/Creators-of-Aeronautics/Simulated-Project) - Build anything from airships to planes and cars!
 - [Creators-of-Create/Create](https://github.com/Creators-of-Create/Create) - [NeoForge Mod] Building Tools and Aesthetic Technology
 - [Calemi/PlayingCards-1.16.4](https://github.com/Calemi/PlayingCards-1.16.4) - Adds playing cards, poker chips, and more!
 - [Fabricators-of-Create/Create](https://github.com/Fabricators-of-Create/Create) - [Fabric Mod] Building Tools and Aesthetic Technology
@@ -813,6 +814,7 @@
 
 ## Rust 
 
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) - A terminal-based real-time satellite tracking and orbit prediction application.
 - [ototoi/pbrt-r3](https://github.com/ototoi/pbrt-r3) - pbrt-r3: a rust version of the pbrt-v3
 - [palfrey/serial_test](https://github.com/palfrey/serial_test) - Allows for the creation of serialised Rust tests
 - [yaml/yaml-serde](https://github.com/yaml/yaml-serde) - Strongly typed YAML library for Rust
