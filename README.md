@@ -840,7 +840,7 @@
 - [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix Web ecosystem usage.
 - [actix/actix-extras](https://github.com/actix/actix-extras) - A collection of additional crates supporting the actix and actix-web frameworks.
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
-- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+- [transact-rs/sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
