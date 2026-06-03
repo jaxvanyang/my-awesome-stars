@@ -1587,6 +1587,7 @@
 
 ## others 
 
+- [NWPU66/Fundamentals-Of-Computer-Graphics-5th-CN](https://github.com/NWPU66/Fundamentals-Of-Computer-Graphics-5th-CN) - 计算机图形学 虎书 Fundamentals-Of-Computer-Graphics 第5版学习笔记（中文翻译）
 - [ShenMian/tracker](https://github.com/ShenMian/tracker) - A terminal-based real-time satellite tracking and orbit prediction application.
 - [ototoi/pbrt-r3](https://github.com/ototoi/pbrt-r3) - pbrt-r3: a rust version of the pbrt-v3
 - [hanslub42/rlwrap](https://github.com/hanslub42/rlwrap) - A readline wrapper
