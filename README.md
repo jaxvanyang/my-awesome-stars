@@ -81,7 +81,6 @@
 - [raysan5/raygui](https://github.com/raysan5/raygui) - A simple and easy-to-use immediate-mode gui library
 - [libevent/libevent](https://github.com/libevent/libevent) - Event notification library
 - [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
-- [raylib-rs/raylib-rs](https://github.com/raylib-rs/raylib-rs) - Rust bindings for raylib
 - [raysan5/raylib-game-template](https://github.com/raysan5/raylib-game-template) - A small template to start your raylib game
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [riscv-software-src/riscv-tests](https://github.com/riscv-software-src/riscv-tests) - 
@@ -301,7 +300,7 @@
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+- [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) - act as self-hosted runner
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
@@ -587,6 +586,7 @@
 
 ## Others 
 
+- [NWPU66/Fundamentals-Of-Computer-Graphics-5th-CN](https://github.com/NWPU66/Fundamentals-Of-Computer-Graphics-5th-CN) - 计算机图形学 虎书 Fundamentals-Of-Computer-Graphics 第5版学习笔记（中文翻译）
 - [CachyOS/proton-cachyos](https://github.com/CachyOS/proton-cachyos) - Compatibility tool for Steam Play based on Wine and additional components
 - [nnethercote/perf-book](https://github.com/nnethercote/perf-book) - The Rust Performance Book
 - [ParchmentMC/Parchment](https://github.com/ParchmentMC/Parchment) - Repository for the Parchment mappings data.
@@ -830,6 +830,7 @@
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
+- [raylib-rs/raylib-rs](https://github.com/raylib-rs/raylib-rs) - Rust bindings for raylib
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop) - LR(1) parser generator for Rust
 - [bilelmoussaoui/ashpd](https://github.com/bilelmoussaoui/ashpd) - A Rust wrapper around XDG portals DBus interfaces
