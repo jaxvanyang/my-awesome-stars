@@ -427,6 +427,8 @@
 
 ## JavaScript 
 
+- [andredalbosco/wypst](https://github.com/andredalbosco/wypst) - Typst math typesetting for the web.
+- [w3ntao/q-bird](https://github.com/w3ntao/q-bird) - Flappy Bird with Q-learning
 - [stats-organization/github-readme-stats-action](https://github.com/stats-organization/github-readme-stats-action) - GitHub Action to generate GitHub Readme Stats cards.
 - [ruby/setup-ruby](https://github.com/ruby/setup-ruby) - An action to download a prebuilt Ruby and add it to the PATH in 5 seconds
 - [alexfernandez/librecounter](https://github.com/alexfernandez/librecounter) - Free and open website statistics
