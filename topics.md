@@ -183,6 +183,7 @@
 - [react](#react)
 - [reactjs](#reactjs)
 - [redux](#redux)
+- [reinforcement-learning](#reinforcement-learning)
 - [rest-api](#rest-api)
 - [reverse-engineering](#reverse-engineering)
 - [ruby](#ruby)
@@ -1341,6 +1342,7 @@
 
 ## machine-learning 
 
+- [w3ntao/q-bird](https://github.com/w3ntao/q-bird) - Flappy Bird with Q-learning
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
 - [maxpumperla/deep_learning_and_the_game_of_go](https://github.com/maxpumperla/deep_learning_and_the_game_of_go) - Code and other material for the book "Deep Learning and the Game of Go"
 - [zalandoresearch/fashion-mnist](https://github.com/zalandoresearch/fashion-mnist) - A MNIST-like fashion product database. Benchmark :point_down:
@@ -2205,6 +2207,10 @@
 
 - [bemusic/bemuse](https://github.com/bemusic/bemuse) - ⬤▗▚▚▚ Web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
 
+## reinforcement-learning 
+
+- [w3ntao/q-bird](https://github.com/w3ntao/q-bird) - Flappy Bird with Q-learning
+
 ## rest-api 
 
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
@@ -2233,6 +2239,7 @@
 
 ## rust 
 
+- [andredalbosco/wypst](https://github.com/andredalbosco/wypst) - Typst math typesetting for the web.
 - [taiki-e/cargo-llvm-cov](https://github.com/taiki-e/cargo-llvm-cov) - Cargo subcommand to easily use LLVM source-based code coverage (-C instrument-coverage).
 - [brendanzab/approx](https://github.com/brendanzab/approx) - Approximate floating point equality comparisons and assertions
 - [emoon/rust_minifb](https://github.com/emoon/rust_minifb) - Cross platfrom window and framebuffer crate for Rust
