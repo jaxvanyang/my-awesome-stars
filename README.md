@@ -426,6 +426,7 @@
 
 ## JavaScript 
 
+- [bryanbraun/anchorjs](https://github.com/bryanbraun/anchorjs) - Add deep anchor links to your docs.
 - [andredalbosco/wypst](https://github.com/andredalbosco/wypst) - Typst math typesetting for the web.
 - [w3ntao/q-bird](https://github.com/w3ntao/q-bird) - Flappy Bird with Q-learning
 - [stats-organization/github-readme-stats-action](https://github.com/stats-organization/github-readme-stats-action) - GitHub Action to generate GitHub Readme Stats cards.
