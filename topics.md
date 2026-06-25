@@ -71,6 +71,7 @@
 - [emulator](#emulator)
 - [english](#english)
 - [es6](#es6)
+- [esp32](#esp32)
 - [fastapi](#fastapi)
 - [firefox](#firefox)
 - [flask](#flask)
@@ -763,6 +764,10 @@
 
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 
+## esp32 
+
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
+
 ## fastapi 
 
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -1308,6 +1313,7 @@
 
 ## lua 
 
+- [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.
 - [NMAC427/guess-indent.nvim](https://github.com/NMAC427/guess-indent.nvim) - Automatic indentation style detection for Neovim
 - [JohnnyMorganz/stylua-action](https://github.com/JohnnyMorganz/stylua-action) - GitHub action for StyLua
 - [lunarmodules/luacheck](https://github.com/lunarmodules/luacheck) - A tool for linting and static analysis of Lua code.
@@ -1350,6 +1356,7 @@
 
 ## macos 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [macports/macports-base](https://github.com/macports/macports-base) - The MacPorts command-line client
 - [ayoisaiah/f2](https://github.com/ayoisaiah/f2) - F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
 - [macports/macports-ports](https://github.com/macports/macports-ports) - The MacPorts ports tree
@@ -1488,6 +1495,7 @@
 
 ## neovim 
 
+- [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.
 - [NMAC427/guess-indent.nvim](https://github.com/NMAC427/guess-indent.nvim) - Automatic indentation style detection for Neovim
 - [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers
