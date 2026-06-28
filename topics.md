@@ -1598,6 +1598,7 @@
 
 ## others 
 
+- [sztomi/ninja_syntax](https://github.com/sztomi/ninja_syntax) - A Rust port of ninja_syntax.py
 - [mesonbuild/wrapdb](https://github.com/mesonbuild/wrapdb) - New wrap requests
 - [bryanbraun/anchorjs](https://github.com/bryanbraun/anchorjs) - Add deep anchor links to your docs.
 - [wixdaq/Tokyo-Night-Website](https://github.com/wixdaq/Tokyo-Night-Website) - 
