@@ -369,6 +369,8 @@
 
 ## Java 
 
+- [Roundaround/mc-inventory-management](https://github.com/Roundaround/mc-inventory-management) - 
+- [neoforged/NeoForge](https://github.com/neoforged/NeoForge) - Neo Modding API for Minecraft: Java Edition, based on Forge
 - [ryanhcode/sable](https://github.com/ryanhcode/sable) - Interactive physics moving block structures!
 - [Creators-of-Aeronautics/Simulated-Project](https://github.com/Creators-of-Aeronautics/Simulated-Project) - Build anything from airships to planes and cars!
 - [Creators-of-Create/Create](https://github.com/Creators-of-Create/Create) - [NeoForge Mod] Building Tools and Aesthetic Technology
@@ -826,6 +828,7 @@
 
 ## Rust 
 
+- [pop-os/cosmic-reader](https://github.com/pop-os/cosmic-reader) - WIP COSMIC PDF reader
 - [sztomi/ninja_syntax](https://github.com/sztomi/ninja_syntax) - A Rust port of ninja_syntax.py
 - [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs) - Rust library for build scripts to compile C/C++ code into a Rust library
 - [taiki-e/cargo-llvm-cov](https://github.com/taiki-e/cargo-llvm-cov) - Cargo subcommand to easily use LLVM source-based code coverage (-C instrument-coverage).
