@@ -600,6 +600,8 @@
 
 ## Others 
 
+- [trimui/firmware_smartpro](https://github.com/trimui/firmware_smartpro) - Firmware release for TG5040 SmartPro
+- [trimui/assets_smartpro](https://github.com/trimui/assets_smartpro) - Smart Pro TG5040 SD base package
 - [tokyo-night/tokyo-night-vscode-theme](https://github.com/tokyo-night/tokyo-night-vscode-theme) - A clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
 - [NWPU66/Fundamentals-Of-Computer-Graphics-5th-CN](https://github.com/NWPU66/Fundamentals-Of-Computer-Graphics-5th-CN) - 计算机图形学 虎书 Fundamentals-Of-Computer-Graphics 第5版学习笔记（中文翻译）
 - [CachyOS/proton-cachyos](https://github.com/CachyOS/proton-cachyos) - Compatibility tool for Steam Play based on Wine and additional components
