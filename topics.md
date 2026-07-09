@@ -1609,6 +1609,8 @@
 
 ## others 
 
+- [trimui/firmware_smartpro](https://github.com/trimui/firmware_smartpro) - Firmware release for TG5040 SmartPro
+- [trimui/assets_smartpro](https://github.com/trimui/assets_smartpro) - Smart Pro TG5040 SD base package
 - [Roundaround/mc-inventory-management](https://github.com/Roundaround/mc-inventory-management) - 
 - [pop-os/cosmic-reader](https://github.com/pop-os/cosmic-reader) - WIP COSMIC PDF reader
 - [sztomi/ninja_syntax](https://github.com/sztomi/ninja_syntax) - A Rust port of ninja_syntax.py
