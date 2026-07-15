@@ -1229,7 +1229,7 @@
 - [TheOpenDictionary/odict](https://github.com/TheOpenDictionary/odict) - A blazingly-fast, offline-first format and toolchain for lexical data 📖
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
-- [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
+- [amperser/proselint](https://github.com/amperser/proselint) - [Mirror] A linter for prose.
 
 ## latex 
 
