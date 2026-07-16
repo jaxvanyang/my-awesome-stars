@@ -1610,6 +1610,7 @@
 
 ## others 
 
+- [LazrProductions/chessmod](https://github.com/LazrProductions/chessmod) - Ever wanted to play chess in Minecraft? Well now you can, and checkers too! This mod adds chess pieces and a chess board to play chess in game!
 - [trimui/firmware_smartpro](https://github.com/trimui/firmware_smartpro) - Firmware release for TG5040 SmartPro
 - [trimui/assets_smartpro](https://github.com/trimui/assets_smartpro) - Smart Pro TG5040 SD base package
 - [Roundaround/mc-inventory-management](https://github.com/Roundaround/mc-inventory-management) - 
@@ -1728,7 +1729,7 @@
 - [mkj/dropbear](https://github.com/mkj/dropbear) - Dropbear SSH
 - [schmurtzm/TrimUI-Smart-Pro](https://github.com/schmurtzm/TrimUI-Smart-Pro) - Apps, tools, templates and scripts for the TSP
 - [RsyncProject/rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
-- [coreutils/coreutils](https://github.com/coreutils/coreutils) - upstream mirror
+- [coreutils/coreutils](https://github.com/coreutils/coreutils) - Public mirror. Pull requests and Issues accepted
 - [rust-lang/nomicon](https://github.com/rust-lang/nomicon) - The Dark Arts of Advanced and Unsafe Rust Programming
 - [lahwaacz/Scripts](https://github.com/lahwaacz/Scripts) - 
 - [koverstreet/bcachefs](https://github.com/koverstreet/bcachefs) - 
