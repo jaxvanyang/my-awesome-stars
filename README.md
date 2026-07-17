@@ -844,7 +844,7 @@
 - [jaxvanyang/dotbackup.rs](https://github.com/jaxvanyang/dotbackup.rs) - Highly customizable dotfile backup utility.
 - [TNXG/bilibili_live_stream](https://github.com/TNXG/bilibili_live_stream) - 一个可以通过扫码登录获取哔哩哔哩直播推流码信息的全平台Rust命令行工具
 - [buildoak/tortuise](https://github.com/buildoak/tortuise) - Gaussian splats in your terminal.
-- [emoon/rust_minifb](https://github.com/emoon/rust_minifb) - Cross platfrom window and framebuffer crate for Rust
+- [emoon/rust_minifb](https://github.com/emoon/rust_minifb) - Cross platform window and framebuffer crate for Rust
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 - [gmg137/netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk) - Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
