@@ -2274,7 +2274,7 @@
 - [andredalbosco/wypst](https://github.com/andredalbosco/wypst) - Typst math typesetting for the web.
 - [taiki-e/cargo-llvm-cov](https://github.com/taiki-e/cargo-llvm-cov) - Cargo subcommand to easily use LLVM source-based code coverage (-C instrument-coverage).
 - [brendanzab/approx](https://github.com/brendanzab/approx) - Approximate floating point equality comparisons and assertions
-- [emoon/rust_minifb](https://github.com/emoon/rust_minifb) - Cross platfrom window and framebuffer crate for Rust
+- [emoon/rust_minifb](https://github.com/emoon/rust_minifb) - Cross platform window and framebuffer crate for Rust
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
