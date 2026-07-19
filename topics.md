@@ -979,6 +979,7 @@
 
 ## hacktoberfest 
 
+- [jaredlll08/MultiLoader-Template](https://github.com/jaredlll08/MultiLoader-Template) - A template for a NeoForge + Fabric project setup using a Common source set.
 - [neoforged/NeoForge](https://github.com/neoforged/NeoForge) - Neo Modding API for Minecraft: Java Edition, based on Forge
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
 - [palfrey/serial_test](https://github.com/palfrey/serial_test) - Allows for the creation of serialised Rust tests
@@ -1610,6 +1611,7 @@
 
 ## others 
 
+- [neoforged/mod-generator](https://github.com/neoforged/mod-generator) - A generator for NeoForge mods.
 - [LazrProductions/chessmod](https://github.com/LazrProductions/chessmod) - Ever wanted to play chess in Minecraft? Well now you can, and checkers too! This mod adds chess pieces and a chess board to play chess in game!
 - [trimui/firmware_smartpro](https://github.com/trimui/firmware_smartpro) - Firmware release for TG5040 SmartPro
 - [trimui/assets_smartpro](https://github.com/trimui/assets_smartpro) - Smart Pro TG5040 SD base package
