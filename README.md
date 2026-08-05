@@ -832,6 +832,8 @@
 
 ## Rust 
 
+- [rust-lang/cmake-rs](https://github.com/rust-lang/cmake-rs) - Rust build dependency for running cmake
+- [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [pop-os/cosmic-reader](https://github.com/pop-os/cosmic-reader) - WIP COSMIC PDF reader
 - [sztomi/ninja_syntax](https://github.com/sztomi/ninja_syntax) - A Rust port of ninja_syntax.py
