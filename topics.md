@@ -1613,6 +1613,8 @@
 
 ## others 
 
+- [rust-lang/cmake-rs](https://github.com/rust-lang/cmake-rs) - Rust build dependency for running cmake
+- [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
 - [neoforged/mod-generator](https://github.com/neoforged/mod-generator) - A generator for NeoForge mods.
 - [LazrProductions/chessmod](https://github.com/LazrProductions/chessmod) - Ever wanted to play chess in Minecraft? Well now you can, and checkers too! This mod adds chess pieces and a chess board to play chess in game!
 - [trimui/firmware_smartpro](https://github.com/trimui/firmware_smartpro) - Firmware release for TG5040 SmartPro
