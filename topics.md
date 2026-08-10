@@ -1613,6 +1613,7 @@
 
 ## others 
 
+- [modrinth/minotaur](https://github.com/modrinth/minotaur) - Gradle plugin for deploying build artifacts to Modrinth.
 - [rust-lang/cmake-rs](https://github.com/rust-lang/cmake-rs) - Rust build dependency for running cmake
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
 - [neoforged/mod-generator](https://github.com/neoforged/mod-generator) - A generator for NeoForge mods.
