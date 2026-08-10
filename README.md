@@ -368,6 +368,7 @@
 
 ## Java 
 
+- [modrinth/minotaur](https://github.com/modrinth/minotaur) - Gradle plugin for deploying build artifacts to Modrinth.
 - [jaredlll08/MultiLoader-Template](https://github.com/jaredlll08/MultiLoader-Template) - A template for a NeoForge + Fabric project setup using a Common source set.
 - [LazrProductions/chessmod](https://github.com/LazrProductions/chessmod) - Ever wanted to play chess in Minecraft? Well now you can, and checkers too! This mod adds chess pieces and a chess board to play chess in game!
 - [Roundaround/mc-inventory-management](https://github.com/Roundaround/mc-inventory-management) - 
@@ -486,7 +487,6 @@
 - [LeoRiether/CodeforcesPP](https://github.com/LeoRiether/CodeforcesPP) - Codeforces extension pack
 - [oevery/ninja](https://github.com/oevery/ninja) - 
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
-- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [EdgeTranslate/EdgeTranslate](https://github.com/EdgeTranslate/EdgeTranslate) - A translation extension.
 - [yinhonggen/free-programming-books-zh_CN](https://github.com/yinhonggen/free-programming-books-zh_CN) - https://github.com/justjavac/free-programming-books-zh_CN.git
 
@@ -1122,6 +1122,7 @@
 - [dofy/learn-vim](https://github.com/dofy/learn-vim) - Learning Vim. A Hands-On Tutorial of Vim.
 - [daniel-sc/bash-shell-to-bat-converter](https://github.com/daniel-sc/bash-shell-to-bat-converter) - Converter for bash shell scripts to windows batch files.
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Transpile curl commands into Python, JavaScript and 27 other languages
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 
 ## Typst 
