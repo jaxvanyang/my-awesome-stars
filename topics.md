@@ -1613,6 +1613,7 @@
 
 ## others 
 
+- [FabricMC/fabric-example-mod](https://github.com/FabricMC/fabric-example-mod) - Example Fabric mod
 - [modrinth/minotaur](https://github.com/modrinth/minotaur) - Gradle plugin for deploying build artifacts to Modrinth.
 - [rust-lang/cmake-rs](https://github.com/rust-lang/cmake-rs) - Rust build dependency for running cmake
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
