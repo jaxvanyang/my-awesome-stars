@@ -368,6 +368,7 @@
 
 ## Java 
 
+- [FabricMC/fabric-example-mod](https://github.com/FabricMC/fabric-example-mod) - Example Fabric mod
 - [modrinth/minotaur](https://github.com/modrinth/minotaur) - Gradle plugin for deploying build artifacts to Modrinth.
 - [jaredlll08/MultiLoader-Template](https://github.com/jaredlll08/MultiLoader-Template) - A template for a NeoForge + Fabric project setup using a Common source set.
 - [LazrProductions/chessmod](https://github.com/LazrProductions/chessmod) - Ever wanted to play chess in Minecraft? Well now you can, and checkers too! This mod adds chess pieces and a chess board to play chess in game!
