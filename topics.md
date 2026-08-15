@@ -1437,6 +1437,7 @@
 
 ## minecraft 
 
+- [destruc7i0n/crafting](https://github.com/destruc7i0n/crafting) - Website for generating Minecraft crafting recipe JSON files
 - [neoforged/NeoForge](https://github.com/neoforged/NeoForge) - Neo Modding API for Minecraft: Java Edition, based on Forge
 - [ryanhcode/sable](https://github.com/ryanhcode/sable) - Interactive physics moving block structures!
 - [Creators-of-Aeronautics/Simulated-Project](https://github.com/Creators-of-Aeronautics/Simulated-Project) - Build anything from airships to planes and cars!
@@ -1613,6 +1614,7 @@
 
 ## others 
 
+- [architectury/architectury-api](https://github.com/architectury/architectury-api) - An intermediary api aimed at easing development of multiplatform mods.
 - [FabricMC/fabric-example-mod](https://github.com/FabricMC/fabric-example-mod) - Example Fabric mod
 - [modrinth/minotaur](https://github.com/modrinth/minotaur) - Gradle plugin for deploying build artifacts to Modrinth.
 - [rust-lang/cmake-rs](https://github.com/rust-lang/cmake-rs) - Rust build dependency for running cmake
@@ -2227,6 +2229,7 @@
 
 ## react 
 
+- [destruc7i0n/crafting](https://github.com/destruc7i0n/crafting) - Website for generating Minecraft crafting recipe JSON files
 - [bloodorca/hollow](https://github.com/bloodorca/hollow) - Online Hollow Knight save file editor .
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [bemusic/bemuse](https://github.com/bemusic/bemuse) - ⬤▗▚▚▚ Web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
