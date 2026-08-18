@@ -1959,7 +1959,6 @@
 - [lrfbeyond/fast-uploader](https://github.com/lrfbeyond/fast-uploader) - Some things about files upload quickly.
 - [rbtylee/tutorial-jsonc](https://github.com/rbtylee/tutorial-jsonc) - 
 - [shenjindui/netdisk](https://github.com/shenjindui/netdisk) - 模仿百度云盘版开发的企业云盘后台项目
-- [liaxiufeng/cloudbox](https://github.com/liaxiufeng/cloudbox) - 网盘前端（vue）
 - [AtomicStryker/atomicstrykers-minecraft-mods](https://github.com/AtomicStryker/atomicstrykers-minecraft-mods) - Repository for my open source Minecraft Mods
 - [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [progit/progit2-zh](https://github.com/progit/progit2-zh) - 
