@@ -804,7 +804,7 @@
 ## font 
 
 - [alerque/libertinus](https://github.com/alerque/libertinus) - The Libertinus font family
-- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
+- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 - [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
@@ -1614,6 +1614,7 @@
 
 ## others 
 
+- [stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended) - Dynamically generate GitHub stats for your READMEs.
 - [architectury/architectury-api](https://github.com/architectury/architectury-api) - An intermediary api aimed at easing development of multiplatform mods.
 - [FabricMC/fabric-example-mod](https://github.com/FabricMC/fabric-example-mod) - Example Fabric mod
 - [modrinth/minotaur](https://github.com/modrinth/minotaur) - Gradle plugin for deploying build artifacts to Modrinth.
