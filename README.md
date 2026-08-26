@@ -368,6 +368,7 @@
 
 ## Java 
 
+- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [architectury/architectury-api](https://github.com/architectury/architectury-api) - An intermediary api aimed at easing development of multiplatform mods.
 - [FabricMC/fabric-example-mod](https://github.com/FabricMC/fabric-example-mod) - Example Fabric mod
 - [modrinth/minotaur](https://github.com/modrinth/minotaur) - Gradle plugin for deploying build artifacts to Modrinth.
