@@ -1443,6 +1443,7 @@
 
 ## minecraft 
 
+- [Serilum/Tree-Harvester](https://github.com/Serilum/Tree-Harvester) - 🌲 Harvest full trees and huge mushrooms instantly with an axe. Includes fast leaf decay and sapling placement. Also works for warped (nether) trees. Become a master tree chopper quick in no time.
 - [destruc7i0n/crafting](https://github.com/destruc7i0n/crafting) - Website for generating Minecraft crafting recipe JSON files
 - [neoforged/NeoForge](https://github.com/neoforged/NeoForge) - Neo Modding API for Minecraft: Java Edition, based on Forge
 - [ryanhcode/sable](https://github.com/ryanhcode/sable) - Interactive physics moving block structures!
