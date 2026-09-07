@@ -1624,6 +1624,7 @@
 
 ## others 
 
+- [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool
 - [stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended) - Dynamically generate GitHub stats for your READMEs.
 - [architectury/architectury-api](https://github.com/architectury/architectury-api) - An intermediary api aimed at easing development of multiplatform mods.
 - [FabricMC/fabric-example-mod](https://github.com/FabricMC/fabric-example-mod) - Example Fabric mod
