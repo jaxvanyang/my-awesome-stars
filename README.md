@@ -376,7 +376,7 @@
 - [jaredlll08/MultiLoader-Template](https://github.com/jaredlll08/MultiLoader-Template) - A template for a NeoForge + Fabric project setup using a Common source set.
 - [LazrProductions/chessmod](https://github.com/LazrProductions/chessmod) - Ever wanted to play chess in Minecraft? Well now you can, and checkers too! This mod adds chess pieces and a chess board to play chess in game!
 - [Roundaround/mc-inventory-management](https://github.com/Roundaround/mc-inventory-management) - 
-- [neoforged/NeoForge](https://github.com/neoforged/NeoForge) - Neo Modding API for Minecraft: Java Edition, based on Forge
+- [neoforged/NeoForge](https://github.com/neoforged/NeoForge) - A modding API for Minecraft: Java Edition, based on Forge
 - [ryanhcode/sable](https://github.com/ryanhcode/sable) - Interactive physics moving block structures!
 - [Creators-of-Aeronautics/Simulated-Project](https://github.com/Creators-of-Aeronautics/Simulated-Project) - Build anything from airships to planes and cars!
 - [Creators-of-Create/Create](https://github.com/Creators-of-Create/Create) - [NeoForge Mod] Building Tools and Aesthetic Technology
