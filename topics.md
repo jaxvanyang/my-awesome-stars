@@ -999,7 +999,7 @@
 
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [jaredlll08/MultiLoader-Template](https://github.com/jaredlll08/MultiLoader-Template) - A template for a NeoForge + Fabric project setup using a Common source set.
-- [neoforged/NeoForge](https://github.com/neoforged/NeoForge) - Neo Modding API for Minecraft: Java Edition, based on Forge
+- [neoforged/NeoForge](https://github.com/neoforged/NeoForge) - A modding API for Minecraft: Java Edition, based on Forge
 - [palfrey/serial_test](https://github.com/palfrey/serial_test) - Allows for the creation of serialised Rust tests
 - [Creators-of-Create/Create](https://github.com/Creators-of-Create/Create) - [NeoForge Mod] Building Tools and Aesthetic Technology
 - [Fabricators-of-Create/Create](https://github.com/Fabricators-of-Create/Create) - [Fabric Mod] Building Tools and Aesthetic Technology
@@ -1457,7 +1457,7 @@
 
 - [Serilum/Tree-Harvester](https://github.com/Serilum/Tree-Harvester) - 🌲 Harvest full trees and huge mushrooms instantly with an axe. Includes fast leaf decay and sapling placement. Also works for warped (nether) trees. Become a master tree chopper quick in no time.
 - [destruc7i0n/crafting](https://github.com/destruc7i0n/crafting) - Website for generating Minecraft crafting recipe JSON files
-- [neoforged/NeoForge](https://github.com/neoforged/NeoForge) - Neo Modding API for Minecraft: Java Edition, based on Forge
+- [neoforged/NeoForge](https://github.com/neoforged/NeoForge) - A modding API for Minecraft: Java Edition, based on Forge
 - [ryanhcode/sable](https://github.com/ryanhcode/sable) - Interactive physics moving block structures!
 - [Creators-of-Aeronautics/Simulated-Project](https://github.com/Creators-of-Aeronautics/Simulated-Project) - Build anything from airships to planes and cars!
 - [Creators-of-Create/Create](https://github.com/Creators-of-Create/Create) - [NeoForge Mod] Building Tools and Aesthetic Technology
