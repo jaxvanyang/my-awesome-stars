@@ -6,6 +6,7 @@
 ## Contents
 
 - [agent](#agent)
+- [ai-agent](#ai-agent)
 - [algorithms](#algorithms)
 - [android](#android)
 - [api](#api)
@@ -239,6 +240,10 @@
 ## agent 
 
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
+
+## ai-agent 
+
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording, mcp server and AI-agent
 
 ## algorithms 
 
