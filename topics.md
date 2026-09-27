@@ -1768,7 +1768,7 @@
 - [coreutils/coreutils](https://github.com/coreutils/coreutils) - Public mirror. Pull requests and Issues accepted
 - [rust-lang/nomicon](https://github.com/rust-lang/nomicon) - The Dark Arts of Advanced and Unsafe Rust Programming
 - [lahwaacz/Scripts](https://github.com/lahwaacz/Scripts) - 
-- [koverstreet/bcachefs](https://github.com/koverstreet/bcachefs) - 
+- [koverstreet/bcachefs](https://github.com/koverstreet/bcachefs) - Archived - bcachefs development has moved to koverstreet/bcachefs-tools (the kernel code is in fs/ there). Please file issues and PRs there.
 - [cheusov/dictd](https://github.com/cheusov/dictd) - Client/server software, human language dictionary databases, and tools supporting the DICT protocol (RFC 2229)
 - [andyholmes/valent](https://github.com/andyholmes/valent) - Connect, control and sync devices
 - [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) - Next generation Cosmic desktop environment
