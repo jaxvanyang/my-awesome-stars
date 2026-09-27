@@ -101,7 +101,7 @@
 - [mkj/dropbear](https://github.com/mkj/dropbear) - Dropbear SSH
 - [RsyncProject/rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 - [coreutils/coreutils](https://github.com/coreutils/coreutils) - Public mirror. Pull requests and Issues accepted
-- [koverstreet/bcachefs](https://github.com/koverstreet/bcachefs) - 
+- [koverstreet/bcachefs](https://github.com/koverstreet/bcachefs) - Archived - bcachefs development has moved to koverstreet/bcachefs-tools (the kernel code is in fs/ there). Please file issues and PRs there.
 - [cheusov/dictd](https://github.com/cheusov/dictd) - Client/server software, human language dictionary databases, and tools supporting the DICT protocol (RFC 2229)
 - [andyholmes/valent](https://github.com/andyholmes/valent) - Connect, control and sync devices
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
