@@ -472,6 +472,7 @@
 
 ## cli 
 
+- [Drew-Chase/sievemc](https://github.com/Drew-Chase/sievemc) - A cli and desktop tool for detecting and filtering minecraft mod jars by side - client-only, server-only, or both.  Supports Fabric, NeoForge, and Forge mod formats
 - [taiki-e/cargo-llvm-cov](https://github.com/taiki-e/cargo-llvm-cov) - Cargo subcommand to easily use LLVM source-based code coverage (-C instrument-coverage).
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
@@ -1460,6 +1461,7 @@
 
 ## minecraft 
 
+- [Drew-Chase/sievemc](https://github.com/Drew-Chase/sievemc) - A cli and desktop tool for detecting and filtering minecraft mod jars by side - client-only, server-only, or both.  Supports Fabric, NeoForge, and Forge mod formats
 - [Serilum/Tree-Harvester](https://github.com/Serilum/Tree-Harvester) - 🌲 Harvest full trees and huge mushrooms instantly with an axe. Includes fast leaf decay and sapling placement. Also works for warped (nether) trees. Become a master tree chopper quick in no time.
 - [destruc7i0n/crafting](https://github.com/destruc7i0n/crafting) - Website for generating Minecraft crafting recipe JSON files
 - [neoforged/NeoForge](https://github.com/neoforged/NeoForge) - A modding API for Minecraft: Java Edition, based on Forge
@@ -2307,6 +2309,7 @@
 
 ## rust 
 
+- [Drew-Chase/sievemc](https://github.com/Drew-Chase/sievemc) - A cli and desktop tool for detecting and filtering minecraft mod jars by side - client-only, server-only, or both.  Supports Fabric, NeoForge, and Forge mod formats
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [andredalbosco/wypst](https://github.com/andredalbosco/wypst) - Typst math typesetting for the web.
