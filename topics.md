@@ -472,6 +472,7 @@
 
 ## cli 
 
+- [SirCesarium/modcrawl](https://github.com/SirCesarium/modcrawl) - Detect, inspect, and analyze Minecraft mods and plugins from JARs.
 - [Drew-Chase/sievemc](https://github.com/Drew-Chase/sievemc) - A cli and desktop tool for detecting and filtering minecraft mod jars by side - client-only, server-only, or both.  Supports Fabric, NeoForge, and Forge mod formats
 - [taiki-e/cargo-llvm-cov](https://github.com/taiki-e/cargo-llvm-cov) - Cargo subcommand to easily use LLVM source-based code coverage (-C instrument-coverage).
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -1271,6 +1272,7 @@
 
 ## library 
 
+- [SirCesarium/modcrawl](https://github.com/SirCesarium/modcrawl) - Detect, inspect, and analyze Minecraft mods and plugins from JARs.
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [sepandhaghighi/art](https://github.com/sepandhaghighi/art) - 🎨 ASCII art library for Python
 - [wolph/python-progressbar](https://github.com/wolph/python-progressbar) - Progressbar 2 - A progress bar for Python 2 and Python 3 - "pip install progressbar2"
@@ -1462,6 +1464,7 @@
 
 ## minecraft 
 
+- [SirCesarium/modcrawl](https://github.com/SirCesarium/modcrawl) - Detect, inspect, and analyze Minecraft mods and plugins from JARs.
 - [Drew-Chase/sievemc](https://github.com/Drew-Chase/sievemc) - A cli and desktop tool for detecting and filtering minecraft mod jars by side - client-only, server-only, or both.  Supports Fabric, NeoForge, and Forge mod formats
 - [Serilum/Tree-Harvester](https://github.com/Serilum/Tree-Harvester) - 🌲 Harvest full trees and huge mushrooms instantly with an axe. Includes fast leaf decay and sapling placement. Also works for warped (nether) trees. Become a master tree chopper quick in no time.
 - [destruc7i0n/crafting](https://github.com/destruc7i0n/crafting) - Website for generating Minecraft crafting recipe JSON files
@@ -2309,6 +2312,7 @@
 
 ## rust 
 
+- [SirCesarium/modcrawl](https://github.com/SirCesarium/modcrawl) - Detect, inspect, and analyze Minecraft mods and plugins from JARs.
 - [Drew-Chase/sievemc](https://github.com/Drew-Chase/sievemc) - A cli and desktop tool for detecting and filtering minecraft mod jars by side - client-only, server-only, or both.  Supports Fabric, NeoForge, and Forge mod formats
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
