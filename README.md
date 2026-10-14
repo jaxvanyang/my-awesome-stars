@@ -834,6 +834,7 @@
 
 ## Rust 
 
+- [SirCesarium/modcrawl](https://github.com/SirCesarium/modcrawl) - Detect, inspect, and analyze Minecraft mods and plugins from JARs.
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [rust-lang/cmake-rs](https://github.com/rust-lang/cmake-rs) - Rust build dependency for running cmake
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
