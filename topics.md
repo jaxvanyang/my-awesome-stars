@@ -1464,6 +1464,7 @@
 
 ## minecraft 
 
+- [vectorwing/FarmersDelight](https://github.com/vectorwing/FarmersDelight) - A cozy expansion to farming and cooking in Minecraft.
 - [SirCesarium/modcrawl](https://github.com/SirCesarium/modcrawl) - Detect, inspect, and analyze Minecraft mods and plugins from JARs.
 - [Drew-Chase/sievemc](https://github.com/Drew-Chase/sievemc) - A cli and desktop tool for detecting and filtering minecraft mod jars by side - client-only, server-only, or both.  Supports Fabric, NeoForge, and Forge mod formats
 - [Serilum/Tree-Harvester](https://github.com/Serilum/Tree-Harvester) - 🌲 Harvest full trees and huge mushrooms instantly with an axe. Includes fast leaf decay and sapling placement. Also works for warped (nether) trees. Become a master tree chopper quick in no time.
