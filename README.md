@@ -437,6 +437,7 @@
 
 ## JavaScript 
 
+- [teaconmc/Xiaozhong](https://github.com/teaconmc/Xiaozhong) - 正山小种是一篇以尽可能简洁的篇幅带领 Minecraft 玩家入门的 Forge 模组开发指南。这篇指南立项于 2022 年 2 月 7 日，由 TeaCon 执行委员会负责维护，主要目的是使读者阅读后能够尽快开始模组开发，并加入到 TeaCon 的参赛选手大家庭中来。
 - [bryanbraun/anchorjs](https://github.com/bryanbraun/anchorjs) - Add deep anchor links to your docs.
 - [andredalbosco/wypst](https://github.com/andredalbosco/wypst) - Typst math typesetting for the web.
 - [w3ntao/q-bird](https://github.com/w3ntao/q-bird) - Flappy Bird with Q-learning
@@ -894,6 +895,7 @@
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
 - [Thomblin/xml_schema_generator](https://github.com/Thomblin/xml_schema_generator) - A collection of helper functions to read a given XML string or stream using quick_xml and generating a Struct (as String) that you can use in your Rust program to serialize or deserialize XML of the s
 - [TheOpenDictionary/odict](https://github.com/TheOpenDictionary/odict) - A blazingly-fast, offline-first format and toolchain for lexical data 📖
+- [zed-extensions/kotlin](https://github.com/zed-extensions/kotlin) - Kotlin support
 - [modrinth/code](https://github.com/modrinth/code) - The Modrinth monorepo containing all code which powers Modrinth!
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
@@ -1065,7 +1067,6 @@
 
 ## Tree-sitter Query 
 
-- [zed-extensions/kotlin](https://github.com/zed-extensions/kotlin) - Kotlin support
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 
 ## TypeScript 
