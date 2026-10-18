@@ -1464,6 +1464,7 @@
 
 ## minecraft 
 
+- [Luke100000/ImmersiveMelodies](https://github.com/Luke100000/ImmersiveMelodies) - Play custom melodies on various instruments and annoy your friends!
 - [vectorwing/FarmersDelight](https://github.com/vectorwing/FarmersDelight) - A cozy expansion to farming and cooking in Minecraft.
 - [SirCesarium/modcrawl](https://github.com/SirCesarium/modcrawl) - Detect, inspect, and analyze Minecraft mods and plugins from JARs.
 - [Drew-Chase/sievemc](https://github.com/Drew-Chase/sievemc) - A cli and desktop tool for detecting and filtering minecraft mod jars by side - client-only, server-only, or both.  Supports Fabric, NeoForge, and Forge mod formats
