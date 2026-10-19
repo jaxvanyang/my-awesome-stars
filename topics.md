@@ -1647,6 +1647,7 @@
 
 ## others 
 
+- [zhongbai2333/NetMusicCanPlayBili](https://github.com/zhongbai2333/NetMusicCanPlayBili) - Adds Bilibili video audio playback support to NetMusic.
 - [teaconmc/Xiaozhong](https://github.com/teaconmc/Xiaozhong) - 正山小种是一篇以尽可能简洁的篇幅带领 Minecraft 玩家入门的 Forge 模组开发指南。这篇指南立项于 2022 年 2 月 7 日，由 TeaCon 执行委员会负责维护，主要目的是使读者阅读后能够尽快开始模组开发，并加入到 TeaCon 的参赛选手大家庭中来。
 - [xkball/x3dmap](https://github.com/xkball/x3dmap) - 
 - [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool
