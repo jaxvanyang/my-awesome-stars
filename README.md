@@ -368,6 +368,7 @@
 
 ## Java 
 
+- [ming-sc/NetMusic-BetterLogin](https://github.com/ming-sc/NetMusic-BetterLogin) - 
 - [zhongbai2333/NetMusicCanPlayBili](https://github.com/zhongbai2333/NetMusicCanPlayBili) - Adds Bilibili video audio playback support to NetMusic.
 - [Luke100000/ImmersiveMelodies](https://github.com/Luke100000/ImmersiveMelodies) - Play custom melodies on various instruments and annoy your friends!
 - [vectorwing/FarmersDelight](https://github.com/vectorwing/FarmersDelight) - A cozy expansion to farming and cooking in Minecraft.
