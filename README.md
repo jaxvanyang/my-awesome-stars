@@ -194,7 +194,7 @@
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine
 - [TASEmulators/desmume](https://github.com/TASEmulators/desmume) - DeSmuME is a Nintendo DS emulator
-- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
+- [SunshineStream/Sunshine](https://github.com/SunshineStream/Sunshine) - Self-hosted game stream host for Moonlight.
 - [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [fph/bastet](https://github.com/fph/bastet) - Evil falling block game. http://fph.altervista.org/prog/bastet.html
@@ -436,7 +436,7 @@
 - [jsquared21/Intro-to-Java-Programming](https://github.com/jsquared21/Intro-to-Java-Programming) - Solutions to Programming Exercises in Introduction to Java Programming, Comprehensive Version (10th Edition) by Y. Daniel Liang
 - [Crazyokd/Enjoy-Design-Pattern](https://github.com/Crazyokd/Enjoy-Design-Pattern) - 品尝【设计模式】
 - [AlmasB/FXTutorials](https://github.com/AlmasB/FXTutorials) - A collection of JavaFX tutorials from my YouTube channel
-- [PureWriter/desktop](https://github.com/PureWriter/desktop) - Pure Writer Desktop
+- [PureWriter/desktop](https://github.com/PureWriter/desktop) - Pure Writer Desktop: source of the earlier 1.x app. Get the current version for Windows and macOS at writer.drakeet.com/desktop
 - [kevin-wayne/algs4](https://github.com/kevin-wayne/algs4) - Algorithms, 4th edition textbook code and libraries
 - [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
 - [jackpal/Android-Terminal-Emulator](https://github.com/jackpal/Android-Terminal-Emulator) - A VT-100 terminal emulator for the Android OS
