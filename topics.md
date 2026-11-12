@@ -2064,7 +2064,7 @@
 - [fcitx/fcitx5](https://github.com/fcitx/fcitx5) - Next generation of fcitx, cross-platform input method framework.
 - [RobVe4/NordArc](https://github.com/RobVe4/NordArc) - Arc GTK / Gnome Shell customisation based on the Nord color palette
 - [eastmountyxz/CSDNBlog-Security-Based](https://github.com/eastmountyxz/CSDNBlog-Security-Based) - 为了更好地管理博客文章，分享更好的知识，该系列资源为作者CSDN博客的备份文件。本资源为网络安全自学篇，包括作者安全工具利用、Web渗透、系统安全、CVE漏洞复现、安全论文及会议等知识，希望对您有所帮助！一起加油。
-- [PureWriter/desktop](https://github.com/PureWriter/desktop) - Pure Writer Desktop
+- [PureWriter/desktop](https://github.com/PureWriter/desktop) - Pure Writer Desktop: source of the earlier 1.x app. Get the current version for Windows and macOS at writer.drakeet.com/desktop
 - [kevin-wayne/algs4](https://github.com/kevin-wayne/algs4) - Algorithms, 4th edition textbook code and libraries
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [jackpal/Android-Terminal-Emulator](https://github.com/jackpal/Android-Terminal-Emulator) - A VT-100 terminal emulator for the Android OS
