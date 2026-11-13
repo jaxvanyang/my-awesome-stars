@@ -684,6 +684,7 @@
 
 ## Python 
 
+- [alfizari/Sekiro-Save-Editor](https://github.com/alfizari/Sekiro-Save-Editor) - Sekiro: Shadows Die Twice save editor for PC and PS4
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal. Now with hsql, your agent's favorite sql client.
