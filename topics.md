@@ -1668,6 +1668,7 @@
 
 ## others 
 
+- [alfizari/Sekiro-Save-Editor](https://github.com/alfizari/Sekiro-Save-Editor) - Sekiro: Shadows Die Twice save editor for PC and PS4
 - [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) - DroidDeck brings the SteamOS experience to Android
 - [ming-sc/NetMusic-BetterLogin](https://github.com/ming-sc/NetMusic-BetterLogin) - 
 - [zhongbai2333/NetMusicCanPlayBili](https://github.com/zhongbai2333/NetMusicCanPlayBili) - Adds Bilibili video audio playback support to NetMusic.
