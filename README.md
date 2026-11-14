@@ -1080,6 +1080,7 @@
 
 ## TypeScript 
 
+- [harttle/md-padding](https://github.com/harttle/md-padding) - AST-based padding for Markdown and natural language, improving readability in multilingual documents. Supports Vim and VSCode.
 - [Drew-Chase/sievemc](https://github.com/Drew-Chase/sievemc) - A cli and desktop tool for detecting and filtering minecraft mod jars by side - client-only, server-only, or both.  Supports Fabric, NeoForge, and Forge mod formats
 - [stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended) - Dynamically generate GitHub stats for your READMEs.
 - [destruc7i0n/crafting](https://github.com/destruc7i0n/crafting) - Website for generating Minecraft crafting recipe JSON files
