@@ -848,6 +848,7 @@
 
 ## Rust 
 
+- [ototoi/pbrt-r4](https://github.com/ototoi/pbrt-r4) - pbrt-r4 is a Rust implementation of pbrt-v4
 - [SirCesarium/modcrawl](https://github.com/SirCesarium/modcrawl) - Detect, inspect, and analyze Minecraft mods and plugins from JARs.
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [rust-lang/cmake-rs](https://github.com/rust-lang/cmake-rs) - Rust build dependency for running cmake
@@ -907,7 +908,6 @@
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
 - [Thomblin/xml_schema_generator](https://github.com/Thomblin/xml_schema_generator) - A collection of helper functions to read a given XML string or stream using quick_xml and generating a Struct (as String) that you can use in your Rust program to serialize or deserialize XML of the s
 - [TheOpenDictionary/odict](https://github.com/TheOpenDictionary/odict) - A blazingly-fast, offline-first format and toolchain for lexical data 📖
-- [zed-extensions/kotlin](https://github.com/zed-extensions/kotlin) - Kotlin support
 - [modrinth/code](https://github.com/modrinth/code) - The Modrinth monorepo containing all code which powers Modrinth!
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
@@ -1077,6 +1077,7 @@
 
 ## Tree-sitter Query 
 
+- [zed-extensions/kotlin](https://github.com/zed-extensions/kotlin) - Kotlin support
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 
 ## TypeScript 
