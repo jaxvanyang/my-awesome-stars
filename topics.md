@@ -1670,6 +1670,7 @@
 
 ## others 
 
+- [ototoi/pbrt-r4](https://github.com/ototoi/pbrt-r4) - pbrt-r4 is a Rust implementation of pbrt-v4
 - [misode/mcmeta](https://github.com/misode/mcmeta) - Processed, version controlled history of Minecraft's generated data and assets
 - [alfizari/Sekiro-Save-Editor](https://github.com/alfizari/Sekiro-Save-Editor) - Sekiro: Shadows Die Twice save editor for PC and PS4
 - [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) - DroidDeck brings the SteamOS experience to Android
