@@ -156,6 +156,7 @@
 - [riscv-collab/riscv-gnu-toolchain](https://github.com/riscv-collab/riscv-gnu-toolchain) - GNU toolchain for RISC-V, including GCC
 - [rbtylee/tutorial-jsonc](https://github.com/rbtylee/tutorial-jsonc) - 
 - [json-c/json-c](https://github.com/json-c/json-c) - https://github.com/json-c/json-c is the official code repository for json-c.  See the wiki for release tarballs for download.  API docs at http://json-c.github.io/json-c/
+- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - A better-looking desktop music player for local files, media servers, and plugins. For macOS, Windows and Linux.
 - [blabla-my/CSAPP-malloclab](https://github.com/blabla-my/CSAPP-malloclab) - 97 points on traces. Optimization for the realloc and binary
 - [Hansimov/csapp](https://github.com/Hansimov/csapp) - 个人整理的《深入理解计算机系统》中文电子版（原书第 3 版）与实验材料：https://hansimov.gitbook.io/csapp/
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -1178,7 +1179,6 @@
 - [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Vue.js Framework - ready-to-use Vue components with Material Design, free forever.
 - [simple-uploader/vue-uploader](https://github.com/simple-uploader/vue-uploader) - A Vue.js upload component powered by simple-uploader.js
 - [lrfbeyond/fast-uploader](https://github.com/lrfbeyond/fast-uploader) - Some things about files upload quickly.
-- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [bradtraversy/vue-crash-2021](https://github.com/bradtraversy/vue-crash-2021) - Task Tracker project from youtube crash course
 - [jsososo/NeteaseMusic](https://github.com/jsososo/NeteaseMusic) - 网易云音乐 & QQ音乐 & 咪咕音乐 第三方 web端 (可播放 vip、下架歌曲)
 
