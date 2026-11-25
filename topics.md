@@ -180,7 +180,6 @@
 - [productivity](#productivity)
 - [programming](#programming)
 - [programming-language](#programming-language)
-- [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
 - [pytorch](#pytorch)
@@ -773,7 +772,6 @@
 - [SabakiHQ/Sabaki](https://github.com/SabakiHQ/Sabaki) - An elegant Go board and SGF editor for a more civilized age.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
-- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 
@@ -837,6 +835,7 @@
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [ubuntu-flutter-community/musicpod](https://github.com/ubuntu-flutter-community/musicpod) - Music, radio, television and podcast player for Ubuntu, MacOs and maybe soon Android
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - A better-looking desktop music player for local files, media servers, and plugins. For macOS, Windows and Linux.
 
 ## flutter-apps 
 
@@ -1194,7 +1193,7 @@
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Vue.js Framework - ready-to-use Vue components with Material Design, free forever.
-- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - A better-looking desktop music player for local files, media servers, and plugins. For macOS, Windows and Linux.
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [jekyll/jekyll-admin](https://github.com/jekyll/jekyll-admin) - A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
 - [LeoRiether/CodeforcesPP](https://github.com/LeoRiether/CodeforcesPP) - Codeforces extension pack
@@ -1358,7 +1357,7 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
-- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - A better-looking desktop music player for local files, media servers, and plugins. For macOS, Windows and Linux.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Alpine Linux and Raspberry Pi OS. Includes client config and manag
@@ -1397,7 +1396,7 @@
 
 - [Moustachauve/cookie-editor](https://github.com/Moustachauve/cookie-editor) - A powerful browser extension to create, edit and delete cookies
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - A better-looking desktop music player for local files, media servers, and plugins. For macOS, Windows and Linux.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 
 ## machine-learning 
@@ -1436,7 +1435,7 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
-- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - A better-looking desktop music player for local files, media servers, and plugins. For macOS, Windows and Linux.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 
 ## malware 
@@ -1475,6 +1474,7 @@
 - [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording, mcp server and AI-agent
+- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - A better-looking desktop music player for local files, media servers, and plugins. For macOS, Windows and Linux.
 
 ## mcp-server 
 
@@ -1487,6 +1487,7 @@
 
 ## minecraft 
 
+- [Antikythera-Studios/epicfight](https://github.com/Antikythera-Studios/epicfight) - Epic Fight - A soulslike minecraft mod, adding lots of game mechanics, features, and game changing things for you to discover in your adventures !
 - [Luke100000/ImmersiveMelodies](https://github.com/Luke100000/ImmersiveMelodies) - Play custom melodies on various instruments and annoy your friends!
 - [vectorwing/FarmersDelight](https://github.com/vectorwing/FarmersDelight) - A cozy expansion to farming and cooking in Minecraft.
 - [SirCesarium/modcrawl](https://github.com/SirCesarium/modcrawl) - Detect, inspect, and analyze Minecraft mods and plugins from JARs.
@@ -1550,7 +1551,7 @@
 - [metabrainz/picard](https://github.com/metabrainz/picard) - Picard is a cross-platform music tagger powered by the MusicBrainz database
 - [spl0k/supysonic](https://github.com/spl0k/supysonic) - Supysonic is a Python implementation of the Subsonic server API.
 - [enricocid/Music-Player-GO](https://github.com/enricocid/Music-Player-GO) - 🎶🎼 Very slim music player 👨‍🎤 100% made in Italy 🍕🌳🌞🍝🌄
-- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - A better-looking desktop music player for local files, media servers, and plugins. For macOS, Windows and Linux.
 - [DIYgod/APlayer](https://github.com/DIYgod/APlayer) - :lollipop: Wow, such a beautiful HTML5 music player
 - [jeffreytse/jekyll-spaceship](https://github.com/jeffreytse/jekyll-spaceship) - 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, audio, youtube, vimeo, dailymotion, soundcloud, spotify, etc.
 
@@ -1670,6 +1671,7 @@
 
 ## others 
 
+- [wangzt-halo/MV2DFusion](https://github.com/wangzt-halo/MV2DFusion) - MV2DFusion
 - [ototoi/pbrt-r4](https://github.com/ototoi/pbrt-r4) - pbrt-r4 is a Rust implementation of pbrt-v4
 - [misode/mcmeta](https://github.com/misode/mcmeta) - Processed, version controlled history of Minecraft's generated data and assets
 - [alfizari/Sekiro-Save-Editor](https://github.com/alfizari/Sekiro-Save-Editor) - Sekiro: Shadows Die Twice save editor for PC and PS4
@@ -2172,10 +2174,6 @@
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 
-## pwa 
-
-- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
-
 ## python 
 
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
@@ -2435,6 +2433,7 @@
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [spl0k/supysonic](https://github.com/spl0k/supysonic) - Supysonic is a Python implementation of the Subsonic server API.
+- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - A better-looking desktop music player for local files, media servers, and plugins. For macOS, Windows and Linux.
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Alpine Linux and Raspberry Pi OS. Includes client config and manag
 
 ## server 
@@ -2689,7 +2688,6 @@
 - [linkie/linkie-web](https://github.com/linkie/linkie-web) - The source code of the backend server and frontend webpage of Linkie Web
 - [WebChatting/chatting-vue](https://github.com/WebChatting/chatting-vue) - The frontend of chatting, implementation with vue.
 - [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Vue.js Framework - ready-to-use Vue components with Material Design, free forever.
-- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [Liu233w/acm-statistics](https://github.com/Liu233w/acm-statistics) - Note: The website is rewritten in https://github.com/Liu233w/ojhunt-lite
 - [jsososo/NeteaseMusic](https://github.com/jsososo/NeteaseMusic) - 网易云音乐 & QQ音乐 & 咪咕音乐 第三方 web端 (可播放 vip、下架歌曲)
 
@@ -2739,7 +2737,7 @@
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
-- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - A better-looking desktop music player for local files, media servers, and plugins. For macOS, Windows and Linux.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 
