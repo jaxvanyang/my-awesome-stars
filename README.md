@@ -375,6 +375,7 @@
 
 ## Java 
 
+- [Antikythera-Studios/epicfight](https://github.com/Antikythera-Studios/epicfight) - Epic Fight - A soulslike minecraft mod, adding lots of game mechanics, features, and game changing things for you to discover in your adventures !
 - [ming-sc/NetMusic-BetterLogin](https://github.com/ming-sc/NetMusic-BetterLogin) - 
 - [zhongbai2333/NetMusicCanPlayBili](https://github.com/zhongbai2333/NetMusicCanPlayBili) - Adds Bilibili video audio playback support to NetMusic.
 - [Luke100000/ImmersiveMelodies](https://github.com/Luke100000/ImmersiveMelodies) - Play custom melodies on various instruments and annoy your friends!
@@ -685,6 +686,7 @@
 
 ## Python 
 
+- [wangzt-halo/MV2DFusion](https://github.com/wangzt-halo/MV2DFusion) - MV2DFusion
 - [misode/mcmeta](https://github.com/misode/mcmeta) - Processed, version controlled history of Minecraft's generated data and assets
 - [alfizari/Sekiro-Save-Editor](https://github.com/alfizari/Sekiro-Save-Editor) - Sekiro: Shadows Die Twice save editor for PC and PS4
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
