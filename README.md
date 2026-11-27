@@ -686,6 +686,7 @@
 
 ## Python 
 
+- [OpenShot/openshot-qt](https://github.com/OpenShot/openshot-qt) - OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
 - [wangzt-halo/MV2DFusion](https://github.com/wangzt-halo/MV2DFusion) - MV2DFusion
 - [misode/mcmeta](https://github.com/misode/mcmeta) - Processed, version controlled history of Minecraft's generated data and assets
 - [alfizari/Sekiro-Save-Editor](https://github.com/alfizari/Sekiro-Save-Editor) - Sekiro: Shadows Die Twice save editor for PC and PS4
